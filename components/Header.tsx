@@ -1,15 +1,34 @@
+import styles from "./Header.module.css";
+import Image from "next/image";
+
 export default function Header() {
   return (
-    <header>
-      <h2>GunsAtlas</h2>
+    <header className={styles.header}>
+      <a href="#" className={styles.logo}>
+        <Image
+          src="/images/Logo.png"
+          alt="GunsAtlas"
+          width={170}
+          height={60}
+          priority
+        />
+      </a>
 
-      <nav>
-        <a href="#">Начало</a>
-        <a href="#">Пистолети</a>
-        <a href="#">Револвери</a>
-        <a href="#">Боеприпаси</a>
-        <a href="#">За проекта</a>
-      </nav>
+      <nav className={styles.navigation}>
+  <a href="#">Начало</a>
+  <a href="#">Калибри</a>
+  <a href="#">Пистолети</a>
+  <a href="#">Производители</a>
+  <a href="#">История</a>
+  <a href="#">Законодателство</a>
+  <a href="#">За проекта</a>
+</nav>
+
+      <div className={styles.language}>
+        <button className={styles.active}>БГ</button>
+        <span>|</span>
+        <button>EN</button>
+      </div>
     </header>
   );
 }
