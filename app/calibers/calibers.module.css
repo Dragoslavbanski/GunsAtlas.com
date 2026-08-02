@@ -1,0 +1,127 @@
+.page {
+  background: #0b0b0b;
+  min-height: 100vh;
+  color: #f2f2f2;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 40px 120px;
+}
+
+.container h1 {
+  color: #dfc263;
+  font-size: 56px;
+  font-weight: 700;
+  margin-bottom: 35px;
+  letter-spacing: 1px;
+}
+
+.container p {
+  font-size: 20px;
+  line-height: 1.9;
+  color: #d6d6d6;
+  margin-bottom: 28px;
+}
+
+/* ===========================
+   Hero Info
+=========================== */
+
+.heroInfo {
+  background: #0b0b0b;
+
+  padding: 32px 20px 40px;
+
+  text-align: center;
+
+  border-top: 1px solid #1d1d1d;
+  border-bottom: 1px solid #1d1d1d;
+}
+
+.heroInfo p {
+  margin: 0;
+
+  color: #d7c08b;
+
+  font-size: 18px;
+  font-weight: 500;
+
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+/* ===========================
+   Table of Contents
+=========================== */
+
+.container nav {
+  margin: 70px 0;
+  padding: 35px 40px;
+  background: #141414;
+  border: 1px solid #2a2a2a;
+  border-radius: 16px;
+}
+
+.container nav h2 {
+  color: #dfc263;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+.container nav h3 {
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 12px;
+  font-size: 20px;
+}
+
+.container nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.container nav li {
+  margin: 10px 0;
+}
+
+.container nav a {
+  color: #d8d8d8;
+  text-decoration: none;
+  transition: color .25s ease;
+}
+
+.container nav a:hover {
+  color: #dfc263;
+}
+
+/* ===========================
+   Divider
+=========================== */
+
+.container hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #7d6730,
+    transparent
+  );
+  margin: 60px 0;
+}
+
+/* ===========================
+   Sections
+=========================== */
+
+.container section {
+  margin-bottom: 70px;
+}
+
+.container section h2 {
+  color: #dfc263;
+  font-size: 36px;
+  margin-bottom: 22px;
+}

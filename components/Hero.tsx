@@ -32,8 +32,9 @@ export default function Hero() {
           </span>
 
           <h1 className={styles.title}>
-            GunsAtlas
-          </h1>
+  <span className={styles.guns}>Guns</span>
+  <span className={styles.atlas}>Atlas</span>
+</h1>
 
           <p className={styles.description}>
             Explore the history, development and technical characteristics of

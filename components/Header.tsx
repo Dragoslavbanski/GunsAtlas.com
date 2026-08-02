@@ -6,12 +6,12 @@ export default function Header() {
     <header className={styles.header}>
       <a href="#" className={styles.logo}>
         <Image
-          src="/images/Logo.png"
-          alt="GunsAtlas"
-          width={170}
-          height={60}
-          priority
-        />
+  src="/images/Logo.png"
+  alt="GunsAtlas"
+  width={240}
+  height={74}
+  priority
+/>
       </a>
 
       <nav className={styles.navigation}>
