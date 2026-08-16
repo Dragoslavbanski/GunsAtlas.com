@@ -7,6 +7,10 @@
   overflow: hidden;
 }
 
+/* ===========================
+   Hero Image
+=========================== */
+
 .image {
   width: 100%;
   height: 100%;
@@ -16,28 +20,53 @@
 
   display: block;
 
- filter: brightness(1.05) contrast(1.03) saturate(1.08);
+  filter: brightness(1.05) contrast(1.03) saturate(1.08);
 }
+
+/* ===========================
+   Small GunsAtlas Logo
+=========================== */
+
+.heroLogo {
+  position: absolute;
+  top: -23px;
+  left: -3px;
+  z-index: 10;
+}
+
+.heroLogo img {
+  display: block;
+  width: 230px;
+  height: auto;
+}
+
+/* ===========================
+   Overlay
+=========================== */
 
 .overlay {
   position: absolute;
   inset: 0;
 
   background: linear-gradient(
-  to bottom,
-  rgba(0, 0, 0, 0),
-  rgba(0, 0, 0, 0.05),
-  rgba(0, 0, 0, 0.12)
-);
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.05),
+    rgba(0, 0, 0, 0.12)
+  );
 
   pointer-events: none;
 }
+
+/* ===========================
+   Content
+=========================== */
 
 .content {
   position: absolute;
   left: 0;
   right: 0;
-  bottom:150px;
+  bottom: 150px;
 
   display: flex;
   justify-content: center;
@@ -56,6 +85,10 @@
 
   text-align: center;
 }
+
+/* ===========================
+   Bottom Fade
+=========================== */
 
 .bottomFade {
   position: absolute;

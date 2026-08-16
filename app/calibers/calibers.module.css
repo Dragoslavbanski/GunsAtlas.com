@@ -4,6 +4,14 @@
   color: #f2f2f2;
 }
 
+.pageLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 12px;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -12,17 +20,47 @@
 
 .container h1 {
   color: #dfc263;
+
+  font-family: var(--font-sora);
+
   font-size: 56px;
-  font-weight: 700;
-  margin-bottom: 35px;
+  font-weight: 600;
+
+  text-align: center;
+
   letter-spacing: 1px;
+
+  margin: 0 0 30px;
 }
 
 .container p {
+  max-width: 900px;
+
+  margin: 0 auto 35px;
+
+  text-align: center;
+
   font-size: 20px;
   line-height: 1.9;
+
   color: #d6d6d6;
-  margin-bottom: 28px;
+}
+
+/* ===========================
+   Основен текст в секциите
+=========================== */
+
+.container section p {
+  max-width: 900px;
+
+  margin: 0 auto 28px;
+
+  text-align: left;
+
+  font-size: 20px;
+  line-height: 1.75;
+
+  color: #d6d6d6;
 }
 
 /* ===========================
@@ -59,22 +97,27 @@
 .container nav {
   margin: 70px 0;
   padding: 35px 40px;
+
   background: #141414;
+
   border: 1px solid #2a2a2a;
   border-radius: 16px;
 }
 
 .container nav h2 {
   color: #dfc263;
+
   font-size: 30px;
+
   margin-bottom: 25px;
 }
 
-.container nav h3 {
-  color: #ffffff;
-  margin-top: 30px;
-  margin-bottom: 12px;
-  font-size: 20px;
+.container h3 {
+  color: #dfc263;
+  font-size: 28px;
+  font-weight: 600;
+  margin: 50px 0 20px;
+  letter-spacing: 0.5px;
 }
 
 .container nav ul {
@@ -88,7 +131,9 @@
 
 .container nav a {
   color: #d8d8d8;
+
   text-decoration: none;
+
   transition: color .25s ease;
 }
 
@@ -102,13 +147,16 @@
 
 .container hr {
   border: 0;
+
   height: 1px;
+
   background: linear-gradient(
     to right,
     transparent,
     #7d6730,
     transparent
   );
+
   margin: 60px 0;
 }
 
@@ -122,6 +170,8 @@
 
 .container section h2 {
   color: #dfc263;
+
   font-size: 36px;
+
   margin-bottom: 22px;
 }

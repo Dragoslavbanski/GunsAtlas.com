@@ -1,0 +1,130 @@
+.tableWrapper {
+  width: 100%;
+  max-width: 1100px;
+  margin: 40px auto;
+  overflow-x: auto;
+
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+
+  background: #111111;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+
+  color: #d6d6d6;
+
+  font-size: 17px;
+}
+
+/* ===========================
+   Header
+=========================== */
+
+.table thead {
+  background: #181818;
+}
+
+.headerCell {
+  padding: 18px 20px;
+
+  color: #dfc263;
+
+  font-family: var(--font-sora);
+
+  font-size: 16px;
+  font-weight: 600;
+
+  text-align: left;
+
+  border-bottom: 1px solid #4a3e21;
+
+  cursor: pointer;
+
+  user-select: none;
+
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.headerCell:hover {
+  background: #202020;
+  color: #f1d67d;
+}
+
+/* ===========================
+   Sort icon
+=========================== */
+
+.sortIcon {
+  display: inline-block;
+
+  margin-left: 8px;
+
+  color: #dfc263;
+
+  font-size: 14px;
+}
+
+/* ===========================
+   Rows
+=========================== */
+
+.row {
+  transition: background-color 0.2s ease;
+}
+
+.row:nth-child(even) {
+  background: #141414;
+}
+
+.row:nth-child(odd) {
+  background: #101010;
+}
+
+.row:hover {
+  background: #1d1d1d;
+}
+
+.table td {
+  padding: 15px 20px;
+
+  border-bottom: 1px solid #252525;
+
+  line-height: 1.5;
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ===========================
+   Mobile
+=========================== */
+
+@media (max-width: 768px) {
+  .tableWrapper {
+    margin: 30px auto;
+
+    border-radius: 8px;
+  }
+
+  .table {
+    min-width: 650px;
+
+    font-size: 15px;
+  }
+
+  .headerCell {
+    padding: 14px 16px;
+
+    font-size: 14px;
+  }
+
+  .table td {
+    padding: 12px 16px;
+  }
+}
