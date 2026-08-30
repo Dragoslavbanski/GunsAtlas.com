@@ -42,6 +42,7 @@ const theoryItems = [
 ];
 
 const rimfireItems = [
+  
   {
     id: "flobert",
     title: "6 mm Flobert",
@@ -61,6 +62,44 @@ const rimfireItems = [
   {
     id: "22-wmr",
     title: ".22 Winchester Magnum Rimfire (.22 WMR)",
+  },
+];
+const centerfireItems = [
+  {
+    id: "5-45x18-mpc",
+    title: "5.45×18 mm МПЦ",
+  },
+  {
+    id: "5-7x28",
+    title: "5.7×28 mm (SS190)",
+  },
+  {
+    id: "6-35x15-5-browning",
+    title: "6.35×15.5 mm HR (6.35 Browning / .25 ACP)",
+  },
+  {
+    id: "7-62x25-tokarev",
+    title: "7.62×25 mm Tokarev",
+  },
+  {
+    id: "7-63x25-mauser",
+    title: "7.63×25 mm Mauser (.30 Mauser)",
+  },
+  {
+    id: "7-65x17-browning",
+    title: "7.65×17 mm Browning (.32 ACP)",
+  },
+  {
+    id: "7-65x21-parabellum",
+    title: "7.65×21 mm Parabellum (.30 Luger)",
+  },
+  {
+  id: "7-65x25-borchardt",
+  title: "7.65×25 mm Borchardt",
+},
+  {
+    id: "8-5x26-mars",
+    title: "8.5×26 mm Mars (.330 Mars)",
   },
 ];
 
@@ -83,6 +122,16 @@ export default function TableOfContents() {
 
 <ul>
   {rimfireItems.map((item) => (
+    <li key={item.id}>
+      <a href={`#${item.id}`}>{item.title}</a>
+    </li>
+  ))}
+</ul>
+
+<h3>2. Патрони с централно възпламеняване</h3>
+
+<ul>
+  {centerfireItems.map((item) => (
     <li key={item.id}>
       <a href={`#${item.id}`}>{item.title}</a>
     </li>
