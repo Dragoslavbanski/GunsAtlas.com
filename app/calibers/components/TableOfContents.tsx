@@ -101,6 +101,14 @@ const centerfireItems = [
     id: "8-5x26-mars",
     title: "8.5×26 mm Mars (.330 Mars)",
   },
+  {
+  id: "9-17x-browning-short",
+  title: "9×17 mm Browning Short (.380 ACP)",
+},
+{
+  id: "9-18-ultra-police",
+  title: "9×18 mm Ultra / 9×18 mm Police",
+},
 ];
 
 export default function TableOfContents() {
