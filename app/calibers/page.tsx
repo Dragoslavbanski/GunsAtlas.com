@@ -1111,7 +1111,7 @@ export default function CalibersPage() {
 </Section>
 
 <Section
-  id="22-long-rifle"
+  id="22-lr"
   title=".22 Long Rifle (.22 LR)"
 >
   <img
@@ -5934,9 +5934,11 @@ export default function CalibersPage() {
 </Section>  
 
 
-<Section id="9x18-makarov">
+<Section
+  id="9x18-makarov"
+  title="9×18 mm Makarov (9×18 PM)"
+>
 
-  <h2>9×18 mm Makarov (9×18 PM)</h2>
 
   <img
     src="/images/calibers/cartridges/9x18PM.png"
@@ -6377,9 +6379,12 @@ export default function CalibersPage() {
 
 
 </Section>
-<Section id="9x18-pmm">
+<Section
+  id="9x18-pmm"
+  title="9×18 mm PMM"
+>
 
-  <h2>9×18 mm PMM</h2>
+  
 
   <img
     src="/images/calibers/cartridges/9x18 PMM.png"
