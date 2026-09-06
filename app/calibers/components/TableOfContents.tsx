@@ -109,6 +109,16 @@ const centerfireItems = [
   id: "9-18-ultra-police",
   title: "9×18 mm Ultra / 9×18 mm Police",
 },
+{
+  id: "9x18-makarov",
+  title: "9×18 mm Makarov (9×18 PM)",
+},
+
+{
+  id: "9x18-pmm",
+  title: "9×18 mm PMM",
+},
+
 ];
 
 export default function TableOfContents() {
