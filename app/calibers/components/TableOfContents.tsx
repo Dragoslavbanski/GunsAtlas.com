@@ -118,7 +118,10 @@ const centerfireItems = [
   id: "9x18-pmm",
   title: "9×18 mm PMM",
 },
-
+{
+  id: "9x19-parabellum",
+  title: "9×19 mm Luger Parabellum",
+},
 ];
 
 export default function TableOfContents() {
