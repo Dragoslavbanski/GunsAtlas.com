@@ -122,6 +122,14 @@ const centerfireItems = [
   id: "9x19-parabellum",
   title: "9×19 mm Luger Parabellum",
 },
+{
+  id: "9x20-browning-long",
+  title: "9×20 mm Browning Long",
+},
+{
+  id: "9x21-russian-gyurza",
+  title: "9×21 mm Russian (Gyurza)",
+},
 ];
 
 export default function TableOfContents() {
