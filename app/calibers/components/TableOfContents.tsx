@@ -130,6 +130,27 @@ const centerfireItems = [
   id: "9x21-russian-gyurza",
   title: "9×21 mm Russian (Gyurza)",
 },
+{
+  id: "9x21-imi",
+  title: "9×21 mm IMI",
+},
+{
+  id: "9x22-357-sig",
+  title: "9×22 mm .357 SIG",
+},
+{
+  id: "9x23-explanation",
+  title: "9×23 mm – пояснение",
+},
+{
+  id: "9x23-bergmann-bayard",
+  title: "9×23 mm Bergmann-Bayard / 9 mm Largo",
+},
+{
+  id: "9x23-steyr",
+  title: "9×23 mm Steyr",
+},
+
 ];
 
 export default function TableOfContents() {
