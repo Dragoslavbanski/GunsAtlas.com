@@ -150,6 +150,14 @@ const centerfireItems = [
   id: "9x23-steyr",
   title: "9×23 mm Steyr",
 },
+{
+  id: "9x23-sr-38-acp",
+  title: "9×23 mm SR (.38 ACP / .38 Auto)",
+},
+{
+  id: "9x23-sr-38-super",
+  title: "9×23 mm SR (.38 Super)",
+},
 
 ];
 
