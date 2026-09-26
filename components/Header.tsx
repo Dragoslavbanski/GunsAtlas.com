@@ -6,7 +6,7 @@ export default function Header() {
     <header className={styles.header}>
       <a href="#" className={styles.logo}>
         <Image
-  src="/images/Logo.png"
+  src="/images/Logo.png.png"
   alt="GunsAtlas"
   width={240}
   height={74}
