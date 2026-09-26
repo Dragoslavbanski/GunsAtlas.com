@@ -158,6 +158,10 @@ const centerfireItems = [
   id: "9x23-sr-38-super",
   title: "9×23 mm SR (.38 Super)",
 },
+{
+  id: "9x23-winchester",
+  title: "9×23 mm Winchester",
+},
 
 ];
 
