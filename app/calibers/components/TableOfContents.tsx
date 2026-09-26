@@ -162,6 +162,18 @@ const centerfireItems = [
   id: "9x23-winchester",
   title: "9×23 mm Winchester",
 },
+{
+  id: "9x25-mauser-export",
+  title: "9×25 mm Mauser Export",
+},
+{
+  id: "9x25-super-auto-g",
+  title: "9×25 mm Super Auto G",
+},
+{
+  id: "9x1-29-38-special",
+  title: "9.1×29 mm R (.38 Special)",
+},
 
 ];
 
