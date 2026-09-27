@@ -174,6 +174,14 @@ const centerfireItems = [
   id: "9x1-29-38-special",
   title: "9.1×29 mm R (.38 Special)",
 },
+{
+  id: "9x1-33-357-magnum",
+  title: "9.1×33 mm R (.357 Magnum)",
+},
+{
+  id: "10x22-40-sw",
+  title: "10×22 mm Smith & Wesson (.40 S&W)",
+},
 
 ];
 
