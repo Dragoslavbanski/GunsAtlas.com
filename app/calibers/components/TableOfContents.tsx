@@ -182,6 +182,22 @@ const centerfireItems = [
   id: "10x22-40-sw",
   title: "10×22 mm Smith & Wesson (.40 S&W)",
 },
+{
+  id: "10x25-auto",
+  title: "10×25 mm Auto (10 mm Auto)",
+},
+{
+  id: "10-9x33-429-de",
+  title: "10.9×33 mm RB .429 DE",
+},
+{
+  id: "10-97x33-44-remington-magnum",
+  title: "10.97×33 mm .44 Remington Magnum (.44 Magnum)",
+},
+{
+  id: "11-43x19-45-gap",
+  title: "11.43×19 mm .45 GAP (.45 Glock Automatic Pistol)",
+},
 
 ];
 
