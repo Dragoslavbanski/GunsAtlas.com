@@ -198,6 +198,18 @@ const centerfireItems = [
   id: "11-43x19-45-gap",
   title: "11.43×19 mm .45 GAP (.45 Glock Automatic Pistol)",
 },
+{
+  id: "11-43x23-45-acp",
+  title: "11.43×23 mm .45 ACP (Automatic Colt Pistol)",
+},
+{
+  id: "12-7x33-50-action-express",
+  title: "12.7×33 mm .50 Action Express (.50 AE)",
+},
+{
+  id: "2-7x9-kolibri",
+  title: "2.7×9 mm Kolibri",
+},
 
 ];
 
