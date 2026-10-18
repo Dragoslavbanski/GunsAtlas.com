@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Header from "../../components/Header";
 import styles from "./calibers.module.css";
 
 import Hero from "./components/Hero";
@@ -9,8 +10,9 @@ import DataTable from "./components/DataTable";
 import TechnicalData from "./components/TechnicalData";
 
 export default function CalibersPage() {
-  return (
+ return (
     <>
+      <Header />
       <Hero />
 
       <section className={styles.heroInfo}>
@@ -1335,7 +1337,8 @@ export default function CalibersPage() {
   ]}
   
 />
-<h2
+
+  <h2
   style={{
     marginTop: "50px",
     fontSize: "36px",
@@ -1345,6 +1348,7 @@ export default function CalibersPage() {
 >
   Развитие на патроните с периферно възпламеняване
 </h2>
+
 <table
   style={{
     width: "90%",
@@ -1355,129 +1359,130 @@ export default function CalibersPage() {
   }}
 >
   <thead>
-  <tr style={{ backgroundColor: "#8d9630", color: "#000000" }}>
-    <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Патрон
-    </th>
-    <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Година
-    </th>
-    <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Родоначалник
-    </th>
-    <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Основно предназначение
-    </th>
-    <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Статус днес
-    </th>
-  </tr>
-</thead>
+    <tr style={{ backgroundColor: "#8d9630", color: "#000000" }}>
+      <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Патрон
+      </th>
+      <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Година
+      </th>
+      <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Предшественик
+      </th>
+      <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Основно предназначение
+      </th>
+      <th style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Съвременно състояние
+      </th>
+    </tr>
+  </thead>
 
-<tbody>
-  <tr>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>6 mm Flobert</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      1845
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      —
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Развлекателна стрелба
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Ограничено производство
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>6 mm Flobert</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        1845
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        —
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Развлекателна стрелба
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Ограничено производство
+      </td>
+    </tr>
 
-  <tr>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 Short</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      1857
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>6 mm Flobert</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Спорт, обучение
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Произвежда се
-    </td>
-  </tr>
+    <tr>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 Short</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        1857
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>6 mm Flobert</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Спортна и тренировъчна стрелба
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Все още се произвежда
+      </td>
+    </tr>
 
-  <tr>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 Long</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      1871
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 Short</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Спорт
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Ограничено производство
-    </td>
-  </tr>
+    <tr>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 Long</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        1871
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 Short</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Спортна стрелба
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Ограничено производство
+      </td>
+    </tr>
 
-  <tr>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 Long Rifle</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      1887
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 Long</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Спорт, обучение, лов
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Най-популярният в света
-    </td>
-  </tr>
+    <tr>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 Long Rifle</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        1887
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 Long</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Спортна стрелба, обучение и лов
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Най-разпространеният в света
+      </td>
+    </tr>
 
-  <tr>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 WMR</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
-      1959
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      <strong>.22 LR</strong>
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Лов и спорт
-    </td>
-    <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
-      Широко използван
-    </td>
-  </tr>
-</tbody>
+    <tr>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 WMR</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px", textAlign: "center" }}>
+        1959
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        <strong>.22 LR</strong>
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Лов и спортна стрелба
+      </td>
+      <td style={{ border: "1px solid #ffffff", padding: "8px" }}>
+        Широко използван
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 <p
   style={{
     marginTop: "40px",
     marginBottom: "30px",
   }}
 >
-  В продължение на повече от век и половина патроните с
-  периферно възпламеняване доказват, че простата конструкция може да бъде
-  изключително ефективна. Макар днес повечето служебни и военни боеприпаси да
-  използват централно възпламеняване, малокалибрените патрони с периферно
-  възпламеняване продължават да бъдат незаменими за обучение, спортна стрелба и
-  развлекателни цели.
+  В продължение на повече от век и половина патроните с периферно
+  възпламеняване доказват, че простата конструкция може да бъде
+  забележително ефективна. Макар че днес повечето служебни и военни
+  боеприпаси използват централно възпламеняване, малокалибрените патрони
+  с периферно възпламеняване остават незаменими за обучение, спортна и
+  развлекателна стрелба.
 </p>
 <Section
   id="centerfire"

@@ -1,34 +1,47 @@
+
 import styles from "./Header.module.css";
 import Image from "next/image";
+import Link from "next/link";
 
-export default function Header() {
+export default function Header({
+  lang = "bg",
+}: {
+  lang?: "bg" | "en";
+}) {
   return (
     <header className={styles.header}>
-      <a href="#" className={styles.logo}>
+      <Link href="/" className={styles.logo}>
         <Image
-  src="/images/Logo.png.png"
-  alt="GunsAtlas"
-  width={240}
-  height={74}
-  priority
-/>
-      </a>
+          src="/images/Logo.png.png"
+          alt="GunsAtlas"
+          width={240}
+          height={74}
+          priority
+        />
+      </Link>
 
-      <nav className={styles.navigation}>
-  <a href="#">Начало</a>
-  <a href="#">Калибри</a>
-  <a href="#">Пистолети</a>
-  <a href="#">Производители</a>
-  <a href="#">История</a>
-  <a href="#">Законодателство</a>
-  <a href="#">За проекта</a>
+      
+<nav className={styles.navigation}>
+  <a href={lang === "en" ? "/en" : "/"}>{lang === "en" ? "Home" : "Начало"}</a>
+  <a href={lang === "en" ? "/en/calibers" : "/calibers"}>{lang === "en" ? "Calibers" : "Калибри"}</a>
+  <a href="#">{lang === "en" ? "Pistols" : "Пистолети"}</a>
+  <a href="#">{lang === "en" ? "Manufacturers" : "Производители"}</a>
+  <a href="#">{lang === "en" ? "History" : "История"}</a>
+  <a href="#">{lang === "en" ? "Legislation" : "Законодателство"}</a>
+  <a href="#">{lang === "en" ? "About" : "За проекта"}</a>
 </nav>
 
+
       <div className={styles.language}>
-        <button className={styles.active}>БГ</button>
-        <span>|</span>
-        <button>EN</button>
-      </div>
+  <a
+    href="/"
+    className={styles.active}
+  >
+    БГ
+  </a>
+  <span>|</span>
+  <a href="/en">EN</a>
+</div>
     </header>
   );
 }

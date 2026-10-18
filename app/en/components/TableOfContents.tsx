@@ -1,0 +1,252 @@
+
+const theoryItems = [
+  {
+    id: "what-is-caliber",
+    title: "What Is Caliber?",
+  },
+  {
+    id: "metric-inch",
+    title: "Metric and Inch Systems",
+  },
+  {
+    id: "conversion",
+    title: "Why Isn't the Conversion Always Exact?",
+  },
+  {
+    id: "additional-designation",
+    title: "The Meaning of Additional Designations",
+  },
+  {
+    id: "choosing-caliber",
+    title: "Choosing the Right Caliber",
+  },
+  {
+    id: "caliber-data",
+    title: "Approximate Caliber Data",
+  },
+  {
+    id: "cartridge-components",
+    title: "Main Components of a Cartridge",
+  },
+  {
+    id: "velocity-accuracy",
+    title: "Muzzle Velocity and Shot Accuracy",
+  },
+  {
+    id: "energy",
+    title: "Bullet Kinetic Energy",
+  },
+  {
+    id: "bullet-types",
+    title: "Types of Bullets",
+  },
+];
+
+const rimfireItems = [
+  {
+    id: "flobert",
+    title: "6 mm Flobert",
+  },
+  {
+    id: "22-short",
+    title: ".22 Short",
+  },
+  {
+    id: "22-long",
+    title: ".22 Long",
+  },
+  {
+    id: "22-lr",
+    title: ".22 Long Rifle",
+  },
+  {
+    id: "22-wmr",
+    title: ".22 Winchester Magnum Rimfire (.22 WMR)",
+  },
+];
+
+const centerfireItems = [
+  {
+    id: "5-45x18-mpc",
+    title: "5.45×18 mm MPC",
+  },
+  {
+    id: "5-7x28",
+    title: "5.7×28 mm (SS190)",
+  },
+  {
+    id: "6-35x15-5-browning",
+    title: "6.35×15.5 mm HR (6.35 Browning / .25 ACP)",
+  },
+  {
+    id: "7-62x25-tokarev",
+    title: "7.62×25 mm Tokarev",
+  },
+  {
+    id: "7-63x25-mauser",
+    title: "7.63×25 mm Mauser (.30 Mauser)",
+  },
+  {
+    id: "7-65x17-browning",
+    title: "7.65×17 mm Browning (.32 ACP)",
+  },
+  {
+    id: "7-65x21-parabellum",
+    title: "7.65×21 mm Parabellum (.30 Luger)",
+  },
+  {
+    id: "7-65x25-borchardt",
+    title: "7.65×25 mm Borchardt",
+  },
+  {
+    id: "8-5x26-mars",
+    title: "8.5×26 mm Mars (.330 Mars)",
+  },
+  {
+    id: "9-17x-browning-short",
+    title: "9×17 mm Browning Short (.380 ACP)",
+  },
+  {
+    id: "9-18-ultra-police",
+    title: "9×18 mm Ultra / 9×18 mm Police",
+  },
+  {
+    id: "9x18-makarov",
+    title: "9×18 mm Makarov (9×18 PM)",
+  },
+  {
+    id: "9x18-pmm",
+    title: "9×18 mm PMM",
+  },
+  {
+    id: "9x19-parabellum",
+    title: "9×19 mm Luger Parabellum",
+  },
+  {
+    id: "9x20-browning-long",
+    title: "9×20 mm Browning Long",
+  },
+  {
+    id: "9x21-russian-gyurza",
+    title: "9×21 mm Russian (Gyurza)",
+  },
+  {
+    id: "9x21-imi",
+    title: "9×21 mm IMI",
+  },
+  {
+    id: "9x22-357-sig",
+    title: "9×22 mm .357 SIG",
+  },
+  {
+    id: "9x23-explanation",
+    title: "9×23 mm – Explanation",
+  },
+  {
+    id: "9x23-bergmann-bayard",
+    title: "9×23 mm Bergmann-Bayard / 9 mm Largo",
+  },
+  {
+    id: "9x23-steyr",
+    title: "9×23 mm Steyr",
+  },
+  {
+    id: "9x23-sr-38-acp",
+    title: "9×23 mm SR (.38 ACP / .38 Auto)",
+  },
+  {
+    id: "9x23-sr-38-super",
+    title: "9×23 mm SR (.38 Super)",
+  },
+  {
+    id: "9x23-winchester",
+    title: "9×23 mm Winchester",
+  },
+  {
+    id: "9x25-mauser-export",
+    title: "9×25 mm Mauser Export",
+  },
+  {
+    id: "9x25-super-auto-g",
+    title: "9×25 mm Super Auto G",
+  },
+  {
+    id: "9x1-29-38-special",
+    title: "9.1×29 mm R (.38 Special)",
+  },
+  {
+    id: "9x1-33-357-magnum",
+    title: "9.1×33 mm R (.357 Magnum)",
+  },
+  {
+    id: "10x22-40-sw",
+    title: "10×22 mm Smith & Wesson (.40 S&W)",
+  },
+  {
+    id: "10x25-auto",
+    title: "10×25 mm Auto (10 mm Auto)",
+  },
+  {
+    id: "10-9x33-429-de",
+    title: "10.9×33 mm RB .429 DE",
+  },
+  {
+    id: "10-97x33-44-remington-magnum",
+    title: "10.97×33 mm .44 Remington Magnum (.44 Magnum)",
+  },
+  {
+    id: "11-43x19-45-gap",
+    title: "11.43×19 mm .45 GAP (.45 Glock Automatic Pistol)",
+  },
+  {
+    id: "11-43x23-45-acp",
+    title: "11.43×23 mm .45 ACP (Automatic Colt Pistol)",
+  },
+  {
+    id: "12-7x33-50-action-express",
+    title: "12.7×33 mm .50 Action Express (.50 AE)",
+  },
+  {
+    id: "2-7x9-kolibri",
+    title: "2.7×9 mm Kolibri",
+  },
+];
+
+export default function TableOfContents() {
+  return (
+    <nav>
+      <h2>Contents</h2>
+
+      <h3>Basics</h3>
+
+      <ul>
+        {theoryItems.map((item) => (
+          <li key={item.id}>
+            <a href={`#${item.id}`}>{item.title}</a>
+          </li>
+        ))}
+      </ul>
+
+      <h3>1. Rimfire Cartridges</h3>
+
+      <ul>
+        {rimfireItems.map((item) => (
+          <li key={item.id}>
+            <a href={`#${item.id}`}>{item.title}</a>
+          </li>
+        ))}
+      </ul>
+
+      <h3>2. Centerfire Cartridges</h3>
+
+      <ul>
+        {centerfireItems.map((item) => (
+          <li key={item.id}>
+            <a href={`#${item.id}`}>{item.title}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  );
+}
+ 

@@ -18,7 +18,7 @@
 
 .heroImage {
     object-fit: contain;
-    object-position: calc(55% + 155px) 38px;
+    object-position: calc(55% + 155px) 37px;
     transform: scale(1);
 
     filter:

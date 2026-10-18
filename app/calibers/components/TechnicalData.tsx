@@ -1,12 +1,19 @@
 type TechnicalDataProps = {
   title: string;
   data: [string, string][];
+  language?: "bg" | "en";
 };
 
 export default function TechnicalData({
   title,
   data,
+  language = "bg",
 }: TechnicalDataProps) {
+  const heading =
+    language === "en"
+      ? `TECHNICAL DATA FOR ${title}`
+      : `ТЕХНИЧЕСКИ ДАННИ НА ${title}`;
+
   return (
     <div
       style={{
@@ -29,16 +36,16 @@ export default function TechnicalData({
           fontSize: "24px",
         }}
       >
-        ТЕХНИЧЕСКИ ДАННИ НА {title}
+        {heading}
       </h3>
 
       <div
-  style={{
-    width: "65%",
-    margin: "0 auto",
-  }}
->
-  {data.map(([label, value]) => (
+        style={{
+          width: "65%",
+          margin: "0 auto",
+        }}
+      >
+        {data.map(([label, value]) => (
           <div
             key={label}
             style={{
@@ -50,12 +57,11 @@ export default function TechnicalData({
             }}
           >
             <span
-  style={{
-    color: "#cfcfcf",
-    fontWeight: 600,
-  }}
->
-        
+              style={{
+                color: "#cfcfcf",
+                fontWeight: 600,
+              }}
+            >
               {label}
             </span>
 
