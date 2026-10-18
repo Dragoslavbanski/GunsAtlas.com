@@ -3544,6 +3544,3646 @@ export default function EnglishCalibersPage() {
     they are not universal characteristics of all 7.65 Browning ammunition.
   </p>
 </Section>
+<Section
+  id="7-65x21-parabellum"
+  title="7.65×21 mm Parabellum (.30 Luger)"
+>
+  <img
+    src="/images/calibers/cartridges/7.65x21 Parabellum.png"
+    alt="7.65×21 mm Parabellum (.30 Luger)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    <em>
+      The cartridge behind the legendary Luger Parabellum, marking the beginning
+      of one of the most famous pistol systems in history.
+    </em>
+  </p>
+  <p>
+    <em>
+      The cartridge behind the legendary Luger Parabellum, marking the beginning
+      of one of the most famous pistol systems in history.
+    </em>
+  </p>
+
+  <p>
+    The <strong>7.65×21 mm Parabellum</strong> cartridge, also known as
+    <strong> 7.65 mm Luger</strong> and <strong> .30 Luger</strong>, is one of
+    the most interesting pistol cartridges of the late 19th and early 20th
+    centuries.
+  </p>
+
+  <p>
+    Developed around <strong>1898 by Georg Luger</strong>,
+    <strong> 7.65×21 mm Parabellum</strong> was based on the
+    <strong> 7.65×25 mm Borchardt</strong>, used in the
+    <strong> Borchardt C-93</strong> pistol. Following trials of the C-93 in
+    1897, Luger was tasked with improving the Borchardt design. He shortened
+    the case from 25 mm to approximately 21 mm, allowing a more compact
+    mechanism, a shorter toggle-lock action, and a slimmer, angled grip. This
+    produced the cartridge that became an integral part of the
+    <strong>Parabellum</strong> system.
+  </p>
+
+  <p>
+    In 1900, Switzerland adopted the Parabellum pistol for military service, and
+    <strong> 7.65×21 mm</strong> became the standard cartridge for the Swiss
+    Parabellum.
+  </p>
+
+  <h3>History and Development</h3>
+  <p>
+    To understand the origins of 7.65×21 Parabellum, we must return to the
+    <strong> 7.65×25 Borchardt</strong> cartridge and the
+    <strong>Borchardt C-93</strong> pistol, discussed in detail below.
+  </p>
+
+  <p>
+    The Borchardt C-93 was one of the first successful self-loading pistols, but
+    its design was large, heavy, and relatively awkward for military use. The
+    German company <strong>Deutsche Waffen- und Munitionsfabriken (DWM)</strong>
+    assigned <strong>Georg Luger</strong> the task of improving the system.
+  </p>
+
+  <p>
+    Luger retained Borchardt's basic toggle-lock principle but substantially
+    modified the firearm's design. The grip was angled, the mechanism was made
+    more compact, and the pistol's balance was significantly improved.
+  </p>
+
+  <p>
+    One of the most important changes concerned the ammunition.
+  </p>
+
+  <p>
+    Luger used <strong>7.65×25 mm Borchardt</strong> as the starting point but
+    shortened the case to approximately <strong>21.6 mm</strong>. The shorter
+    cartridge allowed a more compact breech mechanism and a shorter operating
+    stroke. At the same time, it made possible a slimmer and more ergonomic grip.
+  </p>
+
+  <p>
+    This resulted in the <strong>7.65×21 mm Parabellum</strong>.
+  </p>
+
+  <p>
+    The historical sequence is:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>
+      7.65×25 Borchardt → 7.65×21 Parabellum → 9×19 Parabellum
+    </strong>
+  </p>
+
+  <h3>Luger Parabellum Model 1900</h3>
+
+  <img
+    src="/images/calibers/cartridges/Parabellum Model 1900.png"
+    alt="Luger Parabellum Model 1900"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    Switzerland became the first country to adopt the Parabellum as a standard
+    military sidearm. The original Swiss version used
+    <strong> 7.65×21 mm</strong>. This marked the beginning of the Parabellum
+    system's long military history.
+  </p>
+
+  <h3>7.65 Parabellum and Switzerland</h3>
+
+  <p>
+    The Swiss Army used <strong>7.65×21 Parabellum</strong> for decades.
+  </p>
+
+  <p>
+    The original <strong>Pistole 1900</strong> was followed by the improved
+    <strong> Model 1900/06</strong>, and later by the Swiss
+    <strong> Model 1906/29</strong>.
+  </p>
+
+  <p>
+    After the First World War, production of Swiss Parabellum pistols gradually
+    shifted to <strong>Waffenfabrik Bern</strong>.
+  </p>
+
+  <p>
+    The <strong>Model 1906/29</strong> is particularly interesting. Manufactured
+    in Switzerland, it remained in service long after newer designs appeared.
+    The last Swiss Parabellum pistols were gradually replaced by the
+    <strong> SIG P210</strong>, adopted in 1949.
+  </p>
+
+  <p>
+    Swiss military P210 pistols are chambered in
+    <strong>9×19 mm Parabellum</strong>, while
+    <strong> 7.65×21 mm</strong> is found in civilian and sporting versions of
+    the P210.
+  </p>
+
+  <h3>7.65×21 Parabellum in Bulgaria</h3>
+
+  <p>
+    The history of <strong>7.65×21 Parabellum</strong> holds a special place in
+    Bulgarian military history.
+  </p>
+
+  <p>
+    Bulgaria was among the countries that adopted the
+    <strong> Parabellum pistol in 7.65 mm</strong>.
+  </p>
+
+  <p>
+    The first delivery to Bulgaria consisted of approximately
+    <strong>1,000 Model 1900 pistols</strong> manufactured by DWM. This was
+    followed in <strong>1906–1907</strong> by a further approximately
+    <strong>1,250–1,500 Model 1906 pistols</strong>, also chambered in 7.65 mm.
+  </p>
+
+  <p>
+    Bulgarian Parabellum pistols became a characteristic part of the personal
+    firearms carried by Bulgarian officers in the early 20th century.
+  </p>
+
+  <p>
+    Special variants intended for Bulgaria can be identified by distinctive
+    Bulgarian markings. Some bear the inscription
+    <strong> "Огънъ"</strong> and the Bulgarian royal coat of arms.
+  </p>
+
+  <p>
+    Bulgaria later also purchased Parabellum pistols in
+    <strong>9 mm</strong>, but the early Bulgarian Luger pistols were chambered
+    in <strong>7.65×21 mm</strong>.
+  </p>
+
+  <h3>Design and Characteristics</h3>
+
+  <p>
+    <strong>7.65×21 Parabellum</strong> is a rimless cartridge with a
+    bottlenecked case and centerfire ignition.
+  </p>
+
+  <p>
+    It is a direct design descendant of the
+    <strong>7.65×25 Borchardt</strong>, but its case is approximately 3.4 mm
+    shorter.
+  </p>
+
+  <p>
+    According to <strong>C.I.P.</strong> data, the case length is
+    <strong> 21.59 mm</strong>, the maximum cartridge length is
+    <strong> 29.85 mm</strong>, and the bullet diameter is approximately
+    <strong> 7.85 mm</strong>. The maximum permissible pressure is
+    <strong> 2350 bar</strong>.
+  </p>
+
+  <p>
+    The bullet traditionally has a <strong>metal jacket</strong>, with various
+    designs and materials appearing over the years.
+  </p>
+
+  <p>
+    The standard historical load uses a bullet weighing approximately
+    <strong> 6.0 g</strong>. Typical ballistic performance for the standard
+    cartridge is approximately <strong>370 m/s</strong> and
+    <strong> 410 J</strong>, although actual results depend on the ammunition
+    and barrel length.
+  </p>
+
+  <h3>Why Did Luger Shorten the Case?</h3>
+
+  <p>
+    This is one of the cartridge's most interesting design features.
+  </p>
+
+  <p>
+    In the Borchardt C-93, the long case of the
+    <strong>7.65×25 mm</strong> cartridge took up considerable space in the grip.
+  </p>
+
+  <p>
+    Luger shortened the case to approximately <strong>21.6 mm</strong>. This
+    allowed him to reduce the travel of the toggle-lock mechanism and create a
+    more compact design with a slimmer, angled grip.
+  </p>
+
+  <p>
+    The cartridge modification was therefore not merely a ballistic change. It
+    was part of the overall engineering development of the new pistol.
+  </p>
+
+  <h3>From 7.65×21 to 9×19 Parabellum</h3>
+
+  <p>
+    The success of <strong>7.65×21 Parabellum</strong> demonstrated the
+    potential of the Luger system, but the need for a more powerful cartridge
+    gradually emerged.
+  </p>
+
+  <p>
+    The solution was to adapt the design for a larger
+    <strong> 9 mm bullet</strong>.
+  </p>
+
+  <p>
+    In <strong>1902</strong>, the <strong>9×19 mm Parabellum</strong> was
+    developed. The new cartridge retained the basic case length of
+    <strong> 7.65×21</strong>, but the bullet diameter was increased to 9 mm.
+    This produced a significantly more powerful cartridge that gradually
+    replaced <strong> 7.65×21</strong> in military service.
+  </p>
+
+  <p>
+    Over the following decades, <strong>9×19 mm Parabellum</strong> became one
+    of the most widely used pistol cartridges in the world.
+  </p>
+
+  <p>
+    <strong>
+      The detailed history, design, development, and spread of 9×19 mm
+      Parabellum will be covered in a separate article.
+    </strong>
+  </p>
+
+  <h3>Applications</h3>
+
+  <p>
+    Despite gradually being displaced by <strong>9×19 mm</strong>,
+    <strong> 7.65×21 Parabellum</strong> continued to be used through a
+    significant part of the 20th century.
+  </p>
+
+  <p>
+    Its principal military application was associated with the various
+    <strong> Luger Parabellum</strong> models, especially the Swiss variants.
+  </p>
+
+  <p>
+    The cartridge was also used in other firearms, including the
+    <strong> SIG P210</strong>, which was manufactured in
+    <strong>7.65×21 mm</strong> for the civilian and sporting markets.
+  </p>
+
+  <p>
+    The cartridge has also been used in other pistols in various countries, but
+    historically it remains most closely associated with the
+    <strong>Parabellum</strong> system.
+  </p>
+
+  <h3>Special Loads for Long-Barreled Variants</h3>
+
+  <p>
+    One particularly interesting aspect of the history of
+    <strong>7.65 Parabellum</strong> concerns the
+    <strong> long-barreled and carbine variants of the Parabellum system</strong>.
+  </p>
+
+  <p>
+    Ammunition with an <strong>increased propellant charge</strong> was developed
+    for these firearms to take advantage of the longer barrel and achieve a
+    higher muzzle velocity. Such loads appeared as early as the beginning of
+    the 20th century and differed from standard pistol loads.
+  </p>
+
+  <p>
+    This ammunition should not be treated as a standard
+    <strong> 7.65×21 load</strong> for an ordinary Parabellum pistol.
+  </p>
+
+  <h3>Interesting Fact</h3>
+
+  <p>
+    The name <strong>"Parabellum"</strong> comes from the Latin phrase:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>"Si vis pacem, para bellum" – "If you want peace, prepare for war."</strong>
+  </p>
+
+  <p>
+    "Parabellum" was also the telegraphic address used by
+    <strong> DWM</strong>.
+  </p>
+
+  <p>
+    For this reason, the name gradually became a designation not only for the
+    pistol but also for its cartridge.
+  </p>
+
+  <p>
+    The later designation <strong>9×19 mm Parabellum</strong> derives from this
+    system and is now much more familiar than the original
+    <strong> 7.65×21 mm</strong>.
+  </p>
+
+  <h3>The Cartridge Today</h3>
+
+  <p>
+    <strong>7.65×21 Parabellum</strong> is no longer a major military cartridge,
+    but it continues to be manufactured in limited quantities.
+  </p>
+
+  <p>
+    Today's main interest in the cartridge is associated with
+    <strong> collectible and historical firearms</strong>, especially Swiss
+    Parabellum pistols and early Luger models.
+  </p>
+
+  <p>
+    The cartridge is also notable for its place in the development of pistol
+    ammunition: it represents the transitional link between
+    <strong> 7.65×25 Borchardt</strong> and <strong> 9×19 Parabellum</strong>.
+  </p>
+
+  <TechnicalData
+    language="en"
+    title="7.65×21 mm Parabellum"
+    data={[
+      ["Designation", "7.65×21 mm Parabellum"],
+      ["Other designations", "7.65 mm Luger / .30 Luger"],
+      ["Type", "Pistol cartridge"],
+      ["Country of origin", "Germany"],
+      ["Designer", "Georg Luger"],
+      ["Year of development", "Around 1898"],
+      ["Design origin", "7.65×25 mm Borchardt"],
+      ["Case length", "21.59 mm"],
+      ["Maximum cartridge length", "29.85 mm"],
+      ["Bullet diameter", "Approximately 7.85 mm"],
+      ["Case type", "Rimless, bottlenecked"],
+      ["Ignition", "Centerfire"],
+      ["Bullet mass", "Approximately 6.0 g"],
+      ["Muzzle velocity", "Approximately 370 m/s"],
+      ["Muzzle energy", "Approximately 410 J"],
+      ["Maximum pressure (C.I.P.)", "2350 bar"],
+    ]}
+  />
+
+  <p>
+    Ballistic performance depends on the specific cartridge and barrel length.
+    The values shown are characteristic of the standard historical load with a
+    bullet weighing approximately 6.0 g. The dimensions and maximum pressure
+    follow the C.I.P. data.
+  </p>
+</Section>
+<Section
+  id="7-65x25-borchardt"
+  title="7.65×25 mm Borchardt"
+>
+  <img
+    src="/images/calibers/cartridges/7.65x25 Borchardt.png"
+    alt="7.65×25 mm Borchardt"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    <em>
+      The cartridge that marked the beginning of one of the most interesting evolutionary lines
+      in the history of semi-automatic pistols.
+    </em>
+  </p>
+  <p>
+    <strong>7.65×25 mm Borchardt</strong> is a German pistol cartridge developed
+    in <strong>1893</strong> for the <strong>Borchardt C-93</strong> semi-automatic pistol
+    designed by Hugo Borchardt. It holds a special place in the history of firearms
+    ammunition, as it was among the first successfully developed
+    <strong> rimless pistol cartridges</strong> and marked the beginning of a design lineage
+    from which <strong>7.63×25 mm Mauser</strong>, <strong>7.62×25 mm Tokarev</strong>,
+    <strong>7.65×21 mm Parabellum</strong>, and ultimately
+    <strong>9×19 mm Parabellum</strong> would later emerge.
+  </p>
+
+  <h3>Borchardt C-93</h3>
+
+  <img
+    src="/images/calibers/cartridges/Borchardt C-93.png"
+    alt="Borchardt C-93"
+    style={{
+      width: "45%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    The cartridge was created for the <strong>Borchardt C-93</strong> pistol,
+    developed by the German designer <strong>Hugo Borchardt</strong>. The firearm itself
+    was one of the most important early semi-automatic pistol designs and used
+    a complex toggle-lock mechanism based on the locking principle of the Maxim machine gun.
+  </p>
+
+  <h3>History of Development</h3>
+
+  <p>
+    In the early 1890s, semi-automatic pistols were still a new and experimental field.
+    Designers were looking for a way to create a compact personal firearm that could use
+    the energy of the shot itself to reload automatically.
+  </p>
+
+  <p>
+    During this period, <strong>Hugo Borchardt</strong> developed his semi-automatic
+    <strong>C-93</strong> pistol. It required a new cartridge that combined a relatively
+    small diameter with a high muzzle velocity for its time.
+  </p>
+
+  <p>
+    Thus, around <strong>1893</strong>, the
+    <strong>7.65×25 mm Borchardt</strong> appeared.
+  </p>
+
+  <p>
+    Its design employed a construction unusual for pistol ammunition at the time:
+    a <strong>rimless, bottlenecked case</strong> combined with a centerfire primer.
+    The case shape allowed reliable feeding from the magazine while also providing
+    a relatively large volume for the propellant charge.
+  </p>
+
+  <p>
+    Some historical sources also identify <strong>Georg Luger</strong> as having
+    participated in the cartridge's development. Luger was working with Borchardt
+    at the time and later used the C-93 as a starting point for his own design.
+    However, his role in creating the 7.65×25 mm Borchardt itself remains historically
+    disputed, which is why the cartridge is most commonly associated with
+    <strong>Borchardt C-93 and Hugo Borchardt</strong>.
+  </p>
+
+  <h3>The First Successful Rimless Pistol Cartridge</h3>
+
+  <p>
+    One of the most important features of the <strong>7.65×25 Borchardt</strong>
+    is its <strong>rimless design</strong>.
+  </p>
+
+  <p>
+    In older cartridges, the rim generally played an important role in positioning
+    the cartridge in the chamber. In the <strong>7.65×25 Borchardt</strong>,
+    this function was achieved through the geometry of the case and chamber.
+  </p>
+
+  <p>
+    The case is <strong>bottlenecked</strong>, with a clearly defined shoulder and neck.
+    This design allows a relatively large propellant charge to be used in a cartridge
+    with a small bullet diameter.
+  </p>
+
+  <p>
+    It was precisely this combination of a <strong>rimless case, high velocity,
+    and suitability for a self-loading firearm</strong> that made the cartridge
+    one of the most important early steps in the development of modern pistol ammunition.
+  </p>
+
+  <h3>Borchardt C-93 – The Firearm It Was Designed For</h3>
+
+  <p>
+    The <strong>7.65×25 Borchardt</strong> is inseparably linked to the
+    <strong>Borchardt C-93</strong>.
+  </p>
+
+  <p>
+    The C-93 uses a <strong>toggle-lock action</strong>, in which the barrel and
+    bolt move backward when the weapon is fired. After a short movement, the mechanism
+    unlocks and the bolt continues rearward, extracting and ejecting the spent case.
+    The recoil mechanism then returns the bolt forward and feeds a new cartridge.
+  </p>
+
+  <p>
+    The pistol uses a <strong>detachable magazine with an 8-round capacity</strong>.
+  </p>
+
+  <p>
+    The design was exceptionally advanced for 1893, but it also had significant
+    shortcomings. The C-93 was large and relatively heavy, while the positioning
+    of its mechanisms behind the grip resulted in unusual balance and considerable
+    dimensions. These characteristics later prompted Georg Luger to work on a more
+    compact design.
+  </p>
+
+  <h3>Construction and Ballistic Characteristics</h3>
+
+  <p>
+    The <strong>7.65×25 mm Borchardt</strong> is a rimless cartridge with a
+    bottlenecked case and centerfire ignition.
+  </p>
+
+  <p>
+    The case length is approximately <strong>25.15 mm</strong>, and the bullet
+    diameter is about <strong>7.86 mm</strong>.
+  </p>
+
+  <p>
+    The cartridge uses bullets weighing approximately <strong>5.5 g</strong>.
+    Depending on the specific historical ammunition and firearm, ballistic figures
+    vary, but muzzle velocity is approximately <strong>390–400 m/s</strong>.
+  </p>
+
+  <p>
+    With a 5.5 g bullet traveling at around 390 m/s, muzzle energy is approximately
+    <strong>420 J</strong>.
+  </p>
+
+  <p>
+    For the late nineteenth century, this represented a very high velocity for
+    a pistol cartridge.
+  </p>
+
+  <p>
+    This high velocity was one of the characteristics that later attracted the
+    attention of designers working on the next generation of semi-automatic pistols.
+  </p>
+
+  <h3>From Borchardt to Mauser</h3>
+
+  <p>
+    The historical significance of the <strong>7.65×25 Borchardt</strong> extends
+    far beyond the C-93.
+  </p>
+
+  <p>
+    When the <strong>Feederle</strong> brothers began work on the design that would
+    later become known as the <strong>Mauser C96</strong>, they used the
+    <strong>7.65×25 Borchardt</strong> as the basis for their cartridge.
+  </p>
+
+  <p>
+    This led to the development of the <strong>7.63×25 mm Mauser</strong>.
+  </p>
+
+  <p>
+    The two cartridges have virtually identical basic geometric dimensions, but
+    Mauser developed its own version with a different charge and higher ballistic
+    performance. For this reason, the two cartridges should not be treated simply
+    as different designations for the same ammunition.
+  </p>
+
+  <p>
+    This marked the beginning of one of the best-known lineages in pistol cartridge history:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>
+      7.65×25 Borchardt → 7.63×25 Mauser → 7.62×25 Tokarev
+    </strong>
+  </p>
+
+  <h3>From Borchardt to Parabellum</h3>
+
+  <p>
+    The same cartridge also influenced the work of
+    <strong>Georg Luger</strong>.
+  </p>
+
+  <p>
+    Following trials of the Borchardt C-93 in 1897, the German arms industry
+    assigned Luger the task of improving the design.
+  </p>
+
+  <p>
+    One of the main changes was shortening the Borchardt case.
+  </p>
+
+  <p>
+    This resulted in the <strong>7.65×21 mm Parabellum</strong>.
+  </p>
+
+  <p>
+    Shortening the case by approximately 4 mm allowed Luger to create a more
+    compact mechanism, reduce the travel of the toggle-lock action, and develop
+    a slimmer pistol with an angled grip.
+  </p>
+
+  <p>
+    This marked the beginning of the second major lineage:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>
+      7.65×25 Borchardt → 7.65×21 Parabellum → 9×19 Parabellum
+    </strong>
+  </p>
+
+  <p>
+    In this way, a cartridge developed in 1893 became a direct predecessor of
+    <strong>9×19 mm Parabellum</strong>, one of the most widely used pistol cartridges
+    in the world.
+  </p>
+
+  <h3>The Connection to 7.62×25 Tokarev</h3>
+
+  <p>
+    Borchardt's influence continued into the twentieth century.
+  </p>
+
+  <p>
+    The <strong>7.63×25 Mauser</strong>, derived from the
+    <strong>7.65×25 Borchardt</strong>, later served as the basis for the Soviet
+    <strong>7.62×25 Tokarev</strong>.
+  </p>
+
+  <p>
+    Tokarev retained the basic concept and similar dimensions of its predecessors,
+    but used more powerful loads and was intended for a newer generation of military
+    pistols and submachine guns.
+  </p>
+
+  <p>
+    Thus, more than three decades after Borchardt's introduction, its design concept
+    continued to live on in one of the principal Soviet pistol cartridges.
+  </p>
+
+  <h3>Borchardt, Mauser, and Tokarev – Similar, but Not Identical</h3>
+
+  <p>
+    At first glance, the <strong>7.65×25 Borchardt</strong>,
+    <strong>7.63×25 Mauser</strong>, and <strong>7.62×25 Tokarev</strong>
+    appear to be practically the same cartridge under different designations.
+  </p>
+
+  <p>
+    Historically, however, they are <strong>different cartridges</strong>,
+    developed for different firearms and with different ballistic characteristics.
+  </p>
+
+  <p>
+    It is particularly important to note that later Mauser and Tokarev loads can
+    be significantly more powerful than the original Borchardt. This is why these
+    cartridges should not be considered automatically interchangeable simply because
+    their dimensions are similar.
+  </p>
+
+  <p>
+    This distinction is especially important to collectors.
+  </p>
+
+  <h3>Distribution and Production</h3>
+
+  <p>
+    The Borchardt C-93 never achieved the widespread adoption of the later
+    Mauser C96 and Luger Parabellum.
+  </p>
+
+  <p>
+    Production of the C-93 was relatively limited, with approximately
+    <strong>3,000 pistols produced</strong> commonly cited.
+  </p>
+
+  <p>
+    The cartridge itself, however, was manufactured by several producers, including
+    companies outside Germany. Manufacturers of the <strong>7.65×25 Borchardt</strong>
+    at various times included <strong>DWM</strong>, <strong>Eley Brothers</strong>,
+    <strong>Kynoch</strong>, <strong>Remington</strong>, and
+    <strong>Winchester</strong>.
+  </p>
+
+  <p>
+    This shows that the cartridge's significance was not determined solely by the
+    number of C-93 pistols produced. Its true historical value lies in the fact
+    that its design became the basis for several much more successful cartridges.
+  </p>
+
+  <h3>The End of Its Independent Use</h3>
+
+  <p>
+    With the arrival of more advanced designs, the <strong>7.65×25 Borchardt</strong>
+    gradually disappeared from practical use.
+  </p>
+
+  <p>
+    The Borchardt C-93 itself was superseded by more compact and convenient designs,
+    the most important of which was the <strong>Luger Parabellum</strong>.
+  </p>
+
+  <p>
+    Rather than disappearing without a trace, however, Borchardt's design concept
+    continued to evolve.
+  </p>
+
+  <p>
+    <strong>7.63×25 Mauser</strong> inherited the cartridge's basic dimensions.
+  </p>
+
+  <p>
+    <strong>7.65×21 Parabellum</strong> inherited the concept but used a shorter case.
+  </p>
+
+  <p>
+    These were later followed by <strong>7.62×25 Tokarev</strong> and
+    <strong>9×19 Parabellum</strong>.
+  </p>
+
+  <h3>The Legacy of 7.65×25 Borchardt</h3>
+
+  <p>
+    The history of the <strong>7.65×25 Borchardt</strong> demonstrates how a
+    relatively rare cartridge can have an enormous influence on the development
+    of firearms technology.
+  </p>
+
+  <p>
+    The C-93 itself remained relatively uncommon, but its cartridge became the
+    basis for several of the best-known pistol cartridges of the twentieth century.
+  </p>
+
+  <p>
+    Its place in this evolution can be represented as follows:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>7.65×25 Borchardt</strong>
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    ↓
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>7.63×25 Mauser</strong>
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    ↓
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>7.62×25 Tokarev</strong>
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    And in parallel:
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>7.65×25 Borchardt</strong>
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    ↓
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>7.65×21 Parabellum</strong>
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    ↓
+  </p>
+
+  <p style={{ textAlign: "center" }}>
+    <strong>9×19 Parabellum</strong>
+  </p>
+
+  <p>
+    For this reason, the <strong>7.65×25 Borchardt</strong> should not be viewed
+    simply as the cartridge of a rare pistol. It is
+    <strong> one of the starting points in the modern history of high-velocity
+    pistol ammunition</strong>.
+  </p>
+
+  <h3>Interesting Fact</h3>
+
+  <p>
+    The <strong>Borchardt C-93</strong> pistol is so unusual that it effectively
+    looks like a transition between early experimental self-loading firearms and
+    the future Luger.
+  </p>
+
+  <p>
+    Luger retained the basic toggle-lock principle but changed almost everything
+    around it: the shape of the grip, the arrangement of the mechanisms, and
+    the length of the cartridge.
+  </p>
+
+  <p>
+    In this way, a relatively cumbersome pistol led to the
+    <strong>Luger Parabellum</strong>, and its cartridge eventually led to
+    <strong>9×19 mm</strong>, which more than a century later remains one of the
+    most widely used pistol cartridges in the world.
+  </p>
+
+  <h3>The Cartridge Today</h3>
+
+  <p>
+    The <strong>7.65×25 mm Borchardt</strong> has long since ceased to have
+    any practical military or law-enforcement application.
+  </p>
+
+  <p>
+    Today, it has almost entirely <strong>historical and collector significance</strong>,
+    primarily associated with the Borchardt C-93 and the history of early
+    semi-automatic pistols.
+  </p>
+
+  <p>
+    Nevertheless, the cartridge remains extremely important for understanding
+    the development of pistol ammunition.
+  </p>
+
+  <p>
+    Without the <strong>7.65×25 Borchardt</strong>, the history of
+    <strong>7.63×25 Mauser</strong>, <strong>7.62×25 Tokarev</strong>,
+    <strong>7.65×21 Parabellum</strong>, and <strong>9×19 Parabellum</strong>
+    would look very different.
+  </p>
+
+  <h3>Technical Data</h3>
+
+  <TechnicalData
+    language="en"
+    title="7.65×25 mm Borchardt"
+    data={[
+      ["Parameter", "Value"],
+      ["Designation", "7.65×25 mm Borchardt"],
+      ["Other designations", "7.65 mm Borchardt"],
+      ["Type", "Pistol cartridge"],
+      ["Origin", "German Empire"],
+      ["Year of development", "1893"],
+      ["Associated firearm", "Borchardt C-93"],
+      ["Designer", "Hugo Borchardt*"],
+      ["Case", "Rimless, bottlenecked"],
+      ["Case length", "25.15 mm"],
+      ["Maximum cartridge length", "approximately 34 mm"],
+      ["Bullet diameter", "approximately 7.86 mm"],
+      ["Ignition", "Centerfire"],
+      ["Typical bullet", "approximately 5.5 g"],
+      ["Muzzle velocity", "approximately 390–400 m/s*"],
+      ["Muzzle energy", "approximately 420 J*"],
+      ["Primary firearm", "Borchardt C-93"],
+    ]}
+  />
+
+  <p>
+    * Ballistic characteristics depend on the specific historical ammunition
+    and firearm. Various reference sources give values of approximately
+    385–400 m/s and around 400–425 J.
+  </p>
+
+  <p>
+    * Historical sources do not agree on the cartridge's authorship. Hugo Borchardt
+    is directly associated with the development of the C-93 and its cartridge,
+    while Georg Luger is also identified in some accounts as a participant or
+    co-author of certain design solutions. For this reason, the cartridge is
+    presented here as part of the <strong>Borchardt C-93</strong> system,
+    without categorically attributing the entire design to a single designer.
+  </p>
+
+  <section>
+    <h2>A History That Comes Full Circle</h2>
+
+    <p>
+      At first glance, <strong>7.65×25 mm Borchardt</strong>,
+      <strong>7.63×25 mm Mauser</strong>, <strong>7.62×25 mm Tokarev</strong>,
+      and <strong>7.65×21 mm Parabellum</strong> are simply four different
+      cartridges from the late nineteenth and early twentieth centuries.
+      Examined in sequence, however, they reveal one of the most interesting
+      lineages in the development of pistol ammunition.
+    </p>
+
+    <p>
+      The interesting thing is that GunsAtlas examines this history in reverse
+      order compared with its historical development. We begin with the later
+      cartridges and gradually work our way back to the
+      <strong>7.65×25 mm Borchardt</strong>, which actually stands at the beginning
+      of this story.
+    </p>
+
+    <p>
+      In <strong>1893</strong>, the Borchardt C-93 and its 7.65×25 mm cartridge
+      represented one of the early successful implementations of a self-loading
+      pistol system. Just a few years later, its design was already influencing
+      the next generation of firearms and ammunition.
+    </p>
+
+    <p>
+      Two particularly important branches developed from it.
+    </p>
+
+    <p>
+      One passed through <strong>7.63×25 mm Mauser</strong> and later the Soviet
+      <strong>7.62×25 mm Tokarev</strong>:
+    </p>
+
+    <p style={{ textAlign: "center" }}>
+      <strong>
+        7.65×25 Borchardt → 7.63×25 Mauser → 7.62×25 Tokarev
+      </strong>
+    </p>
+
+    <p>
+      The other led to <strong>7.65×21 mm Parabellum</strong> and subsequently
+      to one of the most widely used pistol cartridges in the world:
+    </p>
+
+    <p style={{ textAlign: "center" }}>
+      <strong>
+        7.65×25 Borchardt → 7.65×21 Parabellum → 9×19 mm Parabellum
+      </strong>
+    </p>
+
+    <p>
+      This illustrates an important aspect of ammunition development: new cartridges
+      rarely emerge entirely independently of their predecessors. Designers build
+      on existing solutions, modify dimensions, loads, and construction, and
+      gradually adapt them to new requirements.
+    </p>
+
+    <p>
+      Thus, a cartridge developed for a relatively rare pistol in
+      <strong>1893</strong> became connected to several of the most significant
+      pistol cartridges of the twentieth century.
+    </p>
+
+    <p>
+      And this is where the history of these four cartridges comes full circle:
+      we began with later developments and, having reached
+      <strong>7.65×25 mm Borchardt</strong>, discover that we have reached not
+      the end, but <strong>the beginning of an entire evolution</strong>.
+    </p>
+  </section>
+</Section>
+
+<Section
+  id="8-5x26-mars"
+  title="8.5×26 mm Mars (.330 Mars)"
+>
+  <img
+    src="/images/calibers/cartridges/8.5x26 Mars.png"
+    alt="8.5×26 mm Mars (.330 Mars)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+
+  <p>
+    <em>
+      One of the most powerful and unusual pistol cartridges of the early 20th century.
+    </em>
+  </p>
+  <p>
+  <strong>8.5×26 mm Mars</strong>, also known as
+  <strong> .330 Mars</strong> and <strong> .330 Gabbet-Fairfax</strong>, is a rare
+  British pistol cartridge from the late 19th and early 20th centuries. It was
+  specifically developed for the <strong>Mars</strong> self-loading pistol,
+  designed by the British inventor <strong>Hugh Gabbet-Fairfax</strong>.
+</p>
+
+<p>
+  The cartridge is among the most powerful pistol cartridges developed in the
+  early 20th century. However, the weapon's unusual design, complex mechanism,
+  large dimensions, and heavy recoil limited its practical use.
+</p>
+<h3>Development History</h3>
+
+<p>
+  In the late 19th century, self-loading pistols were still a relatively new
+  technology, and designers were exploring different approaches to creating
+  reliable and powerful automatic firearms. Among them was the British inventor
+  <strong> Hugh Gabbet-Fairfax</strong>, who developed an unusual self-loading
+  pistol design that became known as the <strong>Mars</strong>.
+</p>
+
+<p>
+  Special cartridges in several calibers were developed for the weapon. One of
+  them was <strong> .330 Mars</strong>, which received the metric designation
+  <strong> 8.5×26 mm Mars</strong>. The cartridge used a bottlenecked,
+  rimless case and was designed for the pistol's specific operating mechanism.
+</p>
+
+<p>
+  In <strong>1899</strong>, Webley &amp; Scott began work on manufacturing the
+  Mars pistol. The ammunition was produced by British manufacturers, including
+  <strong>Kynoch</strong>.
+</p>
+<h3>The Mars Pistol</h3>
+
+<img
+  src="/images/calibers/cartridges/Mars pistol.png"
+  alt="Mars pistol"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  The cartridge is inseparably linked to the Mars pistol. The weapon was unusual
+  not only because of its size and power, but also because of its operating
+  mechanism.
+</p>
+
+<p>
+  The Mars used <strong>long recoil operation of the barrel and bolt</strong>,
+  combined with a rotating bolt. Its feeding system was also unusual — cartridges
+  were drawn backward from the magazine and then raised toward the chamber.
+</p>
+
+<p>
+  The Mars was conceived as an exceptionally powerful self-loading pistol. For
+  its time, it offered impressive firepower, but this came at the cost of its
+  size, weight, complexity, and heavy recoil.
+</p>
+
+<p>
+  These characteristics proved to be serious disadvantages in practical use.
+</p>
+<h3>Design and Features</h3>
+
+<p>
+  <strong>8.5×26 mm Mars</strong> is a rimless cartridge with a bottlenecked case.
+  The nominal bullet diameter is approximately <strong>8.5 mm</strong>, while
+  the case length is approximately <strong>26 mm</strong>.
+</p>
+
+<p>
+  The cartridge's design was tailored to the Mars's specific operating mechanism.
+  The combination of a relatively heavy bullet and a substantial propellant
+  charge provided a high muzzle velocity.
+</p>
+
+<p>
+  Different ballistic figures can be found for this cartridge in historical and
+  modern sources. Velocities of around <strong>530 m/s (1750 ft/s)</strong> are
+  reported. With a bullet weighing approximately <strong>9 g</strong>, this
+  corresponds to a kinetic energy of roughly <strong>1260–1275 J</strong>.
+</p>
+
+<p>
+  These figures explain the reputation of the .330 Mars as one of the most
+  powerful pistol cartridges of the early 20th century.
+</p>
+<h3>Military Trials</h3>
+
+<p>
+  The Mars's power attracted the attention of the British military. Between
+  <strong> 1901 and 1903</strong>, the pistol was repeatedly presented for
+  military trials and demonstrations.
+</p>
+
+<p>
+  The trials showed that the weapon had good accuracy and considerable
+  penetration, but they also revealed serious shortcomings. These included its
+  complex design, heavy weight, strong recoil, heavy trigger pull, and problems
+  with feeding and case ejection. During some trials, cases were ejected backward
+  toward the shooter's face.
+</p>
+
+<p>
+  Ultimately, the Mars failed to secure a military contract and
+  <strong> was never adopted by the British Army</strong>.
+</p>
+<h3>End of Production</h3>
+
+<p>
+  After failing the military trials, the Mars was also offered for civilian use,
+  but its unusual design, high price, and heavy recoil prevented it from achieving
+  commercial success.
+</p>
+
+<p>
+  In <strong>1905–1906</strong>, attempts were made to revive the project through
+  the Mars Automatic Pistol Syndicate, but these also failed. By
+  <strong> 1907</strong>, production had been permanently discontinued.
+</p>
+
+<p>
+  Probably <strong>around 80 pistols</strong> were manufactured, making the Mars
+  and its cartridges exceptionally rare collector's items.
+</p>
+<h3>The Mars Cartridge Family</h3>
+
+<p>
+  <strong>.330 Mars</strong> was not the only cartridge developed for the Mars
+  system.
+</p>
+
+<p>
+  Other cartridges from the <strong> Mars</strong> family were also used during
+  its development, including:
+</p>
+
+<ul>
+  <li><strong>.450 Mars Short</strong></li>
+  <li><strong>.450 Mars Long</strong></li>
+  <li><strong>.360 Mars</strong></li>
+  <li><strong>.330 Mars</strong></li>
+</ul>
+
+<p>
+  All of them used distinctive bottlenecked cases and were developed to deliver
+  considerable firepower for their era.
+</p>
+<h3>Interesting Fact</h3>
+
+<p>
+  One reason the Mars remains part of firearms history is the paradoxical
+  combination of <strong>exceptional power and an exceptionally complex design</strong>.
+</p>
+
+<p>
+  During military trials, heavy recoil proved to be one of the weapon's most
+  serious drawbacks. One of the officers who participated in the 1902 trials
+  described firing the Mars as an extremely unpleasant experience.
+</p>
+
+<p>
+  The Mars is a telling example of the early development of self-loading pistols,
+  when designers experimented with both new operating mechanisms and very
+  powerful cartridges.
+</p>
+
+<h3>The Cartridge Today</h3>
+
+<p>
+  Today, <strong>8.5×26 mm Mars (.330 Mars)</strong> is effectively obsolete and
+  is of interest primarily to collectors of rare firearms and ammunition.
+</p>
+
+<p>
+  Original cartridges are exceptionally rare, and finding a Mars pistol in good
+  condition is even more difficult.
+</p>
+
+<p>
+  Because of the small number of weapons produced and the fact that production
+  ended more than a century ago, the cartridge has no modern practical application.
+</p>
+
+<p>
+  It remains interesting primarily as an example of the early development of
+  self-loading pistols and the efforts of designers of the era to create
+  increasingly powerful ammunition.
+</p>
+<h3>Technical Data</h3>
+
+<TechnicalData
+  language="en"
+  title="8.5×26 mm Mars (.330 Mars)"
+  data={[
+    ["Specification", "Data"],
+    ["Designation", "8.5×26 mm Mars"],
+    ["Other designation", ".330 Mars"],
+    ["Alternative designation", ".330 Gabbet-Fairfax"],
+    ["Type", "Pistol cartridge"],
+    ["Case design", "Rimless, bottlenecked"],
+    ["Case length", "approximately 26 mm"],
+    ["Overall cartridge length", "approximately 36–37 mm"],
+    ["Bullet diameter", "approximately 8.5 mm"],
+    ["Bullet weight", "approximately 9 g"],
+    ["Muzzle velocity", "approximately 530 m/s*"],
+    ["Kinetic energy", "approximately 1260–1275 J*"],
+    ["Primary firearm", "Mars Automatic Pistol"],
+  ]}
+/>
+
+<p>
+  * Ballistic figures vary depending on the load used and the specific historical
+  source. The energy figure of approximately <strong>1270 J</strong> is
+  calculated for a 9 g bullet with a muzzle velocity of 530 m/s.
+</p>
+
+</Section>
+
+<Section
+  id="9-17x-browning-short"
+  title="9×17 mm Browning Short (.380 ACP)"
+>
+  <img
+    src="/images/calibers/cartridges/9х17 short.png"
+    alt="9×17 mm Browning Short (.380 ACP)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    John Browning's small 9 mm cartridge, which became one of the most widely used
+    rounds for compact pistols during the 20th century.
+  </em>
+</p>
+<p>
+  <strong>9×17 mm Browning Short</strong>, known in the United States as
+  <strong> .380 ACP</strong> or <strong>.380 Auto</strong>, is one of the most
+  significant compact pistol cartridges in history. Developed by
+  <strong> John Moses Browning</strong> in the early 20th century, it offers
+  a larger bullet and greater power than the 7.65×17 mm Browning (.32 ACP), while
+  remaining suitable for relatively small and lightweight self-loading pistols.
+</p>
+
+<p>
+  In Europe, the cartridge acquired various designations, including
+  <strong> 9 mm Browning Short</strong>, <strong>9 mm Kurz</strong>, and
+  <strong> 9 mm Corto</strong>. Despite the different names, these refer to the
+  same basic cartridge. C.I.P. registers it as
+  <strong> 9 mm Browning Court</strong>, with alternative names including 9 mm
+  Browning Kurz, 9 mm Browning Corto, .380 ACP, and .380 Auto.
+</p>
+
+<h3>Development History</h3>
+
+<p>
+  The history of the 9×17 mm Browning Short is closely connected with the
+  development of compact self-loading pistols by <strong>John Browning</strong>.
+</p>
+
+<p>
+  By the late 19th and early 20th centuries, Browning already had considerable
+  experience with small self-loading pistols. His
+  <strong>7.65×17 mm Browning (.32 ACP)</strong> became an extremely successful
+  cartridge for compact firearms.
+</p>
+
+<p>
+  Gradually, however, a need emerged for a more powerful cartridge that could
+  be used in a pistol of similar dimensions. The solution was to increase the
+  bullet diameter to 9 mm while retaining a relatively short case.
+</p>
+
+<p>
+  The new cartridge was developed in <strong>1908</strong> and was intended for
+  the new <strong>Colt Model 1908 Pocket Hammerless</strong>. Its American
+  designation became <strong>.380 Automatic Colt Pistol (.380 ACP)</strong>.
+</p>
+<h3>Colt Model 1908 Pocket Hammerless</h3>
+
+<img
+  src="/images/calibers/cartridges/Colt Model1908.png"
+  alt="Colt Model 1908 Pocket Hammerless"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  The pistol was designed by Browning as a more powerful version of the compact
+  Colt Model 1903. The new cartridge allowed the firearm to retain its
+  characteristic flat, compact dimensions while offering a larger bullet than
+  the 7.65×17 mm Browning.
+</p>
+
+<p>
+  This combination proved successful and marked the beginning of the .380 ACP's
+  long service life as a compact-pistol cartridge.
+</p>
+<h3>From America to Europe</h3>
+
+<p>
+  In the United States, the cartridge became established as <strong>.380 ACP</strong>,
+  while in Europe it acquired the designations <strong>9 mm Browning Short</strong>,
+  <strong> 9 mm Kurz</strong>, <strong>9 mm Corto</strong>, and
+  <strong> 9×17 mm </strong>.
+</p>
+
+<p>
+  Its spread across Europe began somewhat later. One of the most important
+  models was the <strong>FN Browning Model 1910</strong>, designed by Browning
+  for the Belgian company <strong>Fabrique Nationale (FN)</strong>.
+</p>
+
+<p>
+  The Model 1910 was designed to accommodate both
+  <strong> 7.65×17 mm Browning</strong> and the new
+  <strong> 9×17 mm Browning Short</strong>. Production of the pistol began in
+  1910, while the 9 mm version appeared in <strong> 1912</strong>.
+</p>
+
+<p>
+  This is a particularly interesting connection with the previously discussed
+  7.65×17 mm Browning: both cartridges occupy the same general niche, but the
+  9×17 mm offers a larger bullet and greater power.
+</p>
+
+<p>
+  The FN Model 1910 became one of the most successful compact pistols of its
+  time and remained in production until <strong>1983</strong>.
+</p>
+
+<h3>Design and Features</h3>
+
+<p>
+  The 9×17 mm Browning Short is a <strong>rimless cartridge with a cylindrical
+  case and centerfire ignition</strong>.
+</p>
+
+<p>
+  According to the current <strong>C.I.P.</strong> dimensions, the nominal case
+  length is <strong>17.30 mm</strong>, while the maximum cartridge length is
+  <strong> 25.00 mm</strong>. The bullet diameter is approximately
+  <strong> 9.04 mm</strong>.
+</p>
+
+<p>
+  For comparison, the <strong>7.65×17 mm Browning</strong> has a case of similar
+  length, but its bullet diameter is considerably smaller. This allowed Browning
+  to create a 9 mm cartridge that remained compact enough for small pistols.
+</p>
+
+<p>
+  The cartridge is particularly well suited to firearms with a
+  <strong>straight-blowback action</strong>. In this system, the barrel and slide
+  are not mechanically locked together when the shot is fired. The slide's
+  sufficient mass and the force of the recoil spring keep it closed for the
+  necessary amount of time.
+</p>
+
+<p>
+  This makes it possible to build relatively simple and reliable pistols.
+</p>
+
+<p>
+  Classic firearms chambered for this cartridge include the
+  <strong>FN Model 1910</strong>, <strong>Walther PP</strong>,
+  <strong>Walther PPK</strong>, and <strong>Beretta M1934</strong>. The Walther
+  PP/PPK, for example, use a straight-blowback action and became widely used
+  police and civilian pistols in Europe.
+</p>
+
+<p>
+  Later, .380 ACP pistols with locked-breech designs also appeared, demonstrating
+  that a straight-blowback action is not mandatory for this cartridge.
+</p>
+
+<h3>Ballistic Characteristics</h3>
+
+<p>
+  The 9×17 mm was developed as a <strong>compromise between compactness and power</strong>.
+</p>
+
+<p>
+  Compared with the 7.65×17 mm Browning, it uses a larger and generally heavier
+  bullet. Compared with the 9×19 mm Parabellum, however, it has considerably
+  less power.
+</p>
+
+<p>
+  For a historical Belgian load with a bullet weighing approximately
+  <strong>6.16 g</strong>, a muzzle velocity of around <strong>290 m/s</strong>
+  is reported, corresponding to approximately <strong>259 J</strong>. Modern
+  factory ammunition can vary considerably depending on bullet weight and
+  construction. For example, modern loads may use a 5.5 g bullet at 305 m/s or
+  a 6.61 g bullet at 285 m/s.
+</p>
+
+<p>
+  Therefore, there is no single universal figure for the muzzle velocity or
+  muzzle energy of the 9×17 mm.
+</p>
+
+<p>
+  Its low to moderate power was one of the factors that made it possible to
+  develop small, relatively lightweight pistols with manageable recoil.
+</p>
+<h3>Military and Police Use</h3>
+
+<p>
+  Although the .380 ACP was originally intended primarily for compact pistols,
+  it achieved significant <strong>police and service use</strong> in Europe.
+</p>
+
+<p>
+  Particularly well-known pistols include:
+</p>
+
+<ul>
+  <li><strong>FN Browning Model 1910</strong></li>
+  <li><strong>FN Browning Model 1922</strong></li>
+  <li><strong>Walther PP</strong></li>
+  <li><strong>Walther PPK</strong></li>
+  <li><strong>Beretta M1934</strong></li>
+  <li><strong>ČZ vz. 38</strong></li>
+  <li><strong>FÉG 37M</strong></li>
+</ul>
+
+<p>
+  During World War II, various pistols chambered in 9×17 mm were used by German
+  military and police organizations, as well as by other European countries.
+</p>
+
+<p>
+  After World War II, the cartridge continued to play an important role in
+  police service. In some European countries, it remained in service into the
+  1960s and 1970s.
+</p>
+
+<p>
+  Its military significance gradually declined as the more powerful
+  <strong>9×19 mm Parabellum</strong> became established as a standard pistol
+  cartridge, particularly after the creation of NATO and the adoption of 9×19 mm
+  as a standard pistol round.
+</p>
+
+<h3>Notable Firearms</h3>
+
+<p>
+  Over more than a century of use, the 9×17 mm cartridge has been chambered in
+  a vast number of pistols.
+</p>
+
+<p>
+  Some of the best known include:
+</p>
+
+<ul>
+  <li><strong>Colt Model 1908 Pocket Hammerless</strong></li>
+  <li><strong>FN Browning Model 1910</strong></li>
+  <li><strong>FN Browning Model 1922</strong></li>
+  <li><strong>Walther PP</strong></li>
+  <li><strong>Walther PPK</strong></li>
+  <li><strong>Beretta M1934</strong></li>
+  <li><strong>ČZ vz. 38</strong></li>
+  <li><strong>FÉG 37M</strong></li>
+  <li><strong>SIG Sauer P230/P232</strong></li>
+  <li><strong>Browning BDA</strong></li>
+</ul>
+
+<p>
+  This variety demonstrates how firmly the cartridge became established in the
+  compact-pistol category.
+</p>
+<h3>9×17 mm and 7.65×17 mm Browning</h3>
+
+<p>
+  The 9×17 mm has a particularly important connection with the
+  <strong>7.65×17 mm Browning (.32 ACP)</strong>.
+</p>
+
+<p>
+  Both cartridges belong to the same concept of compact self-loading pistols
+  developed by John Browning. The 7.65×17 mm is the older of the two, while the
+  9×17 mm offers a larger bullet diameter within a similar overall concept and
+  comparable dimensions.
+</p>
+
+<p>
+  This relationship is especially clear in the <strong>FN Model 1910</strong>,
+  which was offered in both calibers.
+</p>
+
+<p>
+  The 9×17 mm can therefore be viewed as a development of Browning's concept
+  for a small service and civilian pistol, seeking to provide a larger bullet
+  without significantly increasing the firearm's dimensions.
+</p>
+
+<h3>Relationship to Other Cartridges</h3>
+
+<p>
+  The 9×17 mm Browning Short is part of the broader development of cartridges
+  designed by John Browning for self-loading pistols.
+</p>
+
+<p>
+  Chronologically, it appeared after the <strong>7.65×17 mm Browning
+  (.32 ACP)</strong> and offered a larger caliber while retaining compact
+  dimensions.
+</p>
+
+<p>
+  It should not be confused with the <strong>9×20 mm Browning Long</strong>,
+  another Belgian cartridge developed for more powerful pistols, with different
+  dimensions and ballistic characteristics.
+</p>
+
+<p>
+  The 9×17 mm is also not directly interchangeable with the
+  <strong>9×19 mm Parabellum</strong>. Despite their similar nominal bullet
+  diameters, the two cartridges differ in dimensions, pressure, and intended use.
+</p>
+
+<h3>Not to Be Confused with .38 ACP</h3>
+
+<p>
+  One of the most common misconceptions is confusing <strong>.380 ACP</strong>
+  with <strong>.38 ACP</strong>.
+</p>
+
+<p>
+  Their names are similar, but they are <strong>two different cartridges</strong>.
+</p>
+
+<p>
+  <strong>.380 ACP</strong> is 9×17 mm — a relatively short cartridge intended
+  primarily for compact pistols.
+</p>
+
+<p>
+  <strong>.38 ACP</strong> is Browning's older cartridge, known as
+  <strong>9×23 mm SR</strong>. It has a considerably longer case and higher
+  ballistic performance.
+</p>
+
+<p>
+  Therefore, <strong>.380 ACP and .38 ACP are not interchangeable designations</strong>.
+</p>
+
+
+<p>
+  The existence of so many cartridges with a nominal bullet diameter of 9 mm
+  often leads to confusion.
+</p>
+
+<h3>Interesting Fact</h3>
+
+<p>
+  One of the most interesting features of the .380 ACP is that it has managed
+  to fulfill <strong>two different roles</strong>.
+</p>
+
+<p>
+  In the United States, the cartridge remains strongly associated with compact
+  and pocket pistols, while in Europe it also became a widely used
+  <strong>police and service cartridge</strong>.
+</p>
+
+<p>
+  This explains why, during the 20th century, both extremely small pocket pistols
+  and relatively large service models could be found chambered in .380 ACP.
+</p>
+
+<h3>The Cartridge Today</h3>
+
+<p>
+  More than a century after its creation, the <strong>9×17 mm Browning Short</strong>
+  remains in production.
+</p>
+
+<p>
+  Although it has been replaced by more powerful cartridges in many military
+  and police organizations, the .380 ACP remains popular in
+  <strong> compact and subcompact pistols</strong>.
+</p>
+
+<p>
+  Modern production offers a wide range of ammunition with different bullet
+  designs and ballistic characteristics.
+</p>
+
+<p>
+  The cartridge has thus retained its original concept for more than a century
+  after its development — <strong>a compact firearm, moderate recoil, and
+  sufficient power for its intended purpose</strong>.
+</p>
+
+<h3>Technical Data</h3>
+
+<TechnicalData
+  language="en"
+  title="9×17 mm Browning Short (.380 ACP)"
+  data={[
+    ["Specification", "Data"],
+    ["Primary designation", "9×17 mm Browning Short"],
+    ["American designation", ".380 ACP / .380 Auto"],
+    ["European designations", "9 mm Browning Short / 9 mm Kurz / 9 mm Corto"],
+    ["C.I.P. designation", "9 mm Browning Court"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Designer", "John Moses Browning"],
+    ["Year developed", "1908"],
+    ["Case length", "17.30 mm"],
+    ["Maximum cartridge length", "25.00 mm"],
+    ["Bullet diameter", "approximately 9.04 mm"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Ignition", "Centerfire"],
+    ["Maximum average pressure according to C.I.P.", "1350 bar"],
+    ["Typical bullet weight", "approximately 5.5–6.2 g"],
+    ["Typical muzzle velocity", "approximately 285–305 m/s*"],
+    ["Typical muzzle energy", "approximately 220–270 J*"],
+    ["First widely known firearm", "Colt Model 1908 Pocket Hammerless"],
+    ["Primary purpose", "Compact and service self-loading pistols"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific ammunition, bullet weight and
+  construction, and barrel length. For example, an original FN load with a
+  bullet weighing approximately 6.16 g is reported to have a muzzle velocity of
+  around 290 m/s and energy of around 260 J, while modern loads can differ
+  considerably.
+</p>
+</Section>
+
+<Section
+  id="9-18-ultra-police"
+  title="9×18 mm Ultra / 9×18 mm Police"
+>
+  <img
+    src="/images/calibers/cartridges/9x18 Ultra.png"
+    alt="9×18 mm Ultra / 9×18 mm Police"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+
+  <p>
+  <em>
+    <strong>
+      The German intermediate 9 mm cartridge, developed in the 1930s and revived
+      in the 1970s, but ultimately unable to displace the 9×19 Parabellum.
+    </strong>
+  </em>
+</p>
+<p>
+  <strong>9×18 mm Ultra</strong>, also known as <strong>9×18 mm Police</strong>,
+  <strong>9 mm Ultra</strong>, <strong>9 mm Police</strong>, and
+  <strong>9 mm Super</strong>, is a German pistol cartridge developed with the
+  aim of filling the gap between the relatively weak
+  <strong>9×17 mm Browning Short (.380 ACP)</strong> and the more powerful
+  <strong>9×19 mm Parabellum</strong>.
+</p>
+
+<p>
+  Its history is unusual. The first version appeared in Germany in
+  <strong>1936</strong> as an experimental cartridge developed by
+  <strong>GECO (Gustav Genschow &amp; Co.) and Walther</strong> in connection
+  with the requirements of German military organizations. This project remained
+  limited in scope and did not become a widely adopted service cartridge.
+</p>
+
+<p>
+  During the 1960s and early 1970s, the idea was revived. This time, the goal
+  was to create a <strong>police cartridge</strong> that offered greater power
+  than the 9×17 mm while allowing the use of compact pistols with a
+  <strong>straight-blowback action</strong>.
+</p>
+
+<p>
+  The <strong>Walther PP Super</strong> and <strong>SIG P230</strong> appeared,
+  but the second attempt also achieved only limited success. German police
+  forces gradually turned to the <strong>9×19 mm Parabellum</strong>, which
+  offered greater ballistic performance and already enjoyed enormous
+  international distribution.
+</p>
+<div
+  style={{
+    display: "flex",
+    justifyContent: "center",
+    gap: "40px",
+    marginBottom: "30px",
+  }}
+>
+  <div style={{ width: "43%", textAlign: "center" }}>
+    <h3>Walther PP Super</h3>
+
+    <img
+      src="/images/calibers/cartridges/Walther PP Super_9x18 ultra .png"
+      alt="Walther PP Super"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ width: "43%", textAlign: "center" }}>
+    <h3>SIG P230</h3>
+
+   <img
+  src="/images/calibers/cartridges/SIG P230_9x18 ultra.png"
+  alt="SIG P230"
+  style={{
+    width: "100%",
+    height: "auto",
+    display: "block",
+  }}
+/>
+    
+  </div>
+</div>
+<h3>Development History</h3>
+
+<p>
+  During the 1930s, German designers explored the possibility of developing a
+  cartridge more powerful than the
+  <strong> 9×17 mm Browning Short</strong>, but that would not reach the
+  performance of the <strong>9×19 mm Parabellum</strong>.
+</p>
+
+<p>
+  The reason was related to pistol design.
+</p>
+
+<p>
+  Relatively low-powered cartridges can be used in firearms with a
+  <strong>straight-blowback action</strong>, allowing for a simpler and more
+  compact design. More powerful cartridges such as the 9×19 mm, however,
+  generally require a locking system.
+</p>
+
+<p>
+  The idea was to find an intermediate solution: <strong>a more powerful 9 mm
+  cartridge that could still operate in a straight-blowback firearm</strong>.
+</p>
+
+<p>
+  Around <strong>1936</strong>, GECO and Walther developed the first
+  <strong> 9 mm Ultra</strong>. This version was associated with the requirements
+  of the German military, including the Luftwaffe, and was conceived as a more
+  powerful alternative to the 9 mm Kurz.
+</p>
+
+<p>
+  The pre-war version used a case approximately
+  <strong> 18.5 mm</strong> long, making it slightly longer than the case of the
+  later standardized 9 mm Police.
+</p>
+
+<p>
+  The project never reached large-scale production, and its development was
+  discontinued during World War II.
+</p>
+<h3>The Second Life of the 9 mm Ultra</h3>
+
+<p>
+  After World War II, the idea of an intermediate 9 mm cartridge became relevant
+  once again.
+</p>
+
+<p>
+  During the 1960s, the German police sought a more powerful alternative to the
+  widely used <strong>7.65×17 mm Browning</strong> and
+  <strong> 9×17 mm Browning Short</strong>.
+</p>
+
+<p>
+  At the same time, they wanted a firearm more compact than standard pistols
+  chambered in 9×19 mm.
+</p>
+
+<p>
+  This marked the beginning of a new phase in the cartridge's development.
+</p>
+
+<p>
+  SIG worked on the <strong>9 mm Police</strong> in connection with the
+  development of its new <strong>P230</strong> pistol, while Dynamit Nobel/GECO
+  developed the version known as the <strong>9 mm Ultra</strong>. The Austrian
+  company <strong>Hirtenberger</strong>, which manufactured the 9 mm Police,
+  also participated in the ammunition's development.
+</p>
+
+<p>
+  Gradually, the two versions converged, and <strong> 9 mm Police</strong> and
+  <strong> 9 mm Ultra</strong> came to be used as designations for the same
+  post-war standardized cartridge.
+</p>
+
+<p>
+  This should be distinguished from the original pre-war
+  <strong> 9 mm Ultra</strong>, which was a separate experimental version with
+  different dimensions.
+</p>
+<h3>Design and Features</h3>
+
+<p>
+  The post-war <strong>9×18 mm Ultra/Police</strong> is a
+  <strong>rimless cartridge with a cylindrical case and centerfire ignition</strong>.
+</p>
+
+<p>
+  The case has a nominal length of approximately <strong>18 mm</strong>, while
+  the overall cartridge length is approximately <strong>25.2–25.4 mm</strong>.
+</p>
+
+<p>
+  The bullet diameter is approximately <strong>9.0 mm</strong>.
+</p>
+
+<p>
+  One characteristic feature of the cartridge is the relatively small diameter
+  of the case head compared with some other 9 mm designs. This is part of the
+  geometry developed for the specific firearm systems.
+</p>
+
+<p>
+  The fundamental concept remained the same as in the original project:
+  <strong>to achieve the greatest possible power compatible with a
+  straight-blowback action</strong>.
+</p>
+
+<p>
+  This allowed the use of a relatively simple mechanism without the conventional
+  locking system found in 9×19 mm pistols.
+</p>
+<h3>Ballistic Characteristics</h3>
+
+<p>
+  The 9×18 Ultra/Police occupies an intermediate position between
+  <strong> 9×17 Browning Short</strong> and <strong>9×19 Parabellum</strong>.
+</p>
+
+<p>
+  Typical loads use bullets weighing approximately <strong>6.1–6.5 g</strong>,
+  with a muzzle velocity of around <strong>310–330 m/s</strong>.
+</p>
+
+<p>
+  This produces a muzzle energy of approximately <strong>314–340 J</strong>,
+  depending on the specific cartridge.
+</p>
+
+<p>
+  For example, a 6.48 g bullet traveling at approximately 323 m/s has a kinetic
+  energy of around <strong>338 J</strong>.
+</p>
+
+<p>
+  These characteristics are noticeably greater than those typical of the
+  <strong> 9×17 mm Browning Short</strong>, but remain below the level of
+  standard <strong> 9×19 mm Parabellum</strong> loads.
+</p>
+
+<p>
+  This was precisely the intended compromise.
+</p>
+<h3>Walther PP Super</h3>
+
+<p>
+  The best-known firearm designed for this cartridge is the
+  <strong>Walther PP Super</strong>.
+</p>
+
+<p>
+  The pistol was introduced in the early 1970s as a development of the well-known
+  Walther PP concept, but it was considerably larger and more robust.
+</p>
+
+<p>
+  It uses a <strong>straight-blowback action</strong> and was specifically
+  developed for the 9 mm Police/Ultra cartridge.
+</p>
+
+<p>
+  Walther sought to create a modern police firearm that would offer more power
+  than traditional 7.65 mm and 9×17 mm pistols without requiring the locked-breech
+  system used for 9×19 mm.
+</p>
+
+<p>
+  The PP Super was tested by German police organizations, including those in
+  <strong>Bavaria and Rhineland-Palatinate</strong>, but it did not achieve
+  widespread adoption.
+</p>
+
+<h3>SIG P230</h3>
+
+<p>
+  The other principal pistol associated with this cartridge is the
+  <strong>SIG P230</strong>.
+</p>
+
+<p>
+  SIG developed the 9 mm Police in connection with requirements for a compact
+  police firearm.
+</p>
+
+<p>
+  The P230 also uses a <strong>straight-blowback action</strong> and was designed
+  to combine relatively compact dimensions with greater power than traditional
+  9×17 mm pistols.
+</p>
+
+<p>
+  The <strong>Walther PP Super and SIG P230</strong> became the best-known
+  firearm systems associated with the 9×18 Ultra/Police.
+</p>
+<h3>Police Use</h3>
+
+<p>
+  The cartridge's revival during the 1960s and 1970s was directly connected with
+  the development of police firearms in West Germany.
+</p>
+
+<p>
+  The idea appeared logical:
+</p>
+
+<p>
+  <strong>9×17 mm → insufficient power</strong>
+</p>
+
+<p>
+  <strong>9×18 mm Police → intermediate solution</strong>
+</p>
+
+<p>
+  <strong>9×19 mm → more powerful, but requires a more complex design</strong>
+</p>
+
+<p>
+  In practice, however, the advantage of the 9×18 mm gradually disappeared.
+</p>
+
+<p>
+  The development of compact pistols with locked barrels made it possible to
+  create relatively small firearms chambered in <strong>9×19 mm</strong>.
+</p>
+
+<p>
+  As a result, there was no longer a need for a separate intermediate cartridge
+  simply to retain a straight-blowback action.
+</p>
+
+<p>
+  German police organizations gradually adopted <strong>9×19 mm</strong> and
+  firearms such as the <strong>Walther P5</strong> and
+  <strong>SIG-Sauer P225</strong>.
+</p>
+
+<p>
+  This effectively ended the attempt to establish the
+  <strong>9×18 Ultra/Police</strong> as a standard police cartridge.
+</p>
+<h3>Why Did the Cartridge Fail to Gain Acceptance?</h3>
+
+<p>
+  The reason for its lack of success is interesting.
+</p>
+
+<p>
+  The 9×18 Ultra/Police was designed to fill a specific technical niche. It
+  offered more power than the <strong>9×17 mm</strong> while retaining the
+  possibility of using a straight-blowback action.
+</p>
+
+<p>
+  The problem was that firearm technology continued to evolve.
+</p>
+
+<p>
+  As compact pistols with locked barrels became smaller, lighter, and more
+  reliable, the advantages of a straight-blowback action were no longer
+  sufficient to justify a separate cartridge.
+</p>
+
+<p>
+  At the same time, the <strong>9×19 mm</strong> was already a firmly established
+  cartridge supported by an enormous manufacturing and logistical infrastructure.
+</p>
+
+<p>
+  Consequently, the <strong>9×18 Ultra/Police</strong> became an
+  <strong>intermediate solution whose historical necessity gradually disappeared</strong>.
+</p>
+<h3>9×18 Ultra and 9×18 Makarov</h3>
+
+<p>
+  This is one of the most important sections concerning this cartridge.
+</p>
+
+<p>
+  <strong>9×18 mm Ultra/Police and 9×18 mm Makarov are different cartridges.</strong>
+</p>
+
+<p>
+  The shared "9×18" designation is coincidental and does not imply interchangeability.
+</p>
+
+<p>
+  One visible difference is the bullet diameter. The 9×18 Ultra bullet measures
+  approximately <strong>9.0 mm</strong>, while the
+  <strong>9×18 Makarov</strong> bullet measures approximately
+  <strong>9.25 mm</strong>.
+</p>
+
+<p>
+  They also differ in cartridge geometry, pressure, and ballistic characteristics.
+</p>
+
+<p>
+  Therefore:
+</p>
+
+<p>
+  <strong>9×18 Ultra ≠ 9×18 Makarov</strong>
+</p>
+
+<p>
+  This distinction is particularly important when collecting ammunition, since
+  two cartridges marked "9×18" may look similar while being intended for
+  entirely different firearms.
+</p>
+
+<h3>9×18 Ultra and 9×17 Browning Short</h3>
+
+<p>
+  The relationship between these two cartridges is much more direct than their
+  relationship with the 9×18 Makarov.
+</p>
+
+<p>
+  The 9×18 Ultra was developed specifically as a
+  <strong>more powerful intermediate alternative to the 9×17 Browning Short</strong>.
+</p>
+
+<p>
+  It retained relatively compact dimensions and the concept of a firearm with
+  a straight-blowback action, but used a longer case and a larger propellant charge.
+</p>
+
+<p>
+  It can therefore be viewed as an attempt to develop the concept further:
+</p>
+
+<p>
+  <strong>9×17 Browning Short → 9×18 Ultra/Police</strong>
+</p>
+
+<p>
+  However, this should not be interpreted as a direct design derivative in the
+  same way that, for example, <strong>7.63×25 Mauser → 7.62×25 Tokarev</strong>
+  represents a clearly documented historical lineage.
+</p>
+
+<p>
+  In the case of the 9×18 Ultra, it is more accurate to describe it as a
+  <strong>development within the same conceptual niche</strong>.
+</p>
+
+<h3>Not to Be Confused with the 9×18 Makarov</h3>
+
+<p>
+  <strong>9×18 Ultra / Police</strong>
+</p>
+
+<ul>
+  <li>Germany / Western Europe</li>
+  <li>Case approximately 18 mm long</li>
+  <li>Bullet approximately 9.0 mm in diameter</li>
+  <li><strong>Walther PP Super</strong></li>
+  <li><strong>SIG P230</strong></li>
+  <li>Designed for relatively compact pistols with a straight-blowback action</li>
+</ul>
+
+<p style={{ marginTop: "30px" }}>
+  <strong>9×18 Makarov</strong>
+</p>
+
+<ul>
+  <li>USSR</li>
+  <li>Different design</li>
+  <li>Bullet approximately 9.25 mm in diameter</li>
+  <li>PM Makarov and other Soviet/Eastern European firearms</li>
+  <li>Separate history and ballistic characteristics</li>
+</ul>
+
+<p style={{ marginTop: "30px" }}>
+  The two cartridges <strong>are not interchangeable</strong>.
+</p>
+
+<h3>Other Firearms</h3>
+
+<p>
+  In addition to the <strong>Walther PP Super</strong> and
+  <strong>SIG P230</strong>, the 9×18 Ultra/Police was also chambered in a
+  limited number of other firearms.
+</p>
+
+<p>
+  These include:
+</p>
+
+<ul>
+  <li><strong>Mauser HSc-80</strong></li>
+  <li><strong>Benelli B76</strong></li>
+  <li><strong>Steyr GB</strong> — developed and offered in a version for the 9×18 Ultra</li>
+  <li>Other experimental and limited-production designs</li>
+</ul>
+
+<p style={{ marginTop: "30px" }}>
+  The main production firearms with which the cartridge remains historically
+  associated, however, are the <strong>Walther PP Super</strong> and
+  <strong>SIG P230</strong>.
+</p>
+
+<h3>The Cartridge Today</h3>
+
+<p>
+  Today, the 9×18 Ultra/Police is a <strong>rare cartridge</strong>, of interest
+  primarily to collectors and owners of the few remaining firearms designed for it.
+</p>
+
+<p>
+  Despite its limited distribution, the cartridge has not disappeared entirely.
+  Ammunition has been produced by companies such as <strong>GECO, Hirtenberger,
+  Fiocchi, Norma, and Dynamit Nobel</strong>, and modern-manufactured cartridges
+  can still be found on the collectors' market.
+</p>
+
+<p>
+  Its history remains interesting because the same basic idea experienced
+  <strong>two separate lives</strong> — first during the 1930s and again during
+  the 1960s and 1970s.
+</p>
+
+<p>
+  Both times, the outcome was similar: the <strong>9×19 mm Parabellum</strong>
+  proved to be the more successful solution.
+</p>
+
+<h3>Interesting Fact</h3>
+
+<p>
+  The 9×18 Ultra is one of the rare examples of a cartridge that effectively
+  received <strong>a second chance several decades after its original development</strong>.
+</p>
+
+<p>
+  The pre-war project of 1936 remained limited and experimental. After the war,
+  however, the same concept once again appeared attractive to the German police.
+</p>
+
+<p>
+  This time, the cartridge received a new name — <strong>9 mm Police</strong> —
+  and specialized production pistols were developed for it.
+</p>
+
+<p>
+  The story nevertheless ended with a gradual transition to
+  <strong> 9×19 mm Parabellum</strong>.
+</p>
+<h3>Technical Data</h3>
+
+<TechnicalData
+  language="en"
+  title="9×18 mm Ultra / 9×18 mm Police"
+  data={[
+    ["Primary designation", "9×18 mm Ultra / 9×18 mm Police"],
+    ["Other designations", "9 mm Ultra, 9 mm Police, 9 mm Super"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "Germany"],
+    ["Original development", "1936"],
+    ["Post-war development", "1960s–1970s"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Case length", "approximately 18 mm"],
+    ["Overall cartridge length", "25.2–25.4 mm"],
+    ["Bullet diameter", "approximately 9.0 mm"],
+    ["Typical bullet weight", "6.1–6.5 g"],
+    ["Typical muzzle velocity", "310–330 m/s*"],
+    ["Typical muzzle energy", "approximately 314–340 J*"],
+    ["Primary firearms", "Walther PP Super, SIG P230"],
+    ["Primary purpose", "Compact police and service pistols"],
+  ]}
+/>
+
+<p>
+  * Ballistic figures depend on the specific cartridge, bullet weight and
+  construction, and barrel length. Reported figures for the 9 mm Police are
+  around 310–330 m/s and 314–333 J with bullets weighing approximately 6.1–6.5 g.
+</p>
+
+<p>
+  <strong>Important:</strong> the pre-war <strong>9 mm Ultra developed in 1936</strong>
+  should not automatically be treated as identical to the standardized
+  post-war <strong>9×18 mm Police/Ultra</strong>. The original version had a
+  longer case and represents a separate early stage in the cartridge's development.
+</p>
+
+
+</Section>
+ <Section
+  id="9x18-makarov"
+  title="9×18 mm Makarov (9×18 PM)"
+>
+  <img
+    src="/images/calibers/cartridges/9x18PM.png"
+    alt="9×18 mm Makarov"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    <em>
+      9×18 mm Makarov, also known as 9×18 PM or 9 mm Makarov, is a Soviet
+      pistol cartridge developed shortly after World War II. It was designed
+      for a new generation of service pistols that had to be more compact and
+      simpler than the previously used TT-33, while providing greater power
+      than 7.65×17 mm and 9×17 mm Browning.
+    </em>
+  </p>
+  <p>
+    The cartridge was designed by Soviet engineer <strong>Boris Vladimirovich Syomin in 1946</strong> and was initially developed independently of any specific pistol. In 1947, Nikolay Fyodorovich Makarov began developing his pistol around the new cartridge. In <strong>1951, the 9×18 mm cartridge and the Makarov pistol were adopted by the Soviet Army</strong>.
+  </p>
+
+  <p>
+    Thus, 9×18 PM became one of the most important pistol cartridges of the
+    Eastern Bloc and remained a standard service cartridge for the armed
+    forces, police, and security services of numerous socialist countries
+    for decades.
+  </p>
+
+  <h3>Development History</h3>
+
+  <p>
+    After the end of World War II, the Soviet military leadership sought a
+    new service pistol to replace the <strong>TT-33</strong>.
+  </p>
+
+  <p>
+    The 7.62×25 mm Tokarev is a powerful, high-velocity cartridge, but the
+    TT-33 pistol is relatively large for a service sidearm. The new concept
+    called for a more compact pistol with a simpler design, easier handling,
+    and more moderate ballistics.
+  </p>
+
+  <p>
+    In <strong>1946, Boris Syomin</strong> developed the new 9 mm cartridge.
+    The concept was to achieve sufficient power with relatively low recoil
+    and pressure, allowing the future pistol to operate with a
+    <strong>simple blowback action</strong>.
+  </p>
+
+  <p>
+    This was an important design compromise. A simple blowback action does
+    not require a mechanism to lock the barrel to the slide. This makes the
+    weapon simpler, easier to manufacture, and easier to maintain.
+  </p>
+
+  <p>
+    Interestingly, the new Soviet cartridge also has a historical connection
+    to the German-developed <strong>9×18 mm Ultra</strong>. Soviet designers
+    had access to German designs after the war, and a number of sources
+    identify the Ultra as one of the influences on the development of
+    9×18 Makarov. This does not mean, however, that the two cartridges are
+    identical or interchangeable.
+  </p>
+
+  <p>
+    This connection is particularly interesting in the context of cartridge
+    development:
+  </p>
+
+  <p>
+    <strong>9×17 mm Browning Short → 9×18 mm Ultra → 9×18 mm Makarov</strong>
+  </p>
+
+  <p>
+    This represents a design and historical connection, rather than a
+    straightforward progression within a single cartridge family.
+  </p>
+
+  <h3>The Makarov Pistol</h3>
+
+  <img
+    src="/images/calibers/cartridges/Makarov.png"
+    alt="Makarov pistol"
+    style={{
+      width: "47%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    In 1947, Nikolay Fyodorovich Makarov developed his pistol for the new
+    cartridge. A number of Soviet designers participated in the competition,
+    and foreign pistols, including models from Walther, Browning, Sauer, and
+    Beretta, were also used for comparison. In 1948, Makarov's design was
+    selected.
+  </p>
+
+  <p>
+    Following testing and refinement, the <strong>9-mm Makarov pistol, Model 1951 (PM), was adopted for service in 1951</strong>.
+  </p>
+
+  <p>
+    Its design is exceptionally well suited to the cartridge's characteristics.
+    The PM uses a <strong>simple blowback action</strong>, a fixed barrel, and
+    a relatively small number of parts. This makes it straightforward to
+    manufacture, reliable, and easy to maintain.
+  </p>
+
+  <p>
+    The combination of cartridge and firearm proved to be one of the most
+    successful examples of matching ammunition to a specific weapon design.
+  </p>
+
+  <h3>Design and Characteristics of 9×18 mm Makarov</h3>
+
+  <p>
+    9×18 mm Makarov is a <strong>rimless cartridge with a slightly tapered case</strong>.
+    The nominal case length is approximately <strong>18.1 mm</strong>, while
+    the overall cartridge length is approximately <strong>25 mm</strong>.
+  </p>
+
+  <p>
+    The cartridge's most distinctive feature is its bullet diameter.
+  </p>
+
+  <p>
+    While the bullet diameter of most widely used 9 mm cartridges, such as
+    9×17 mm Browning Short and 9×19 mm Parabellum, is approximately 9.0 mm,
+    the diameter of the 9×18 Makarov bullet is approximately
+    <strong>9.25–9.27 mm</strong>.
+  </p>
+
+  <p>
+    This difference is also related to the traditional Soviet method of
+    designating the calibers of rifled firearms—by the diameter across the
+    lands of the rifling, rather than by the bullet diameter or the diameter
+    across the grooves.
+  </p>
+
+  <p>
+    The larger bullet diameter provides a greater cross-sectional area
+    without significantly increasing the overall length of the cartridge.
+  </p>
+
+  <h3>Ballistics</h3>
+
+  <p>
+    9×18 Makarov occupies an intermediate position between 9×17 mm Browning
+    Short and 9×19 mm Parabellum.
+  </p>
+
+  <p>
+    The typical military bullet weighs approximately <strong>6 g</strong>,
+    and a standard cartridge has a muzzle velocity of around
+    <strong>315–320 m/s</strong>. With a 6 g bullet traveling at 319 m/s,
+    the kinetic energy is approximately <strong>305 J</strong>. CIP data for
+    a 6 g bullet indicate approximately <strong>319 m/s and 313 J</strong>
+    when measured using a 97 mm test barrel.
+  </p>
+
+  <p>
+    This is higher than the typical energy of 9×17 mm Browning Short, but
+    considerably lower than that of standard 9×19 mm Parabellum ammunition.
+  </p>
+
+  <p>
+    This moderate ballistic performance is precisely what allows the use of
+    a simple blowback action, one of the cartridge's primary design goals.
+  </p>
+
+  <h3>The Simple Blowback Action</h3>
+
+  <p>
+    The concept behind 9×18 PM cannot be considered separately from the way
+    the Makarov pistol operates.
+  </p>
+
+  <p>
+    In a simple blowback action, the barrel is not locked to the slide.
+    When the cartridge is fired, the slide begins moving backward under the
+    pressure of the propellant gases, but its mass and the recoil spring
+    slow the movement sufficiently for the weapon to operate safely.
+  </p>
+
+  <p>
+    Standard pistols chambered in the more powerful
+    <strong>9×19 mm Parabellum</strong> generally use a locking mechanism
+    between the barrel and slide. This allows them to handle higher
+    pressures without requiring an excessively heavy slide.
+  </p>
+
+  <p>
+    There are exceptions. For example, the <strong>HK P7</strong> uses a
+    gas-delayed blowback system. This design is more complex than a
+    conventional simple blowback action.
+  </p>
+
+  <p>
+    Therefore, it is not accurate to say that all 9×19 mm pistols use a
+    locked-breech system, although locking systems are much more common in
+    modern service pistol designs.
+  </p>
+
+  <h3>Bullets and Ammunition Development</h3>
+
+  <p>
+    The original Soviet standard cartridge used a bullet with a
+    <strong>lead core</strong>. In <strong>1954</strong>, a cartridge with a
+    <strong>steel core</strong>, designated 57-N-181S, was introduced.
+  </p>
+
+  <p>
+    The steel-core bullet offers improved penetration characteristics and
+    allows savings in strategically more valuable materials. Numerous
+    versions of 9×18 mm ammunition were subsequently developed in different
+    manufacturing countries, using different core materials, coatings, and
+    configurations for various purposes.
+  </p>
+
+  <p>
+    Standard military cartridges commonly use <strong>steel cases</strong>,
+    reducing manufacturing costs compared with brass cases.
+  </p>
+
+  <p>
+    Large quantities of steel-cased ammunition coated with a thin layer of
+    copper alloy were manufactured in the Soviet Union and Eastern Bloc
+    countries. This coating is often referred to as tombac or red brass.
+  </p>
+
+  <h3>Distribution Throughout the Eastern Bloc</h3>
+
+  <p>
+    After its adoption by the Soviet Union, 9×18 mm Makarov quickly became
+    a standard pistol cartridge in countries within the Soviet sphere of
+    influence.
+  </p>
+
+  <p>
+    The cartridge was used in <strong>Poland, Czechoslovakia, Hungary,
+    Bulgaria, Romania, the German Democratic Republic, China</strong>, and
+    other countries.
+  </p>
+
+  <p>
+    These countries developed their own pistols and PM variants, as well as
+    their own ammunition production lines.
+  </p>
+
+  <p>
+    Well-known pistols chambered in this caliber include the Polish
+    <strong>P-64 and P-83</strong>, the Hungarian <strong>PA-63</strong>,
+    the Czechoslovakian <strong>CZ 82</strong>, East German variants of the
+    PM, and numerous other designs.
+  </p>
+
+  <p>
+    In this way, 9×18 mm Makarov became something of an Eastern counterpart
+    to the Western 9×19 mm Parabellum—a standard service cartridge used by
+    numerous armies, police forces, and security services for decades.
+  </p>
+
+  <h3>9×18 mm Makarov in Bulgaria</h3>
+
+  <p>
+    The cartridge has a particularly important history in Bulgaria.
+  </p>
+
+  <p>
+    Production of <strong>9×18 mm pistol cartridges</strong> in Bulgaria
+    began in <strong>1971–1972</strong>, followed by production of the
+    9 mm Makarov pistol in <strong>1972–1974</strong>. This formed part of
+    the development of Bulgaria's arms industry and the establishment of
+    manufacturing facilities for Soviet-pattern firearms and ammunition.
+  </p>
+
+  <p>
+    The Makarov pistol became one of the most widely used service weapons
+    in Bulgaria. The 9×18 mm cartridge was used by the Bulgarian People's
+    Army, the Ministry of Interior, and other organizations, while domestic
+    ammunition production supplied large quantities for internal use and
+    export.
+  </p>
+
+  <p>
+    The cartridge remains closely associated with Bulgaria's arms history
+    during the socialist period and with the equipment used by its security
+    services in the following decades.
+  </p>
+
+  <h3>After the End of the Warsaw Pact</h3>
+
+  <p>
+    After the end of the Cold War, the role of 9×18 mm gradually declined.
+    The main reason was the widespread transition to
+    <strong>9×19 mm Parabellum</strong>, which offers greater ballistic
+    performance and became a standard or widely used caliber in the armed
+    forces and police of many countries.
+  </p>
+
+  <p>
+    Nevertheless, 9×18 mm did not disappear.
+  </p>
+
+  <p>
+    The enormous number of pistols and cartridges produced, along with the
+    continued service of the PM and its variants, kept the cartridge in use
+    beyond the end of the 20th century.
+  </p>
+
+  <h3>9×18 Makarov and 9×18 Ultra</h3>
+
+  <p>
+    It is important to draw a direct comparison with
+    <strong>9×18 mm Ultra / Police</strong>.
+  </p>
+
+  <p>
+    The two cartridges have the same nominal case length and can look very
+    similar. However, they are <strong>not interchangeable</strong>.
+  </p>
+
+  <p>
+    The main difference is the bullet diameter:
+  </p>
+
+  <ul>
+    <li><strong>9×18 Ultra/Police</strong> – approximately <strong>9.02 mm</strong>;</li>
+    <li><strong>9×18 Makarov</strong> – approximately <strong>9.25–9.27 mm</strong>.</li>
+  </ul>
+  <br />
+
+  <p>
+    A pistol designed for one cartridge must not be assumed to be compatible
+    with the other simply because both are designated “9×18.”
+  </p>
+
+  <p>
+    The historical connection between the two cartridges is nevertheless
+    interesting. The German 9×18 Ultra predates the Soviet cartridge by a
+    decade and belongs to the same search for an intermediate cartridge
+    between 9×17 and 9×19 mm.
+  </p>
+
+  <h3>Connection to 7.62×25 Tokarev</h3>
+
+  <p>
+    9×18 Makarov was intended to replace 7.62×25 mm Tokarev as the Soviet
+    Army's standard pistol cartridge, although the two cartridges differ
+    completely in design.
+  </p>
+
+  <p>
+    The 7.62×25 mm is a high-velocity cartridge with a bottlenecked case
+    and a relatively small bullet. The 9×18 mm uses a larger and heavier
+    bullet, but at a significantly lower velocity.
+  </p>
+
+  <p>
+    This was a deliberate change in design philosophy: rather than
+    maximizing velocity and penetration, the goal was to achieve
+    <strong>a more compact weapon, a simpler design, and adequate service performance</strong>.
+  </p>
+
+  <p>
+    The development can therefore be represented as follows:
+  </p>
+
+  <p>
+    <strong>7.62×25 Tokarev → 9×18 Makarov → 9×19 mm</strong>
+  </p>
+
+  <p>
+    The final transition, however, was gradual and differed from country
+    to country.
+  </p>
+
+  <h3>The Cartridge Today</h3>
+
+  <p>
+    Although 9×18 mm Makarov has gradually been replaced by 9×19 mm
+    Parabellum as the primary service pistol cartridge in many countries,
+    it continues to be manufactured and used.
+  </p>
+
+  <p>
+    Bulgaria is one example of a country where production of this cartridge
+    continues today. <strong>Arsenal JSCo.</strong> offers 9×18 mm ammunition
+    with a bimetallic case and versions with both steel and lead cores.
+    The cartridge is listed for use in the Makarov pistol and the Shipka
+    submachine gun.
+  </p>
+
+  <p>
+    <strong>NITI – Kazanlak</strong> also manufactures special 9×18 mm
+    Makarov cartridges, including blank cartridges.
+  </p>
+
+  <p>
+    As a result, 9×18 mm Makarov, developed in the Soviet Union shortly
+    after World War II, continues to be manufactured in Bulgaria more than
+    seven decades after its creation.
+  </p>
+
+  <h3>Interesting Fact</h3>
+
+  <p>
+    Although it may seem natural today to call it “9×18 Makarov,” this
+    <strong>was not the cartridge's original official Soviet designation</strong>.
+    It was adopted for service as the <strong>9 mm pistol cartridge</strong>,
+    and the name “Makarov” gradually became established to distinguish it
+    from other 9 mm cartridges.
+  </p>
+
+  <p>
+    This is particularly important because the existence of
+    <strong>9×18 Ultra/Police</strong> shows how misleading the caliber
+    designation alone can be.
+  </p>
+
+  <p>
+    Two cartridges can both be designated <strong>9×18</strong>, look almost
+    identical, and still have different bullet diameters and be
+    non-interchangeable.
+  </p>
+
+  <TechnicalData
+    language="en"
+    title="9×18 mm Makarov"
+    data={[
+      ["Designation", "9×18 mm Makarov"],
+      ["Other designations", "9×18 PM, 9 mm Makarov"],
+      ["Type", "Pistol cartridge"],
+      ["Case", "Rimless, steel/bimetallic"],
+      ["Case length", "18.1 mm"],
+      ["Overall cartridge length", "~25 mm"],
+      ["Bullet diameter", "9.25 mm"],
+      ["Bullet mass", "5.95 g"],
+      ["Muzzle velocity*", "302.5 m/s (V₁₀)"],
+      ["Kinetic energy*", "~272 J"],
+      ["Average chamber pressure*", "117.7 MPa"],
+      ["Primary firearm", "Makarov pistol (PM)"],
+      ["Other firearms", "9×18 mm pistols and submachine guns"],
+    ]}
+  />
+  <p></p>
+  <p>
+    <strong>* Data from Arsenal JSCo. for its 9×18 mm ammunition.</strong>
+    The manufacturer lists a bullet mass of 5.95 g, an average velocity of
+    V₁₀ = 302.5 m/s, and an average chamber pressure of 117.7 MPa. Based on
+    these figures, the kinetic energy is approximately 272 J. Arsenal offers
+    two versions—FMJ with a steel core and FMJ with a lead core—and lists the
+    Makarov pistol and Shipka as compatible firearms.
+  </p>
+
+  <p>
+    <strong>Note:</strong> The ballistic performance of 9×18 mm Makarov
+    depends on the specific manufacturer, bullet type, and propellant
+    charge. The figures of 302.5 m/s and approximately 272 J given above
+    are the current data published by the Bulgarian manufacturer Arsenal
+    JSCo. for its 9×18 mm ammunition.
+  </p>
+</Section>
+
+<Section
+  id="9x18-pmm"
+  title="9×18 mm PMM"
+>
+
+  
+
+  <img
+    src="/images/calibers/cartridges/9x18 PMM.png"
+    alt="9×18 mm PMM"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+<p>
+  <em>
+    The modernized Soviet cartridge designed to give the Makarov pistol
+    greater power.
+  </em>
+</p>
+<p>
+  <strong>9×18 mm PMM</strong> is a modernized version of the Soviet
+  <strong>9×18 mm PM (Makarov)</strong> cartridge, developed in the early 1990s
+  for the modernized <strong>PMM – Modernized Makarov Pistol</strong>.
+</p>
+
+<p>
+  The main goal of the development was to increase the muzzle velocity, muzzle
+  energy, and penetration of the standard 9×18 mm PM without changing the
+  cartridge's overall dimensions. This made it possible to use the more powerful
+  ammunition in a modernized version of the existing Makarov pistol.
+</p>
+
+<p>
+  The new cartridge received the designation <strong>7N16</strong>. It uses a case
+  with the same basic dimensions as the standard 9×18 mm PM, but is loaded with
+  a more powerful propellant charge and uses a new bullet design. As a result,
+  the muzzle velocity increases significantly, and the muzzle energy is approximately
+  <strong>1.7 times higher</strong> than that of the standard cartridge.
+</p>
+<h2>Development History</h2>
+
+<p>
+  By the late 1980s, the Makarov pistol was already becoming outdated in terms
+  of its design concept. The emergence of modern pistols with higher magazine
+  capacities and the use of personal ballistic protection created new requirements
+  for service handguns.
+</p>
+
+<p>
+  The standard <strong>9×18 mm PM</strong> is reliable and
+  compact, but its ballistic performance has limitations, particularly in terms of
+  penetration.
+</p>
+
+<p>
+  In the early 1990s, Soviet
+  designers began modernizing the PM. Alongside changes to the pistol itself, a new
+  high-impulse cartridge was developed – <strong>9×18 PMM, designation 7N16</strong>.
+</p>
+
+<p>
+  This led to the combination of <strong>PMM + 9×18 PMM</strong>,
+  intended to extend the service life of the Makarov design and improve its combat
+  performance.
+</p>
+<h2>Design and Features</h2>
+
+<p>
+  One of the most interesting features of the 9×18 PMM is that <strong>the
+  basic case dimensions remain unchanged</strong>. This allows the new cartridge
+  to retain the same overall dimensions for use in the modernized pistol design.
+</p>
+
+<p>
+  However, the case contains a more powerful propellant charge. The use of
+  a more energetic spherical propellant makes it possible to significantly increase
+  muzzle velocity without changing the cartridge's basic dimensions.
+</p>
+
+<p>
+  The bullet design was also changed. It is lighter than the standard 9×18 PM
+  bullet, and its nose is elongated and shaped like a truncated cone.
+  This design contributes to the increased velocity and improved penetration.
+</p>
+
+<p>
+  The bullet weighs approximately <strong>5.5 g</strong>, compared with around
+  6.1 g for the standard 9×18 PM.
+</p>
+  {/* Text about the cartridge will be added here. */}
+
+<h3>Modernized Makarov Pistol – PMM – The Firearm Designed for the New Cartridge</h3>
+
+<img
+  src="/images/calibers/cartridges/PMM.png"
+  alt="Modernized Makarov Pistol – PMM"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+
+<p>
+  The development of the 9×18 PMM is closely linked to
+  the modernization of the pistol itself.
+</p>
+
+<p>
+  The PMM features a <strong>wider frame and a double-stack
+  magazine</strong>, allowing it to hold up to 12 cartridges. The most significant
+  change related to the new ammunition is the design of the chamber.
+</p>
+
+<p>
+  In early versions of the PMM, <strong>helical grooves</strong> were
+  cut into the chamber. These increase resistance during case extraction and
+  thereby slow the slide's movement when firing.
+  This allows the firearm to operate with the higher pressure of the 9×18 PMM.
+</p>
+
+<p>
+  Thus, modernization involves more than just a new
+  cartridge — the firearm itself must also be adapted to handle the increased
+  stress.
+</p>
+<h3>Ballistic Characteristics</h3>
+
+<p>
+  The main advantage of the 9×18 PMM is its significant
+  increase in velocity and energy.
+</p>
+
+<p>
+  With a standard bullet weighing approximately <strong>5.4–5.8 g</strong>,
+  the muzzle velocity is reported to be approximately <strong>420–435 m/s</strong>.
+</p>
+
+<p>
+  Muzzle energy is around <strong>485–505 J</strong>, depending on
+  the specific load and test conditions. By comparison, the standard 9×18
+  mm PM produces approximately 275–315 J.
+</p>
+
+<p>
+  The PMM thus achieves ballistic performance that
+  approaches that of some more powerful handgun cartridges, while retaining
+  the compact dimensions of the original 9×18 mm cartridge.
+</p>
+<h3>Penetration</h3>
+
+<p>
+  The increased velocity and changes to the bullet design improve
+  its penetration.
+</p>
+
+<p>
+  This was particularly important in the late 20th century, when the use of
+  body armor and other forms of personal protection was becoming increasingly widespread.
+</p>
+
+<p>
+  The PMM was developed during a period when the standard 9×18 mm was already being
+  regarded as insufficiently powerful for the new requirements of service handguns.
+</p>
+
+<p>
+  Nevertheless, the 9×18 PMM did not turn the PM into an equivalent replacement for
+  modern pistols chambered in <strong>9×19 mm Parabellum</strong>. Instead, it was
+  an attempt to improve the capabilities of the existing system without replacing
+  it entirely.
+</p>
+<h3>Relationship with the 9×18 mm PM</h3>
+
+<p>
+  The 9×18 PMM retains the basic dimensions of the standard
+  9×18 mm PM, but the two cartridges <strong>should not be considered equivalent in
+  terms of operating loads</strong>.
+</p>
+
+<p>
+  The PMM is a high-impulse cartridge with a more powerful charge and
+  higher operating loads. For this reason, it is intended for firearms
+  specifically adapted to use it.
+</p>
+
+<p>
+  This is particularly important because the two
+  cartridges look very similar. Using the high-pressure PMM in a standard
+  Makarov pistol that was not designed for it can subject the firearm to dangerous
+  levels of stress.
+</p>
+
+<p>
+  This very feature became one of the
+  obstacles to the cartridge's widespread adoption. Older PM pistols had been
+  manufactured in enormous numbers, and distinguishing between the standard PM and
+  the modernized PMM created practical problems.
+</p>
+<h3>Limited Adoption</h3>
+
+<p>
+  Despite its improved performance, the 9×18 PMM did
+  not become a new standard handgun cartridge.
+</p>
+
+<p>
+  One reason was that the modernization came at a
+  time of major changes in Russian small arms. Alongside the PMM, efforts were
+  underway to develop an entirely new service pistol capable of using more powerful
+  cartridges and competing with contemporary Western designs.
+</p>
+
+<p>
+  Ultimately, the PMM saw limited adoption, while the standard 9×18 mm PM
+  continued to serve as the primary cartridge for the vast number of Makarov pistols.
+  The PMM itself was used in limited quantities by Russian security forces.
+</p>
+<h3>Relationship to Other Cartridges</h3>
+
+<p>
+  The 9×18 PMM is an interesting example of the
+  modernization of an existing cartridge:
+</p>
+
+<p>
+  <strong>9×18 mm PM → 9×18 mm PMM</strong>
+</p>
+
+<p>
+  Unlike the introduction of an entirely new caliber, in this case
+  the designers retained the basic dimensions of the older cartridge and increased
+  its capabilities by changing the propellant charge and bullet design.
+</p>
+
+<p>
+  This made a significant improvement in
+  ballistic performance possible, but also created the need for a specially adapted
+  firearm.
+</p>
+<h3>Interesting Fact</h3>
+
+<p>
+  The 9×18 PMM is an example of how far a cartridge
+  design can be developed without changing its basic dimensions.
+</p>
+
+<p>
+  Approximately <strong>the same case</strong> that was used decades earlier
+  for the standard 9×18 PM now operates with a more powerful charge and a new
+  bullet in the PMM. The result is an approximately <strong>1.7-fold increase in
+  muzzle energy</strong>.
+</p>
+<h3>The Cartridge Today</h3>
+
+<p>
+  Today, the 9×18 PMM is a <strong>rare, specialized cartridge</strong>.
+  It remains associated primarily with the modernized PMM pistol and the limited
+  number of firearms adapted to use it.
+</p>
+
+<p>
+  The standard <strong>9×18 mm PM</strong>, however, continues
+  to be far more widespread. This is one reason the PMM remains a relatively little-known
+  chapter in the history of Soviet and Russian handgun ammunition.
+</p>
+<TechnicalData
+  language="en"
+  title="9×18 mm PMM"
+  data={[
+    ["Designation", "9×18 mm PMM"],
+    ["Index", "7N16"],
+    ["Type", "Handgun cartridge"],
+    ["Origin", "USSR / Russia"],
+    ["Development period", "Early 1990s"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Case length", "18 mm"],
+    ["Overall cartridge length", " 25 mm"],
+    ["Bullet diameter", " 9.25 mm"],
+    ["Bullet weight", "5.4–5.8 g"],
+    ["Muzzle velocity", "420–435 m/s*"],
+    ["Muzzle energy", " 485–505 J*"],
+    ["Primary firearm", "PMM (Modernized Makarov Pistol)"],
+    ["Primary purpose", "Higher-power service handgun cartridge"],
+  ]}
+/>
+<p>
+  * Ballistic characteristics depend on the
+  specific load and test conditions. The values shown are typical
+  for the 9×18 PMM with a bullet weighing approximately 5.4–5.8 g.
+</p>
+
+<p>
+  <strong>Important note:</strong> The 9×18 PMM should not be treated as equivalent to
+  the standard 9×18 mm PM simply because they share the same basic dimensions. The PMM is
+  a higher-pressure cartridge intended for firearms specifically adapted to use it.
+</p>
+
+</Section>
+
+<Section
+  id="9x19-parabellum"
+  title="9×19 mm Luger Parabellum"
+>
+  <img
+    src="/images/calibers/cartridges/9x19 Parabellum.png"
+    alt="9×19 mm Luger Parabellum"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+<p>
+  <em>
+    The cartridge that became a global standard and one of the most successful designs
+    in the history of firearm ammunition.
+  </em>
+</p>
+<p>
+  <strong>9×19 mm Luger</strong>, also known as <strong>9×19 mm Parabellum</strong>,
+  <strong>9 mm Luger</strong>, <strong>9 mm Para</strong>, and <strong>9 mm NATO</strong>,
+  is one of the most widely used handgun cartridges in the world.
+</p>
+
+<p>
+  It was developed in <strong>1902 by Georg Luger </strong> at the German company
+  <strong> Deutsche Waffen- und Munitionsfabriken (DWM)</strong> as an evolution of
+  the earlier <strong>7.65×21 mm Parabellum</strong>. The main goal was to increase
+  the bullet diameter and effectiveness without changing the fundamental design
+  of the Parabellum pistol.
+</p>
+
+<p>
+  The new cartridge was created by expanding the case mouth of the 7.65×21 mm
+  and using a 9 mm bullet. This produced a design that remains widely used more
+  than a century later.
+</p>
+
+<p>
+  Today, 9×19 mm is used by armed forces, police, and other agencies in a vast
+  number of countries. The cartridge has also been standardized by NATO to
+  <strong>ensure functional interchangeability of ammunition</strong>
+  among the armed forces of member states. The standardization agreement
+  <strong> STANAG 4090</strong> is associated with the interchangeability requirements
+  for 9×19 mm ammunition, while the detailed technical requirements are published in
+  <strong>AOP-4090 – Technical Performance Specification Providing for the
+  Interchangeability of 9 mm × 19 Ammunition</strong>.
+</p>
+<h2>Development History</h2>
+
+<p>
+  To understand the emergence of the 9×19 mm Parabellum, we must go back to the
+  <strong> 7.65×25 mm Borchardt</strong> and its successor,
+  the <strong> 7.65×21 mm Parabellum</strong>.
+</p>
+
+<p>
+  Georg Luger refined the design of the Borchardt C-93 in the late 19th century
+  and created the more compact Parabellum pistol. The 7.65×21 mm cartridge was
+  developed for it and was <strong>adopted by Switzerland in 1900</strong>.
+</p>
+
+<p>
+  It soon became clear, however, that military users wanted a larger bullet diameter
+  and greater stopping power.
+</p>
+
+<p>
+  In <strong>1902</strong>, Luger developed a new version using the same
+  basic case, but with an expanded mouth and a <strong>9 mm bullet</strong>. The new
+  cartridge retained the overall concept of the 7.65×21 Parabellum while offering
+  a heavier and wider bullet.
+</p>
+
+<p>
+  This established one of the most important development lines in the history of handgun cartridges:
+</p>
+
+<p>
+  <strong>7.65×25 Borchardt → 7.65×21 Parabellum → 9×19 Parabellum</strong>
+</p>
+<h2>Early Trials</h2>
+
+<p>
+  The new cartridge was not immediately adopted as a widely accepted standard.
+</p>
+
+<p>
+  In 1902, the 9 mm Parabellum was submitted for trials, and German military
+  authorities showed interest in the new caliber.
+</p>
+
+<p>
+  One of the main reasons was the need for greater bullet impact and stopping power
+  compared with the 7.65 mm Parabellum.
+</p>
+
+<p>
+  The original 9 mm bullet had a <strong>truncated-cone shape</strong>,
+  different from the later classic rounded profile most commonly associated with
+  the 9×19 mm today.
+</p>
+
+<p>
+  This early version was used in the cartridge's first military trials.
+</p>
+<h2>The German Navy – The First Official Adoption</h2>
+
+<p>
+  In <strong>1904, the Imperial German Navy</strong> adopted the 9 mm Parabellum
+  pistol as the <strong>Pistole 04 (P04)</strong>.
+</p>
+<h2>Pistole 04</h2>
+
+<img
+  src="/images/calibers/cartridges/Pistole 04.png"
+  alt="Pistole 04"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  This was the first official military adoption of the 9×19 mm Parabellum.
+</p>
+
+<p>
+  The naval version featured a longer <strong>150 mm barrel</strong> and an
+  adjustable rear sight with settings for 100 and 200 meters. It became known as
+  the <strong> Navy Luger</strong>.
+</p>
+
+<p>
+  The new cartridge thus gained its first major military application.
+</p>
+<h2>Pistole 08 (Luger Parabellum) – The German Army's Pistol</h2>
+
+<img
+  src="/images/calibers/cartridges/Luger Parabellum P08.png"
+  alt="Pistole 08 (Luger Parabellum)"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  In <strong>1908, the German Army</strong> adopted the Parabellum in its final
+  approved configuration as the <strong>Pistole 08</strong>, or <strong>P08</strong>.
+</p>
+
+<p>
+  The pistol was chambered for the 9×19 mm Parabellum and gradually became one
+  of the most recognizable military pistols of the 20th century.
+</p>
+
+<p>
+  The P08 was widely used by the German armed forces during
+  <strong>World War I and World War II</strong>. It remained in service during
+  the interwar period, and production continued at various facilities.
+</p>
+
+<p>
+  The 9×19 mm was no longer just a cartridge for a new pistol. It was beginning to
+  become an internationally recognized military round.
+</p>
+<h2>Design and Features</h2>
+
+<p>
+  The 9×19 mm Parabellum is a <strong>rimless cartridge with a cylindrical,
+  slightly tapered case and centerfire ignition</strong>.
+</p>
+
+<p>
+  Unlike the earlier cartridges in the Borchardt–Parabellum family, its case is
+  shorter than that of the 7.65×25 Borchardt, but has a larger diameter toward the front.
+</p>
+
+<p>
+  According to current <strong>C.I.P.</strong> data, the maximum case length is
+  <strong>19.15 mm</strong>, while the maximum overall cartridge length is
+  <strong>29.69 mm</strong>. The bullet diameter is approximately <strong>9.03 mm</strong>.
+  C.I.P. specifies a maximum mean pressure of <strong>2350 bar</strong> for the
+  standard 9 mm Luger.
+</p>
+
+<p>
+  The cartridge is available with a wide range of bullets of different weights and designs.
+  These include standard FMJ bullets, semi-jacketed and hollow-point designs for
+  civilian and police use, subsonic variants, specialized ammunition, and military loads.
+</p>
+
+<p>
+  The ability to accommodate a huge variety of bullets and loads is one of the reasons
+  the cartridge has remained relevant for more than a century.
+</p>
+<h2>From the Truncated Cone to the Classic 9 mm Bullet</h2>
+
+<p>
+  The original military bullet for the 9×19 mm had a
+  <strong>truncated-cone shape</strong>.
+</p>
+
+<p>
+  Over time, its shape changed, and the more familiar
+  <strong>rounded, oval profile</strong> became established.
+</p>
+
+<p>
+  This change was associated with the development of the ammunition and the need for
+  reliable operation in different firearms.
+</p>
+
+<p>
+  This classic profile gradually became the characteristic appearance of the
+  9 mm Parabellum bullet.
+</p>
+<h2>9×19 mm During the World Wars</h2>
+
+<p>
+  During <strong>World War I</strong>, the 9×19 mm Parabellum was used not only
+  in pistols but also in the first German submachine guns.
+</p>
+
+<p>
+  This was an important development because the same cartridge began to serve
+  different categories of firearms.
+</p>
+
+<p>
+  After the war, the 9×19 mm continued to be used in Germany and a number of other
+  countries. Following the introduction of pistols such as the <strong>Walther P38</strong>,
+  and later the <strong>Browning Hi-Power</strong>, <strong>SIG P210</strong>, and many
+  other designs, the cartridge gradually became an international standard.
+</p>
+
+<p>
+  World War II further increased its prevalence. The 9×19 mm was used by the German
+  armed forces in pistols and submachine guns, and after the war, large quantities
+  of firearms and ammunition remained in various parts of Europe and the world.
+</p>
+<div
+  style={{
+    display: "flex",
+    justifyContent: "space-between",
+    gap: "30px",
+    margin: "30px 0",
+  }}
+>
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Walther P38</h3>
+    <img
+      src="/images/calibers/cartridges/Walther P38.png"
+      alt="Walther P38"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Browning Hi-Power</h3>
+    <img
+      src="/images/calibers/cartridges/Browning Hi-Power.png"
+      alt="Browning Hi-Power"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>SIG P210</h3>
+    <img
+      src="/images/calibers/cartridges/SIG P210.png"
+      alt="SIG P210"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+</div>
+<h2>From a German Cartridge to NATO</h2>
+
+<p>
+  After World War II, the 9×19 mm became increasingly established among Western countries.
+</p>
+
+<p>
+  This was facilitated by the fact that the cartridge already had decades of military
+  service behind it and a broad manufacturing base.
+</p>
+
+<p>
+  NATO gradually standardized the 9 mm Parabellum as its primary handgun cartridge.
+  <strong>STANAG 4090</strong>, published in 1982, addresses the standardization of
+  the 9 mm Parabellum and the provision of functional interchangeability of ammunition
+  on the battlefield. The current version of the standard continues to govern the
+  interchangeability of 9×19 mm ammunition.
+</p>
+
+<p>
+  Thus, a cartridge developed in Germany in the early 20th century became standard
+  ammunition for one of the world's largest military alliances.
+</p>
+<h2>9×19 mm and the United States</h2>
+
+<p>
+  One of the most important steps in the cartridge's global spread was associated
+  with the United States.
+</p>
+
+<p>
+  For decades, the US armed forces used the
+  <strong> .45 ACP</strong> as their primary handgun cartridge. In the late 1970s
+  and early 1980s, however, a large-scale program began to select a new service pistol.
+</p>
+
+<p>
+  The requirements were also linked to the goal of compatibility with NATO's standard
+  9 mm ammunition. In 1985, the <strong>Beretta 92F</strong> was selected as the
+  new standard pistol of the US armed forces and received the designation
+  <strong>M9</strong>. Official introduction began in 1986.
+</p>
+
+<p>
+  This was an important moment in the history of the 9×19 mm. One of the world's
+  largest producers and users of small arms definitively moved from .45 ACP to 9 mm.
+</p>
+
+<p>
+  The M9 was used by the US armed forces for decades, and 9×19 mm remains the
+  standard caliber for American service pistols, including the later M17/M18 system.
+</p>
+<h2>9×19 mm and Submachine Guns</h2>
+
+<p>
+  The cartridge's history is not limited to pistols.
+</p>
+
+<p>
+  As early as World War I, the 9×19 mm began to be used in automatic firearms.
+  It later became one of the principal cartridges for
+  <strong>submachine guns</strong>.
+</p>
+
+<p>
+  Some of the best-known firearms chambered for 9×19 mm include:
+</p>
+
+<ul>
+  <li><strong>MP 18</strong></li>
+  <li><strong>MP 28</strong></li>
+  <li><strong>MP 34</strong></li>
+  <li><strong>MP 40</strong></li>
+  <li><strong>Sten</strong></li>
+  <li><strong>Sterling</strong></li>
+  <li><strong>Uzi</strong></li>
+  <li><strong>H&K MP5</strong></li>
+</ul>
+
+<p>
+  This dual role — in both pistols and submachine guns — contributed significantly
+  to the cartridge's global spread.
+</p>
+<h2>Global Adoption</h2>
+
+<p>
+  After World War II, the 9×19 mm gradually became an international standard.
+</p>
+
+<p>
+  It is used in a vast number of military and police pistols, as well as in
+  submachine guns. The cartridge is manufactured in dozens of countries and has become
+  one of the most readily available handgun cartridges in the world.
+</p>
+
+<p>
+  Today, it is a standard or widely used cartridge in many military and police
+  organizations. Its combination of relatively compact dimensions, good
+  ballistic performance, moderate recoil, and an extensive international manufacturing
+  base has made it an exceptionally successful design.
+</p>
+
+<p>
+  The 9×19 mm is widely described as the <strong>most widely used handgun cartridge
+  in the world</strong>.
+</p>
+<h2>Bulgaria</h2>
+
+<p>
+  The 9×19 mm also holds a significant place in the history of Bulgarian small arms.
+</p>
+
+<p>
+  Bulgaria used Parabellum pistols as early as the beginning of the 20th century,
+  including those chambered in <strong> 7.65×21 mm</strong>, and later in
+  <strong> 9 mm Parabellum</strong>.
+</p>
+
+<p>
+  During the 20th century, the 9×19 mm was also used in various submachine guns and
+  other firearms supplied to or used in Bulgaria.
+</p>
+
+<p>
+  After the end of the Cold War, the 9×19 mm continued to be used in Bulgarian
+  service and police firearms, and the cartridge is also manufactured in Bulgaria.
+</p>
+
+<p>
+  This makes the 9×19 mm part of both global history and the modern history of
+  Bulgarian small arms.
+</p>
+<h2>Different Variants and Loads</h2>
+
+<p>
+  One reason the 9×19 mm has remained relevant for so long is the enormous
+  variety of available variants.
+</p>
+
+<p>
+  The cartridge is manufactured with bullets of different weights and designs,
+  ranging from light bullets weighing around 6 g to heavy variants weighing around
+  9.5 g or more.
+</p>
+
+<p>
+  Available types include:
+</p>
+<ul>
+  <li><strong>FMJ</strong> – standard military and training bullet;</li>
+  <li><strong>JHP</strong> – jacketed hollow-point bullet;</li>
+  <li><strong>SP</strong> – soft-point or exposed-tip bullet;</li>
+  <li><strong>Subsonic</strong> variants;</li>
+  <li><strong>Heavy bullets</strong>;</li>
+  <li>Specialized police and sporting loads;</li>
+  <li>Higher-pressure variants.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>
+  For NATO military ammunition, the standard bullet is designed to provide the
+  required compatibility across different firearms and manufacturers.
+</p>
+
+<p>
+  The American <strong>M882 Ball</strong>, for example, uses a bullet weighing
+  <strong>124 gr (8.04 g)</strong>, and official US documentation lists a muzzle
+  velocity of <strong>385 m/s</strong> for this ammunition.
+</p>
+
+
+<h2>9×19 NATO</h2>
+
+<p>
+  It is important to distinguish between the general designation <strong> 9×19 mm  </strong>
+  and the specific standard <strong>9 mm NATO</strong>.
+</p>
+
+<p>
+  9 mm NATO is a military ammunition standard designed to meet NATO requirements.
+  It is not a separate caliber — geometrically, it belongs to the 9×19 mm family.
+</p>
+
+<p>
+  C.I.P. specifies a maximum mean pressure of
+  <strong>2350 bar</strong> for 9 mm Luger, while specific military NATO specifications
+  have their own requirements and testing methods.
+</p>
+
+<p>
+  Therefore, the terms "9×19," "9 mm Luger," "9 mm Parabellum," and "9 mm NATO"
+  should not be treated as fully interchangeable technical designations.
+</p>
+
+
+<h2>Relationship with 7.65×21 Parabellum</h2>
+
+<p>
+  The 9×19 mm is a direct successor to the <strong>7.65×21 mm Parabellum</strong>.
+</p>
+
+<p>
+  When developing the new cartridge, Georg Luger retained the basic case design
+  but expanded the case mouth to accommodate a larger 9 mm bullet.
+</p>
+
+<p>
+  This relatively small change led to the creation of a cartridge that would
+  subsequently become far more significant than its predecessor.
+</p>
+
+<p>
+  The historical development can be represented as follows:
+</p>
+
+<p>
+  <strong>7.65×25 Borchardt → 7.65×21 Parabellum → 9×19 Parabellum</strong>
+</p>
+
+<p>
+  This is one of the clearest evolutionary lines in the history of modern handgun cartridges.
+</p>
+
+
+<h2>Relationship with Other Cartridges</h2>
+
+<p>
+  The history of the 9×19 mm is also connected to the development of a number of
+  other handgun cartridges.
+</p>
+
+<p>
+  The larger diameter and relatively high velocity of the 9×19 mm place it between
+  less powerful compact cartridges such as the <strong>9×17 mm Browning Short</strong>
+  and more powerful designs such as the <strong>.40 S&W</strong> and
+  <strong>.45 ACP</strong>.
+</p>
+
+<p>
+  During the 20th century, many cartridges appeared that sought to offer a different
+  balance of size, power, and recoil. However, the 9×19 mm retained its enormous
+  advantage thanks to its established international manufacturing and military infrastructure.
+</p>
+
+
+<h2>Interesting Fact</h2>
+
+<p>
+  The name <strong>"Parabellum"</strong> was not invented specifically for the cartridge.
+</p>
+
+<p>
+  It comes from the Latin phrase:
+</p>
+
+<p>
+  <strong>"Si vis pacem, para bellum" – "If you want peace, prepare for war."</strong>
+</p>
+
+<p>
+  <strong>Parabellum</strong> was the telegraphic designation of the German company
+  <strong>DWM</strong>, and the name later became associated with the pistol and cartridge.
+</p>
+
+<p>
+  This is why two widely used names exist today for the same ammunition:
+</p>
+
+<p>
+  <strong>9×19 mm Luger = 9×19 mm Parabellum</strong>
+</p>
+
+<p>
+  The historical connection with DWM and Georg Luger's pistol makes both
+  names widely recognizable.
+</p>
+
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  More than <strong>120 years after its development</strong>, the 9×19 mm Parabellum
+  remains one of the most important handgun cartridges in the world.
+</p>
+
+<p>
+  It is used by military and police organizations, in sporting pistols,
+  civilian firearms, and numerous submachine guns.
+</p>
+
+<p>
+  The enormous number of existing firearms, manufacturers, and ammunition types
+  creates a self-sustaining standard of sorts — the more firearms use
+  9×19 mm, the more widely the cartridge is manufactured, and widespread production
+  in turn makes the caliber even more attractive for new firearm systems.
+</p>
+
+<p>
+  Today, the 9×19 mm is not merely a historically successful cartridge. It is an
+  <strong>active global standard</strong>, officially standardized for
+  interchangeability within NATO.
+</p>
+<TechnicalData
+  language="en"
+  title="9×19 mm Luger / Parabellum"
+  data={[
+    ["Designation", "9×19 mm Luger / Parabellum"],
+    ["Other designations", "9 mm Luger, 9 mm Parabellum, 9 mm Para, 9 mm NATO"],
+    ["Type", "Handgun / submachine gun cartridge"],
+    ["Origin", "Germany"],
+    ["Developer", "Georg Luger / DWM"],
+    ["Year of development", "1902"],
+    ["First military adoption", "German Navy, 1904"],
+    ["Adoption by the German Army", "1908"],
+    ["Case type", "Rimless, cylindrical/slightly tapered"],
+    ["Case length", "19.15 mm"],
+    ["Maximum cartridge length", "29.69 mm"],
+    ["Bullet diameter", "Approximately 9.03 mm"],
+    ["Ignition type", "Centerfire"],
+    ["Typical bullet weight", "6.0–9.5 g"],
+    ["Typical muzzle velocity", "300–400 m/s*"],
+    ["Typical muzzle energy", "Approximately 400–600 J*"],
+    ["Maximum mean pressure under C.I.P.", "2350 bar"],
+    ["Primary purpose", "Military, police, civilian, and sporting firearms"],
+  ]}
+/>
+
+<p>
+  * The term <strong>9 mm NATO</strong> refers to a specific military standard
+  for 9×19 mm ammunition and should not be treated as a fully interchangeable
+  technical designation with 9 mm Luger or 9 mm Parabellum.
+</p>
+<p>
+  * Ballistic characteristics depend on bullet weight and design,
+  the specific load, and barrel length. Standard 9×19 mm FMJ ammunition with a bullet
+  weighing approximately 7.5–8.0 g typically achieves velocities of around
+  350–400 m/s.
+  Military NATO ammunition may have different characteristics depending on
+  the specific specification. C.I.P. defines the standard geometric dimensions
+  and maximum mean pressure of the 9 mm Luger.
+</p>
+
+<p>
+  ** 9 mm NATO is not a separate caliber, but a standardized military version of
+  9×19 mm. NATO uses standards to ensure the interchangeability of 9×19 mm ammunition.
+</p>
+
+  {/* Text about 9×19 mm will be added here. */}
+</Section>
+
   <Divider />
 
 
