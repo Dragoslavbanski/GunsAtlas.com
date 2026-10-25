@@ -7183,7 +7183,7187 @@ export default function EnglishCalibersPage() {
 
   {/* Text about 9×19 mm will be added here. */}
 </Section>
+<Section
+  id="9x20-browning-long"
+  title="9×20 mm Browning Long"
+>
+  <img
+    src="/images/calibers/cartridges/9x20 Browning long.png"
+    alt="9×20 mm Browning Long"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The powerful Belgian cartridge designed for one of John Browning's most successful pistols of the early 20th century.
+  </em>
+</p>
+<p>
+  <strong>9×20 mm Browning Long</strong>, also known as <strong>9 mm Browning Long</strong> and <strong>9×20 mm SR</strong>, is a
+  Belgian handgun cartridge developed in the early 20th century for the <strong>FN Browning
+  Model 1903</strong>. It is one of the most powerful cartridges used in pistols with
+  a blowback action and saw extensive military and police use in Europe.
+</p>
 
+<p>
+  The cartridge was developed by <strong>John Moses Browning</strong>
+  in collaboration with the Belgian company <strong>Fabrique Nationale (FN)</strong>.
+  The pistol and ammunition were introduced in <strong>1903</strong>, and the system was adopted by several European countries in the following years.
+</p>
+
+<p>
+  For its time, the 9×20 Browning Long offered an impressive combination of muzzle velocity and muzzle energy. However, it appeared during a period when the <strong>9×19 mm Parabellum</strong> was also being developed, gradually becoming the more successful military handgun cartridge.
+</p>
+<Section
+  id="history-creation"
+  title="Development History"
+>
+  <p>
+    In the early 20th century, John Browning was already an established firearms designer, while <strong>Fabrique Nationale</strong> in Belgium was manufacturing
+    his successful small Browning Model 1900 pistol in 7.65 mm caliber.
+  </p>
+
+  <p>
+    A more powerful pistol was needed for military purposes, however. FN commissioned Browning to develop a larger model intended
+    for military and police use.
+  </p>
+
+  <p>
+    The new pistol was designated the <strong>FN Browning Model 1903</strong>, also known as the <strong>Browning No. 2</strong>. The new 9×20 mm Browning Long was
+    developed for it. The pistol was introduced in 1903 and used a <strong>blowback action</strong>,
+    which is particularly interesting given the cartridge's relatively high power.
+  </p>
+
+  <p>
+    To make it possible to use a powerful 9 mm cartridge in a blowback-operated firearm, the pistol's design relied on
+    a relatively heavy slide and a suitable balance between slide mass, recoil spring strength, and the characteristics of the ammunition.
+  </p>
+</Section>
+<h2>FN Browning Model 1903</h2>
+
+<img
+  src="/images/calibers/cartridges/FN Browning Model 1903.png"
+  alt="FN Browning Model 1903"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  The <strong>FN Browning Model 1903</strong> is one of John Browning's most significant military pistols.
+</p>
+
+<p>
+  It was developed from his earlier design but enlarged to accommodate the more powerful 9×20 Browning
+  Long. The pistol has a <strong>7-round magazine</strong>, and its characteristic blowback design allows for relatively
+  simple mechanics.
+</p>
+
+<p>
+  Its reliability, good accuracy, relatively moderate weight, and quick reloading made the Model 1903 attractive to
+  military and police organizations.
+</p>
+
+<p>
+  More than <strong>58,000</strong> pistols were produced by FN, while the Swedish version manufactured by <strong>Husqvarna</strong>
+  reached more than <strong>89,000 units</strong>.
+</p>
+<Section
+  id="construction-features"
+  title="Design and Features"
+>
+  <p>
+    The 9×20 Browning Long is a <strong>semi-rimmed cartridge</strong> with a cylindrical case.
+  </p>
+
+  <p>
+    This is an important design feature. The rim is slightly wider than the body of the case and serves to position the cartridge in
+    the chamber. For this reason, the designation <strong>9×20 mm SR Browning Long</strong> is frequently found in technical literature.
+  </p>
+
+  <p>
+    According to current <strong>C.I.P.</strong> data, the maximum cartridge length is approximately <strong>30.50 mm</strong>, while the case dimensions
+    are just over 20 mm. The bullet diameter is approximately <strong>9.09 mm</strong>. C.I.P. specifies a maximum mean pressure of
+    <strong>1650 bar</strong>.
+  </p>
+
+  <p>
+    The cartridge was designed to provide substantial power while remaining suitable for a firearm
+    with a blowback action.
+  </p>
+</Section>
+<Section
+  id="ballistic-characteristics"
+  title="Ballistic Characteristics"
+>
+  <p>
+    For the early 20th century, the 9×20 Browning Long had impressive ballistic performance.
+  </p>
+
+  <p>
+    The typical bullet weighs around <strong>7.1 g</strong>, and historical figures for the cartridge indicate a muzzle velocity of approximately
+    <strong> 335 m/s</strong> and muzzle energy of approximately <strong> 398 J</strong>.
+  </p>
+
+  <p>
+    These characteristics place it close to some early loads of the <strong>9×19 mm Parabellum</strong>, although the two cartridges are
+    structurally different.
+  </p>
+
+  <p>
+    Its considerable power for the time was one of the reasons the 9×20 Browning Long saw military use.
+  </p>
+</Section>
+<Section
+  id="military-police-use"
+  title="Military and Police Use"
+>
+  <p>
+    The FN Browning Model 1903 was adopted by several countries and security organizations.
+  </p>
+
+  <p>
+    Notable users included:
+  </p>
+
+  <ul>
+    <li><strong>Belgium</strong></li>
+    <li><strong>Sweden</strong></li>
+    <li><strong>Russia</strong> – police and gendarmerie units of the Russian Empire</li>
+    <li><strong>Serbia</strong></li>
+    <li><strong>Paraguay</strong></li>
+    <li><strong>Peru</strong></li>
+    <li><strong>Ottoman Empire</strong></li>
+    <li><strong>Finland</strong></li>
+    <li><strong>Colombia</strong> and other countries.</li>
+  </ul>
+
+  <p>&nbsp;</p>
+
+  <p>
+    The cartridge became particularly important in <strong>Sweden</strong>, where the pistol was adopted as the <strong>m/1907</strong>.
+    After obtaining a license, Sweden began domestic production of the firearm at <strong>Husqvarna</strong> factories,
+    which continued until 1942.
+  </p>
+</Section>
+<Section
+  id="9x20-finland"
+  title="9×20 Browning Long in Finland"
+>
+  <p>
+    The cartridge also has an interesting history in Finland.
+  </p>
+
+  <p>
+    The Finnish Army used FN Model 1903 pistols and Swedish Husqvarna m/07 pistols. During the <strong>Winter War (1939–1940)</strong>,
+    Finnish and Swedish volunteers used these pistols against Soviet forces.
+  </p>
+
+  <p>
+    After the Winter War, Swedish volunteer formations left a significant number of FN
+    Model 1903 and Husqvarna m/07 pistols in Finland. Some were subsequently used by Finnish troops during the <strong>Continuation War</strong>.
+  </p>
+
+  <p>
+    Thus, the 9×20 Browning Long remained in Finnish service even after it had become outdated compared with more modern 9 mm cartridges.
+  </p>
+</Section>
+<Section
+  id="swedish-m07"
+  title="The Swedish m/07"
+>
+  <p>
+    Sweden was one of the most important users of the 9×20 Browning Long.
+  </p>
+
+  <p>
+    In <strong>1907</strong>, the Swedish Army adopted the pistol as the <strong>Pistol m/07</strong>, after which domestic licensed
+    production began. Husqvarna manufactured tens of thousands of pistols, with total production exceeding 89,000 units.
+  </p>
+
+  <p>
+    The m/07 remained the standard personal sidearm of the Swedish Army until the adoption of the <strong>Lahti L-35 (m/40)</strong> in 1940,
+    after which it was relegated to reserve-pistol status.
+  </p>
+
+  <p>
+    Interestingly, the m/07 was later brought out of storage and used again during the <strong>1980s</strong>, when the Swedish
+    Army temporarily faced a shortage of reliable pistols because of problems with the slides of the Lahti L-35.
+  </p>
+
+  <p>
+    This means that a firearm designed in the early 20th century for the 9×20 Browning Long remained in active Swedish service for almost eight
+    decades after its introduction.
+  </p>
+</Section>
+<h2>Relationship with 9×19 mm Parabellum</h2>
+
+<p>
+  The history of the 9×20 Browning Long developed alongside that of the <strong>9×19 mm Parabellum</strong>.
+</p>
+
+<p>
+  The two cartridges were developed at approximately the same time and shared a similar concept — a relatively powerful 9 mm cartridge for
+  a semiautomatic pistol.
+</p>
+
+<p>
+  The 9×20 Browning Long, however, uses a <strong>semi-rimmed case</strong> and was intended for a blowback-operated pistol. The 9×19 Parabellum is
+  rimless and was developed for a pistol with a locked-breech mechanism.
+</p>
+
+<p>
+  Ultimately, the 9×19 Parabellum proved to be the more successful design and gradually replaced the 9×20 Browning Long in military service.
+</p>
+<h2>Why Did the 9×20 Browning Long Fail to Become Established?</h2>
+
+<p>
+  The main problem was not a lack of merit.
+</p>
+
+<p>
+  The cartridge offered good ballistic performance, and the FN Browning Model 1903 was a reliable, well-designed pistol. The problem was that the 9×20
+  Browning Long appeared at a time when other, more successful 9 mm systems were being developed.
+</p>
+
+<p>
+  One particularly important competitor was the <strong>9×19 mm Parabellum</strong>, which offered a similar concept but was designed for a locked
+  breech and subsequently achieved enormous international adoption.
+</p>
+
+<p>
+  Military users gradually favored standardized pistol systems chambered in 9×19 mm, while the 9×20 Browning Long remained primarily associated with
+  the historical firearms for which it had been developed.
+</p>
+<h2>The Cartridge Today</h2>
+
+<p>
+  The 9×20 Browning Long is no longer a standard military or police cartridge.
+</p>
+
+<p>
+  It is found primarily among collectors and owners of historical <strong>FN Model 1903</strong> and <strong>Husqvarna m/07</strong> pistols.
+  Although production is now very limited, the ammunition still appears on the collector market.
+</p>
+
+<p>
+  Interestingly, historical 9×20 Browning Long cartridges were manufactured not only in Belgium and Sweden, but also by manufacturers
+  in other countries. These included <strong>Kynoch</strong> in the United Kingdom and various manufacturers in Europe.
+</p>
+
+<p>
+  Today, the 9×20 Browning Long has primarily historical and collectible significance. After World War II, the cartridge gradually
+  lost its military and police role and remained associated mainly with the historical pistols for which it was developed.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  The 9×20 Browning Long is one of the most powerful cartridges used in a <strong>mass-produced blowback-operated pistol</strong>.
+</p>
+
+<p>
+  This is an unusual combination. With more powerful handgun cartridges, designers usually move to a locked-breech action, but Browning managed to create a working system using a heavy slide and blowback operation.
+</p>
+
+<p>
+  The FN Model 1903 thus became an interesting example of the limits of the blowback system in the early history of semiautomatic pistols.
+</p>
+<TechnicalData
+  language="en"
+  title="9×20 mm Browning Long"
+  data={[
+    ["Designation", "9×20 mm Browning Long"],
+    ["Alternative designation", "9 mm Browning Long / 9×20 mm SR"],
+    ["Type", "Handgun cartridge"],
+    ["Origin", "Belgium"],
+    ["Developer", "John Moses Browning / FN"],
+    ["Year of development", "Approximately 1902–1903"],
+    ["Case length", "Approximately 20 mm"],
+    ["Maximum cartridge length", "Approximately 30.5 mm"],
+    ["Bullet diameter", "Approximately 9.09 mm"],
+    ["Case type", "Semi-rimmed, cylindrical"],
+    ["Ignition", "Centerfire"],
+    ["Typical bullet weight", "Approximately 7.1 g"],
+    ["Muzzle velocity", "Approximately 335 m/s*"],
+    ["Muzzle energy", "Approximately 398 J*"],
+    ["Maximum mean pressure under C.I.P.", "1650 bar"],
+    ["Primary firearms", "FN Browning Model 1903 / Husqvarna m/07"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific ammunition and barrel length. The values of approximately <strong>335 m/s and 398 J</strong> are
+  historical figures typical of a bullet weighing around 7.1 g.
+</p>
+</Section>
+<Section
+  id="9x21-russian-gyurza"
+  title="9×21 mm Russian (Gyurza)"
+>
+  <img
+    src="/images/calibers/cartridges/9×21 mm Russian.png"
+    alt="9×21 mm Russian (Gyurza)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The Russian high-impulse cartridge designed to engage targets protected by body armor.
+  </em>
+</p>
+<p>
+  <strong>9×21 mm Russian</strong>, also known as <strong>9×21 mm Gyurza</strong>, is a Russian pistol cartridge developed in the late 1980s and early 1990s by the <strong>Central Research Institute of Precision Engineering</strong> (<strong>Центральный научно-исследовательский институт точного машиностроения</strong>, abbreviated <strong>ЦНИИТОЧМАШ</strong>). It was created as part of the development of a new generation of pistol systems for the Russian armed forces and special services.
+</p>
+
+<p>
+  The main objective was to create a compact pistol cartridge with greater effectiveness against targets protected by body armor than traditional pistol cartridges. To achieve this, a specialized series of bullets was developed, among which the armor-piercing <strong>SP-10</strong>, later assigned the designation <strong>7N29</strong>, holds a particularly important place.
+</p>
+
+<p>
+  The cartridge is closely associated with the <strong>SR-1 “Vektor”</strong> pistol, also known as the <strong>“Gyurza”</strong>. The pistol was later adopted by various Russian state agencies under the designation <strong>SPS — Serdyukov Self-Loading Pistol</strong>.
+</p>
+<h2>Development History</h2>
+
+<p>
+  In the late 1980s, the Soviet Union began developing a new pistol system intended to replace the outdated <strong>9×18 mm PM</strong> in certain roles.
+</p>
+
+<p>
+  The requirements for the new weapon were significantly more demanding than those for a conventional service pistol. In addition to good accuracy and reliability, it had to be capable of engaging targets protected by body armor and other light barriers.
+</p>
+
+<p>
+  Development was assigned to <strong>TsNIITochMash</strong>. As part of the program, a new pistol and a new high-impulse cartridge were developed simultaneously.
+</p>
+
+<p>
+  In the early 1990s, the experimental <strong>RG052</strong> cartridge was created, forming the basis for the production <strong>SP-10</strong>. The ammunition was developed by specialists at TsNIITochMash, including designer <strong>Alexander Yuriev</strong>.
+</p>
+
+<p>
+  Unlike conventional pistol cartridges, which are designed primarily to balance size, recoil, and overall effectiveness, the new 9×21 mm placed particular emphasis on <strong>penetration</strong>.
+</p>
+<h2>The “Vektor” / “Gyurza” Pistol</h2>
+
+<img
+  src="/images/calibers/cartridges/Gyurza pistol.png"
+  alt="The “Vektor” / “Gyurza” pistol"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  The new cartridge was developed alongside the pistol, which initially received various experimental designations before becoming known as the <strong>SR-1 “Vektor”</strong> and <strong>“Gyurza”</strong>.
+</p>
+
+<p>
+  The pistol was developed by a team led by <strong>Pyotr Serdyukov</strong> at TsNIITochMash.
+</p>
+
+<p>
+  Unlike the widely used <strong>PM</strong>, which operates with a blowback action, the new pistol uses a <strong>locked-breech system with a moving barrel</strong>, allowing it to use a significantly more powerful cartridge.
+</p>
+
+<p>
+  This is an important design distinction. The increased power of the 9×21 mm cartridge could not practically be used in a standard blowback system such as that of the PM.
+</p>
+
+<p>
+  The pistol was designed to combine relatively compact dimensions with high firepower and the ability to engage protected targets.
+</p>
+
+<h2>Design and Characteristics</h2>
+
+<p>
+  The 9×21 mm Russian is a <strong>rimless cartridge with a cylindrical case and centerfire ignition</strong>.
+</p>
+
+<p>
+  Unlike the Italian <strong>9×21 IMI</strong>, the Russian 9×21 mm is a different design and should not be regarded as a variant of the Italian cartridge.
+</p>
+
+<p>
+  The case is approximately <strong>21 mm</strong> long, while the overall cartridge length is approximately <strong>33 mm</strong> for typical military loads. The bullet diameter is approximately <strong>9.05 mm</strong>.
+</p>
+
+<p>
+  The cartridge is produced in several variants with different purposes. This is one of its most interesting characteristics: <strong>9×21 mm is not a single type of ammunition</strong>, but an entire family of specialized cartridges.
+</p>
+
+<h2>SP-10 (7N29) — The Armor-Piercing Cartridge</h2>
+
+<p>
+  The best-known variant is the <strong>SP-10</strong>, designated <strong>7N29</strong>.
+</p>
+
+<p>
+  It uses a bullet with a <strong>heat-treated steel core</strong>, designed to provide enhanced penetration. The bullet's construction enables it to engage both unprotected targets and targets wearing certain types of personal body armor.
+</p>
+
+<p>
+  According to TsNIITochMash data, the bullet's muzzle velocity is approximately <strong>435 m/s</strong>. The cartridge is intended to engage unprotected targets at distances of up to 100 m and body-armored targets at shorter distances, depending on the armor class.
+</p>
+
+<p>
+  The SP-10 bullet weighs approximately <strong>7.1 g</strong>, while the complete cartridge weighs approximately <strong>11.6 g</strong>.
+</p>
+
+<p>
+  It is the armor-piercing SP-10 that gives the 9×21 mm its reputation as an unusually powerful pistol cartridge.
+</p>
+
+<h2>Other 9×21 mm Variants</h2>
+
+<p>
+  Other types of ammunition have also been developed for the Russian 9×21 mm.
+</p>
+
+<p>
+  The <strong>SP-11 (7N28)</strong> uses a bullet with a <strong>lead core</strong> and is intended primarily for use against unprotected targets. It was developed as a less expensive alternative to the SP-10 and has a lower tendency to ricochet. TsNIITochMash lists a muzzle velocity of approximately <strong>390 m/s</strong> and a bullet weight of approximately <strong>8.1 g</strong>.
+</p>
+
+<p>
+  Other specialized variants include the <strong>SP-12</strong> and <strong>SP-13 (7BT3)</strong>. The SP-13 uses an armor-piercing tracer bullet and is intended for specialized tasks.
+</p>
+
+<p>
+  As a result, the 9×21 mm gradually became more than a single cartridge: it developed into a <strong>family of ammunition types designed for different purposes</strong>.
+</p>
+
+<h2>Military and Special-Purpose Applications</h2>
+
+<p>
+  The 9×21 mm was originally developed for the needs of Russian special services and military units.
+</p>
+
+<p>
+  The <strong>SP-10</strong> was adopted in <strong>1996</strong>, followed by the <strong>SP-11</strong> in <strong>1997</strong>.
+</p>
+
+<p>
+  The cartridges are used primarily in pistols of the <strong>SR-1/SPS</strong> family and, later, in the compact submachine gun <strong>SR-2 “Veresk”</strong>.
+</p>
+
+<p>
+  This significantly expanded the role of the 9×21 mm. The cartridge was no longer intended solely for use in self-loading pistols; it was also used in automatic weapons designed for close combat.
+</p>
+
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The 9×21 mm is significantly more powerful than the standard <strong>9×18 mm PM</strong>.
+</p>
+
+<p>
+  Different combinations of bullet weight and muzzle velocity are found among its various versions.
+</p>
+
+<p>
+  For the SP-10, reported bullet weights range from approximately <strong>6.7–7.1 g</strong>, with velocities of around <strong>410–435 m/s</strong>. This produces a muzzle energy of approximately <strong>560–670 J</strong>, depending on the specific load and test barrel used.
+</p>
+
+<p>
+  The SP-11 uses a heavier bullet weighing approximately <strong>8.1 g</strong>, traveling at around <strong>390 m/s</strong>, producing approximately <strong>615 J</strong>.
+</p>
+
+<p>
+  These figures illustrate why the 9×21 mm occupies a distinctly different performance category from the 9×18 mm PM.
+</p>
+
+<h2>9×21 mm and 9×18 mm PM</h2>
+
+<p>
+  There is one point in your original text that I would correct definitively:
+</p>
+
+<p>
+  <strong>The 9×21 mm should not be described as merely an extended version of the 9×18 mm PM.</strong>
+</p>
+
+<p>
+  Although it was conceptually developed to provide significantly greater effectiveness than the Soviet 9×18 mm, the Russian 9×21 mm is an independent design.
+</p>
+
+<p>
+  It belongs to a new generation of ammunition developed for weapons with locked-breech actions and specialized applications.
+</p>
+
+<p>
+  The difference between the two cartridges is substantial and cannot be reduced to case length alone.
+</p>
+
+<h2>9×21 Russian and 9×19 Parabellum</h2>
+
+<p>
+  The 9×21 mm Russian is also interesting in the context of the development of modern pistol ammunition.
+</p>
+
+<p>
+  It is similar in dimensions to certain other 9 mm cartridges, but it is not interchangeable with them.
+</p>
+
+<p>
+  It is particularly important not to confuse it with the <strong>9×21 IMI</strong>, developed for the Italian civilian market. The Italian cartridge is based on the <strong>9×19 mm Parabellum</strong>, whereas the Russian 9×21 mm is a separate design with a different purpose.
+</p>
+
+<p>
+  This is a good example of why the designation <strong>“9×21” alone is insufficient to identify a cartridge</strong>.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  The 9×21 mm Russian continues to be manufactured and used in Russia.
+</p>
+
+<p>
+  The cartridge remains associated primarily with weapons developed by TsNIITochMash and with specialized military and police units. TsNIITochMash continues to manufacture 9×21 mm ammunition, including the armor-piercing SP-10 and other specialized variants.
+</p>
+
+<p>
+  Unlike the 9×19 mm Parabellum, it has never achieved widespread international distribution. Its role remains specialized: a <strong>high-impulse pistol cartridge capable of using armor-piercing bullets</strong>.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  When developing the 9×21 mm, Russian designers did not limit themselves to a single universal bullet.
+</p>
+
+<p>
+  The development of the <strong>SP-10, SP-11, SP-12, and SP-13</strong> illustrates a different approach: the same caliber is used to create ammunition for different purposes, including armor penetration, general-purpose use, reduced ricochet tendency, and specialized applications.
+</p>
+
+<p>
+  In this way, a relatively uncommon pistol cartridge became the foundation for an entire system of specialized ammunition.
+</p>
+<TechnicalData
+  title="9×21 mm Russian"
+  language="en"
+  data={[
+    ["Designation", "9×21 mm Russian"],
+    ["Other designations", "9×21 mm Gyurza"],
+    ["Type", "Pistol / submachine gun cartridge"],
+    ["Origin", "USSR / Russia"],
+    ["Developer", "TsNIITochMash"],
+    ["Development began", "Late 1980s – early 1990s"],
+    ["Case length", "Approximately 20.9–21.0 mm"],
+    ["Overall cartridge length", "Approximately 32.7–33.0 mm"],
+    ["Bullet diameter", "Approximately 9.05 mm"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Ignition", "Centerfire"],
+    ["Main variants", "SP-10 (7N29), SP-11 (7N28), SP-12, SP-13 (7BT3)"],
+    ["Bullet weight", "Approximately 6.7–8.1 g"],
+    ["Muzzle velocity", "Approximately 390–435 m/s*"],
+    ["Muzzle energy", "Approximately 560–615+ J*"],
+    ["Main firearms", "SR-1 “Vektor” / SPS, SR-2 “Veresk”"],
+  ]}
+/>
+<p>
+  * Ballistic performance depends on the specific cartridge variant. For example, the SP-10 is reported to have a bullet weight of approximately 6.7–7.1 g and a muzzle velocity of 410–435 m/s, while the SP-11 uses a heavier bullet at a lower muzzle velocity.
+</p>
+</Section>
+<Section
+  id="9x21-imi"
+  title="9×21 mm IMI"
+>
+  <img
+    src="/images/calibers/cartridges/9x21 IMI.png"
+    alt="9×21 mm IMI"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The Italian cartridge developed as a civilian alternative to 9×19 Parabellum, which became one of the most popular pistol calibers in Italy.
+  </em>
+</p>
+<p>
+  <strong>9×21 mm IMI</strong> is a rimless 9 mm pistol cartridge developed in the 1980s as an alternative to <strong>9×19 mm Parabellum</strong> for the Italian civilian market.
+</p>
+
+<p>
+  Its history is linked to Italian legislation, which for decades imposed restrictions on the civilian use of handguns chambered in 9×19 mm. This created demand for a cartridge offering similar dimensions and ballistic characteristics while remaining distinct from the standard military 9×19 mm.
+</p>
+
+<p>
+  In the early 1980s, Italians <strong>Erasmo Giordano</strong> and <strong>Armando Piscetta</strong> developed several versions of a 9 mm cartridge with a case lengthened to approximately 21 mm. These developments gave rise to <strong>9×21 GP</strong> and <strong>9×21 Jäger</strong>, after which the Israeli company <strong>Israel Military Industries (IMI)</strong> began manufacturing the version designated <strong>9×21 IMI</strong>.
+</p>
+<h2>Development History</h2>
+
+<p>
+  The history of the 9×21 mm is closely linked to Italian firearms legislation. During the 1970s and early 1980s, civilian handguns chambered in <strong>9×19 mm Parabellum</strong> were subject to special restrictions because the cartridge was classified as military ammunition. At the same time, the civilian market showed considerable interest in powerful 9 mm pistols.
+</p>
+
+<p>
+  This created a need for a cartridge with characteristics similar to those of the 9×19 mm but with a different design.
+</p>
+
+<p>
+  In the early 1980s, <strong>Erasmo Giordano</strong> and <strong>Armando Piscetta</strong>, who was associated with the Italian company <strong>Jäger</strong>, began working on a new 9 mm cartridge. One of the first solutions used a <strong>7.65×21 mm Parabellum</strong> case whose mouth was expanded to accommodate a 9 mm bullet. This resulted in the <strong>9×21 GP</strong> — the designation derives from the names <strong>Giordano-Piscetta</strong>. The resulting cartridge had a shape very similar to that of the 9×19 mm Parabellum.
+</p>
+
+<p>
+  The next design was the <strong>9×21 Jäger</strong>. It used a case made by shortening the <strong>9×23 mm Steyr</strong> to approximately 21 mm. Unlike the 9×21 GP, this case was cylindrical. The variant received approval for civilian firearms in Italy but failed to gain traction because no manufacturer undertook large-scale ammunition production.
+</p>
+
+<p>
+  In 1984, a semiautomatic version of the Israeli <strong>UZI</strong>, known as the <strong>IMI Defender</strong>, was introduced to the Italian market in 9×21 mm. The Israeli company <strong>Israel Military Industries (IMI)</strong> began manufacturing suitable ammunition. Its design was similar to the earlier 9×21 GP: the case was approximately 21 mm long and had a shape similar to that of the 9×19 mm.
+</p>
+
+<p>
+  On <strong>October 24, 1984</strong>, the Italian Weapons Commission approved the IMI Defender in this caliber for the civilian market. From that point onward, the 9×21 IMI began to spread rapidly throughout Italy.
+</p>
+
+<p>
+  The cartridge, which began as an Italian development intended to overcome legislative restrictions, thus became a mass-produced round with a wide range of applications.
+</p>
+<h2>The Emergence of the 9×21 IMI</h2>
+
+<p>
+  The design of the <strong>9×21 IMI</strong> is very similar to that of the <strong>9×19 mm Parabellum</strong>. The main difference is the case length — approximately <strong>21 mm instead of 19 mm</strong>.
+</p>
+
+<p>
+  Despite the longer case, the overall cartridge length remains almost the same as that of the 9×19 mm. This is achieved by positioning the bullet differently within the case.
+</p>
+
+<p>
+  This design makes it possible to manufacture pistols similar in size and construction to 9×19 mm firearms, but specifically chambered for the 9×21 IMI.
+</p>
+
+<p>
+  The first widely known model introduced to the Italian market was the <strong>IMI Defender</strong>, a semiautomatic version of the Micro UZI. Following its introduction, numerous manufacturers began offering pistols in the new caliber.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The 9×21 IMI is a <strong>rimless cartridge with a slightly tapered case and centerfire ignition</strong>.
+</p>
+
+<p>
+  According to data from the <strong>Commission Internationale Permanente pour l'Épreuve des Armes à Feu Portatives (C.I.P.)</strong> — the <strong>Permanent International Commission for the Proof of Small Arms</strong> — the case length is <strong>21.15 mm</strong>, and the maximum overall cartridge length is <strong>29.75 mm</strong>. The bullet diameter is <strong>9.03 mm</strong>.
+</p>
+
+<p>
+  The case is slightly longer than that of the 9×19 mm, but the overall lengths of the two cartridges are almost identical. This allows the 9×21 IMI to be used in compact pistols with a design similar to that of firearms chambered in 9×19 mm.
+</p>
+
+<p>
+  The cartridge uses various bullet types, including full metal jacket (FMJ) bullets intended for sporting, training, and other civilian applications.
+</p>
+<h2>9×21 IMI and 9×19 Parabellum</h2>
+
+<p>
+  The 9×21 IMI was developed specifically to give the Italian civilian market access to pistols with characteristics similar to those of firearms chambered in <strong>9×19 mm Parabellum</strong>.
+</p>
+
+<p>
+  With comparable bullets, the two cartridges can have very similar ballistic characteristics. For example, C.I.P. lists reference values for the 9×21 IMI of <strong>390 m/s and 570 J</strong> with a 7.45 g bullet, and <strong>360 m/s and 518 J</strong> with an 8.0 g bullet.
+</p>
+
+<p>
+  However, this does not mean that the two cartridges are interchangeable. <strong>9×21 IMI and 9×19 mm are different cartridges and must only be used in firearms chambered for the respective cartridge.</strong>
+</p>
+
+<p>
+  An interesting point is that, despite its longer case, the 9×21 IMI is not necessarily more powerful than the 9×19 mm. Actual ballistic performance depends on the specific load, bullet, and firearm.
+</p>
+<h2>Popularity in Italy</h2>
+
+<p>
+  The 9×21 IMI became an exceptionally successful cartridge on the Italian civilian market.
+</p>
+
+<p>
+  Numerous manufacturers began offering pistols in this caliber, including <strong>Beretta</strong>, <strong>Tanfoglio</strong>, <strong>Benelli</strong>, <strong>SIG Sauer</strong>, and other companies.
+</p>
+
+<p>
+  Many of these firearms are mechanically similar to their 9×19 mm counterparts. A manufacturer can adapt an existing design by changing the barrel and chamber without developing an entirely new pistol.
+</p>
+
+<p>
+  Some specialized Italian sources estimate that the 9×21 accounted for approximately <strong>80%</strong> of civilian pistols in Italy during the period of its greatest popularity. This figure is not official statistical data, but it illustrates the cartridge's widespread acceptance.
+</p>
+<h2>The Cartridge Outside Italy</h2>
+
+<p>
+  Historically, Italy has remained the primary market for the 9×21 IMI. The cartridge is also found in other countries where civilian use of the 9×19 mm has been restricted.
+</p>
+
+<p>
+  One such country is <strong>Mexico</strong>, where legislation also places restrictions on civilian possession of firearms in certain military calibers.
+</p>
+
+<p>
+  Outside these markets, the 9×21 IMI remains a relatively niche cartridge. The widespread international availability of the 9×19 mm means that most countries have not had the same need for a civilian alternative.
+</p>
+<h2>9×21 IMI and 9×21 Russian</h2>
+
+<p>
+  The 9×21 IMI should not be confused with the Russian <strong>9×21 mm</strong>, developed for the <strong>SPS “Gyurza”</strong> system and used in specialized military and police firearms.
+</p>
+
+<p>
+  Although their designations are identical, these are <strong>two different cartridges</strong>, developed for different purposes and featuring different designs and ballistic characteristics.
+</p>
+
+<p>
+  The Russian 9×21 is not mechanically or practically interchangeable with the 9×21 IMI.
+</p>
+
+<p>
+  Therefore, the designation <strong>9×21</strong> alone is insufficient to identify a specific cartridge.
+</p>
+<h2>The Cartridge Today</h2>
+
+<p>
+  For decades, the 9×21 IMI enjoyed a major advantage in the Italian civilian market because of restrictions on civilian use of the 9×19 mm.
+</p>
+
+<p>
+  This changed with Italy's <strong>Legge 238/2021</strong>, amendments to which entered into force in <strong>2022</strong>. The law removed the restriction in the relevant legislation that placed 9×19 mm Parabellum semiautomatic handguns in a special category. At the same time, it introduced a requirement for 9×19 mm ammunition intended for the armed forces and state armed services to bear NATO markings or other markings indicating its specific intended use.
+</p>
+
+<p>
+  This means that, following the change, <strong>civilian handguns chambered in 9×19 mm can be acquired and possessed under Italy's general legal framework for civilian firearms</strong>, subject to the applicable requirements.
+</p>
+
+<p>
+  The change significantly reduced the 9×21 IMI's original advantage. Nevertheless, the cartridge has not disappeared. The large number of firearms manufactured in this caliber ensures its continued presence in the Italian civilian and sporting markets.
+</p>
+
+<p>
+  Today, the 9×21 IMI remains an interesting example of how <strong>legislative restrictions can stimulate the creation and widespread adoption of a new cartridge</strong> that is technically very similar to an existing round.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  For decades, Italian shooters could use a pistol with dimensions and characteristics similar to those of a 9×19 mm firearm, but chambered for the <strong>9×21 IMI</strong>.
+</p>
+
+<p>
+  As a result, an entire market ecosystem of firearms, ammunition, and accessories developed around a specialized cartridge. Manufacturers that otherwise offered their models primarily in 9×19 mm began producing dedicated 9×21 IMI versions for the Italian market.
+</p>
+
+<p>
+  This is one of the clearest examples in the history of modern ammunition of the influence national legislation can have on the development of the firearms industry.
+</p>
+<TechnicalData
+  title="9×21 mm IMI"
+  language="en"
+  data={[
+    ["Designation", "9×21 mm IMI"],
+    ["Other designations", "9×21 IMI, 9 mm IMI, 9 mm Italian"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "Italy / Israel"],
+    ["Initial development", "Early 1980s"],
+    ["9×21 IMI production", "1984"],
+    ["Case type", "Rimless, slightly tapered"],
+    ["Case length", "21.15 mm"],
+    ["Maximum cartridge length", "29.75 mm"],
+    ["Bullet diameter", "9.03 mm"],
+    ["Ignition type", "Centerfire"],
+    ["Typical bullet weight", "7.45–8.0 g"],
+    ["Muzzle velocity", "Approximately 360–390 m/s*"],
+    ["Muzzle energy", "Approximately 518–570 J*"],
+    ["Maximum pressure according to C.I.P.", "235 MPa"],
+  ]}
+/>
+<p>
+  * Ballistic performance depends on the specific manufacturer, bullet weight and design, and barrel length. C.I.P. lists reference values of <strong>390 m/s and 570 J</strong> with a 7.45 g bullet and <strong>360 m/s and 518 J</strong> with an 8.0 g bullet. The maximum permitted pressure is <strong>235 MPa</strong>.
+</p>
+</Section>
+<Section
+  id="9x22-357-sig"
+  title="9×22 mm .357 SIG"
+>
+  <img
+    src="/images/calibers/cartridges/9x22 357 sig.png"
+    alt="9×22 mm .357 SIG"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+
+  <p>
+    
+  <em>
+    The high-velocity pistol cartridge designed to combine a 9 mm bullet with high muzzle velocity and ballistic performance approaching that of more powerful handgun ammunition.
+  </em>
+</p>
+<p>
+  The <strong>.357 SIG</strong> cartridge, also known as <strong>9×22
+  mm</strong>, is a rimless pistol cartridge developed in the United States in the early 1990s. It was created at the initiative of <strong>SIGARMS</strong> in cooperation with the American ammunition manufacturer <strong>Federal Cartridge Company</strong>.
+</p>
+
+<p>
+  The new cartridge was introduced in <strong>1994</strong>. The main idea was to achieve a very high muzzle velocity using a relatively light <strong>9 mm bullet</strong>, while keeping the cartridge suitable for use in modern self-loading pistols.
+</p>
+
+<p>
+  The name <strong>.357 SIG</strong> is associated with SIG and the concept of high-velocity ballistics similar to that of the <strong>.357 Magnum</strong>. However, the two cartridges are different: .357 Magnum is a revolver cartridge, whereas .357 SIG was specifically developed for self-loading pistols.
+</p>
+<h2>Development History</h2>
+
+<p>
+  By the early 1990s, the <strong>.40
+  S&amp;W</strong> had already become established as a pistol cartridge developed as an intermediate option between the 9×19 mm and heavier handgun ammunition.
+</p>
+
+<p>
+  Designers sought a way to achieve even higher muzzle velocity by using a smaller, more aerodynamic bullet.
+</p>
+
+<p>
+  The solution was to use a case based on the <strong>.40
+  S&amp;W</strong>, narrowed at the front to accommodate a bullet with a diameter of approximately 9 mm.
+</p>
+
+<p>
+  This led to the development of the <strong>.357 SIG</strong>.
+</p>
+
+<p>
+  The cartridge is closely related to the .40
+  S&amp;W in its design, but it is not simply a .40 S&amp;W loaded with a 9 mm bullet. Its case has a <strong>bottleneck shape</strong>, with a neck specifically designed for the smaller bullet.
+</p>
+
+<p>
+  The new cartridge was standardized by <strong>SAAMI in
+  1994</strong>.
+</p>
+<h2>Why Was the .357 SIG Developed?</h2>
+
+<p>
+  The main objective was to combine:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}>the high velocity of a lightweight 9 mm bullet;</li>
+  <li style={{ color: "#fff" }}>substantial muzzle energy;</li>
+  <li style={{ color: "#fff" }}>a relatively flat trajectory;</li>
+  <li style={{ color: "#fff" }}>the ability to be used in compact self-loading pistols;</li>
+  <li style={{ color: "#fff" }}>design compatibility with pistols developed for .40 S&amp;W.</li>
+</ul>
+<p>
+  High velocity is one of the cartridge's most distinctive characteristics. With suitable ammunition, the .357 SIG achieves velocities significantly higher than those typical of standard 9×19 mm loads.
+</p>
+<h2>Design and Characteristics</h2>
+<p>
+  The .357 SIG is a <strong>rimless cartridge with a bottleneck case and centerfire ignition</strong>.
+</p>
+<p>
+  The case has a base diameter close to that of the .40 S&amp;W, but narrows toward the neck, where the 9 mm bullet is seated.
+</p>
+<p>
+  This design makes it relatively straightforward to adapt certain pistol systems originally developed for .40
+  S&amp;W. In some models, a different barrel and the corresponding components can be used without changing the firearm's basic design.
+</p>
+<p>
+  This is one reason the .357 SIG became available in pistols that were also offered in .40 S&amp;W.
+</p>
+<p>
+  According to <strong>SAAMI</strong> standards, the case length is approximately <strong>21.97 mm</strong>, while the maximum overall cartridge length is approximately <strong>28.96 mm</strong>.
+</p>
+<h2>High Operating Pressure</h2>
+<p>
+  The .357 SIG is a <strong>high-pressure pistol cartridge</strong>. The high pressure is necessary to achieve the high muzzle velocity for which it was designed.
+</p>
+<p>
+  However, this also places greater stress on the firearm and generally produces more noticeable recoil than standard 9×19 mm loads.
+</p>
+<p>
+  For this reason, the cartridge's specific performance should be evaluated according to the ammunition being used, rather than its nominal designation alone.
+</p>
+<h2>.357 SIG and .357 Magnum</h2>
+
+<p>
+  Despite their similar designations, <strong>.357 SIG and .357
+  Magnum are not the same cartridge</strong>.
+</p>
+
+<p>
+  The .357 Magnum was developed for revolvers and uses a significantly longer case. The .357 SIG was developed for self-loading pistols and uses a rimless bottleneck case.
+</p>
+
+<p>
+  Both cartridges use bullets with similar nominal diameters, but their designs, dimensions, intended applications, and performance characteristics are different.
+</p>
+
+<p>
+  The purpose of the .357 SIG is to provide <strong>high-velocity 9 mm ballistics in a self-loading pistol</strong>, rather than to serve as a direct equivalent of the .357 Magnum.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  High muzzle velocity is the most distinctive characteristic of the .357 SIG.
+</p>
+
+<p>
+  Depending on bullet weight and design, modern ammunition typically achieves muzzle velocities of approximately <strong>380–450
+  m/s</strong>.
+</p>
+
+<p>
+  With a bullet weighing approximately <strong>8.0 g</strong> traveling at 400 m/s, muzzle energy is approximately <strong>640 J</strong>. With a lighter bullet and higher velocity, energy can exceed <strong>700 J</strong>.
+</p>
+
+<p>
+  This places the .357 SIG among the highest-velocity modern pistol cartridges in the 9 mm class.
+</p>
+
+<p>
+  Ballistic performance depends on the specific manufacturer, bullet weight and design, and barrel length.
+</p>
+<h2>Popularity and Use</h2>
+
+<p>
+  The .357 SIG achieved its greatest popularity in the <strong>United States</strong>, where it has been used by civilian shooters as well as some law enforcement agencies.
+</p>
+
+<p>
+  The cartridge is available for pistols from a number of manufacturers, including:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>SIG Sauer</strong></li>
+  <li style={{ color: "#fff" }}><strong>Glock</strong></li>
+  <li style={{ color: "#fff" }}><strong>Smith &amp; Wesson</strong></li>
+  <li style={{ color: "#fff" }}><strong>Heckler &amp; Koch</strong></li>
+  <li style={{ color: "#fff" }}><strong>Beretta</strong></li>
+  <li style={{ color: "#fff" }}><strong>Springfield Armory</strong></li>
+  <li style={{ color: "#fff" }}>other manufacturers.</li>
+</ul>
+
+<p>
+  The cartridge has a particularly close association with <strong>SIG Sauer</strong>, as the company was responsible for its development and initial promotion.
+</p>
+<h2>SIG Sauer P229</h2>
+
+<img
+  src="/images/calibers/cartridges/SIG Sauer P229.png"
+  alt="SIG Sauer P229"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  One of the best-known pistols chambered in .357 SIG is the <strong>SIG Sauer P229</strong>.
+</p>
+
+<p>
+  The P229 was developed for high-performance pistol cartridges and has been offered in several calibers, including <strong>.40 S&amp;W</strong> and <strong>.357 SIG</strong>.
+</p>
+
+<p>
+  The close design relationship between the two cartridges allows manufacturers to use the same basic firearm platform for different types of ammunition.
+</p>
+
+<p>
+  This helped the .357 SIG spread relatively quickly during the 1990s.
+</p>
+<h2>Advantages and Disadvantages</h2>
+
+<p>
+  The main advantage of the .357 SIG is its <strong>high velocity</strong>. This provides a flat trajectory and substantial muzzle energy when using a relatively lightweight 9 mm bullet.
+</p>
+
+<p>
+  Another design advantage is that it can be used in a number of pistol systems based on the .40 S&amp;W.
+</p>
+
+<p>
+  On the other hand, its high operating pressure places greater stress on the firearm and produces more noticeable recoil. The ammunition is also generally more expensive and less widely available than 9×19 mm.
+</p>
+
+<p>
+  These characteristics limit its widespread adoption despite its impressive ballistic performance.
+</p>
+<h2>.357 SIG and 9×19 mm</h2>
+
+<p>
+  A comparison with <strong>9×19 mm Parabellum</strong> is inevitable.
+</p>
+
+<p>
+  The 9×19 mm has enormous worldwide availability, a wide variety of ammunition, and generally lower costs. It also produces less recoil in firearms of comparable design.
+</p>
+
+<p>
+  The .357 SIG, by contrast, is focused on <strong>higher muzzle velocity and high-velocity ballistics</strong>.
+</p>
+
+<p>
+  As a result, the .357 SIG has not replaced the 9×19 mm. It remains a specialized cartridge with its own niche, primarily in the American market.
+</p>
+<h2>The Cartridge Today</h2>
+
+<p>
+  The .357 SIG continues to be manufactured and remains a standardized cartridge under the <strong>SAAMI</strong> system.
+</p>
+
+<p>
+  It is used by civilian shooters, law enforcement agencies, and pistol manufacturers, although it has not achieved the same level of adoption as the 9×19 mm.
+</p>
+
+<p>
+  Interest in the cartridge is driven primarily by its distinctive combination of a <strong>9 mm bullet, high muzzle velocity, and substantial muzzle energy</strong>.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  The .357 SIG is one of the more interesting modern pistol cartridges to use a <strong>bottleneck case</strong>. It combines a 9 mm bullet with a case derived from the larger .40 S&amp;W.
+</p>
+
+<p>
+  This adaptation of an existing design produced a new cartridge that occupies its own place between standard 9 mm ammunition and more powerful pistol cartridges.
+</p>
+<TechnicalData
+  title=".357 SIG / 9×22 mm"
+  language="en"
+  data={[
+    ["Designation", ".357 SIG / 9×22 mm"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Development", "Early 1990s"],
+    ["Standardization", "1994"],
+    ["Case length", "21.97 mm"],
+    ["Maximum cartridge length", "28.96 mm"],
+    ["Bullet diameter", "Approximately 9.0 mm"],
+    ["Case type", "Rimless, bottleneck"],
+    ["Ignition", "Centerfire"],
+    ["Bullet weight", "Approximately 6.1–9.5 g"],
+    ["Muzzle velocity", "Approximately 380–450 m/s*"],
+    ["Muzzle energy", "Approximately 500–800 J*"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight and design, and barrel length. The figures provided are approximate and do not represent universal characteristics of all .357 SIG ammunition.
+</p>
+<h2 id="9x23-explanation">
+  9×23 mm — Different Cartridges with the Same Designation
+</h2>
+
+<p>
+  Next, we will examine a group of pistol cartridges that are among the easiest to confuse during identification. The reason is simple: several <strong>different cartridges carry the designation 9×23 mm</strong>, even though they are not interchangeable.
+</p>
+
+<p>
+  These include:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>9×23 mm Bergmann-Bayard / 9 mm Largo</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm Steyr</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm .38 ACP / .38 Auto</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm .38 Super</strong></li>
+</ul>
+
+<p>
+  Despite sharing the same metric designation, these cartridges have different origins, designs, dimensions, and ballistic characteristics. <strong>9×23 mm Bergmann-Bayard and 9×23 mm Steyr</strong> are particularly easy to confuse because their external dimensions are very similar.
+</p>
+
+<p>
+  Additional confusion arises from American designations. <strong>.38 ACP</strong>, also known as <strong>.38 Auto</strong> or <strong>9×23 mm SR</strong>, is an American pistol cartridge with a semi-rimmed case, developed for the Colt M1900 pistol. The designation <strong>SR (Semi-Rimmed)</strong> is important because it distinguishes the cartridge from the rimless 9×23 mm Bergmann-Bayard and 9×23 mm Steyr.
+</p>
+
+<p>
+  In turn, the <strong>.38 Super</strong> is a more powerful development of the .38 ACP. The two cartridges are closely related in dimensions, but they should not be presented as completely identical in terms of ballistics and operating characteristics.
+</p>
+
+<p>
+  Particular attention should be paid to the difference between <strong>.38 ACP</strong> and <strong>.380 ACP</strong>. Although their designations look almost identical, they are <strong>two entirely different cartridges</strong>. The .38 ACP is 9×23 mm SR, whereas the .380 ACP is <strong>9×17 mm Browning Short</strong>, which we have already covered.
+</p>
+
+<p>
+  Likewise, <strong>9×23 mm Bergmann-Bayard / Largo should not be confused with 9×23 mm Winchester</strong>, a modern high-pressure cartridge designed for different purposes and with different performance characteristics.
+</p>
+
+<p>
+  Therefore, for cartridges in this group, <strong>the designation “9×23” alone is insufficient for reliable identification</strong>. The case shape, dimensions, rim configuration, markings, and intended application must also be considered.
+</p>
+</Section>
+<Section
+  id="9x23-bergmann-bayard"
+  title="9×23 mm Bergmann-Bayard / 9 mm Largo"
+>
+  <img
+    src="/images/calibers/cartridges/9x23 Bergman.png"
+    alt="9×23 mm Bergmann-Bayard / 9 mm Largo"
+    style={{
+      width: "43%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The German cartridge that became a standard pistol round in Spain and gave rise to one of the most interesting European 9 mm cartridge systems.
+  </em>
+</p>
+  <p>
+  <strong>9×23 mm Bergmann-Bayard</strong>, also known as <strong>9 mm Largo</strong>, <strong>9 mm Bayard</strong>, <strong>9 mm
+  Bergmann-Bayard</strong>, and <strong>9 mm Campo-Giro</strong>, is a European pistol cartridge
+  developed in the early 20th century for the self-loading pistols of <strong>Theodor
+  Bergmann</strong>.
+</p>
+
+<p>
+  The cartridge was designed for the <strong>Bergmann Mars</strong> and
+  was later used in the improved <strong>Bergmann-Bayard</strong>. After its adoption
+  by the Spanish Army, it became widely known in Spain as <strong>9 mm Largo</strong>
+  (“long”) and gradually became one of the country's principal pistol cartridges.
+</p>
+
+<p>
+  For its time, the 9×23 mm Bergmann-Bayard offered
+  impressive ballistic performance. Depending on the specific load and firearm, bullet
+  velocity was approximately <strong>325–400 m/s</strong>, and muzzle energy could
+  exceed <strong>500 J</strong>. This placed it among the relatively powerful European
+  pistol cartridges of the early 20th century.
+</p>
+<h2>Development History</h2>
+
+<p>
+  The history of the 9×23 mm Bergmann-Bayard is closely linked to
+  the development of self-loading pistols by the German designer <strong>Theodor
+  Bergmann</strong>.
+</p>
+
+<p>
+  In the early 20th century, Bergmann developed a
+  pistol intended for the military market. The new design was named the <strong>Mars</strong>
+  and used a locked-breech mechanism based on principles also employed in Bergmann's
+  machine guns.
+</p>
+
+<p>
+  A powerful, purpose-designed cartridge was developed for the new pistol:
+  the <strong>9 mm Bergmann</strong>, which later became the 9×23 mm
+  Bergmann-Bayard. The initial development was associated with the
+  <strong>Bergmann Mars 1903</strong>.
+</p>
+
+<p>
+  The new cartridge used a rimless case with a shape transitioning from bottlenecked to cylindrical, along with a 9 mm bullet. By the standards of the era, it offered unusually high velocity and energy, attracting military interest.
+</p>
+<h2>The Bergmann Mars and the Emergence of the Bergmann-Bayard</h2>
+
+<p>
+  In <strong>1905</strong>, the Spanish Army selected
+  the Bergmann pistol as its new self-loading personal firearm and ordered approximately <strong>3,000
+  pistols</strong>. The weapon was chambered for the 9 mm Bergmann cartridge.
+</p>
+
+<p>
+  However, Bergmann lacked sufficient
+  manufacturing capacity to fulfill the Spanish order on his own. Production was therefore
+  transferred to the Belgian company <strong>Anciens
+  Établissements Pieper (AEP)</strong>.
+</p>
+
+<p>
+  Pieper used the trade name <strong>Bayard</strong>,
+  from which the name <strong>Bergmann-Bayard</strong> originated.
+</p>
+
+<p>
+  The Belgian company made several design
+  changes to the pistol and produced the improved <strong>Bergmann-Bayard Model 1908</strong>.
+  This version was instrumental in establishing the cartridge under the designation
+  <strong>9 mm Bergmann-Bayard</strong>.
+</p>
+<img
+  src="/images/calibers/cartridges/Bergmann-Bayard Model 1908.png"
+  alt="Bergmann-Bayard Model 1908"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto 30px auto",
+  }}
+/>
+<h2>9 mm Largo</h2>
+
+<p>
+  Spain played a decisive role in the cartridge's subsequent
+  spread.
+</p>
+
+<p>
+  In the Spanish designation system, it received the
+  name <strong>9 mm Largo</strong> — “9 mm long.” This distinguished it from other
+  widely used 9 mm cartridges of the period, including the 9 mm Parabellum.
+</p>
+
+<p>
+  The Spanish designation <strong>Largo</strong>
+  gradually became the cartridge's most recognizable name.
+</p>
+
+<p>
+  Following Bergmann's design, a number of Spanish manufacturers
+  began developing their own pistols for this cartridge. Among the best known were
+  <strong>Campo-Giro</strong>, <strong>Astra</strong>, <strong>Star</strong>, and <strong>Llama</strong>.
+</p>
+
+<p>
+  In this way, the 9×23 mm evolved from a cartridge designed for
+  a specific German pistol into an entire Spanish firearms system.
+</p>
+<h2>Military and Police Use</h2>
+
+<p>
+  The 9×23 mm Bergmann-Bayard saw official military
+  service in several European countries.
+</p>
+
+<p>
+  The Spanish Army adopted the cartridge along with the Bergmann
+  pistol during the first decade of the 20th century. It was later used in other Spanish
+  pistols, including the <strong>Campo-Giro</strong>, as well as numerous designs from
+  Astra and Star.
+</p>
+
+<p>
+  The cartridge also saw military service in <strong>Denmark</strong>,
+  where the <strong>Bergmann-Bayard Model 1910</strong> was adopted by the Danish Army.
+  The improved <strong>Model 1910/21</strong> was subsequently produced and
+  used in Denmark.
+</p>
+
+<p>
+  In Belgium, the cartridge was also associated with
+  Bergmann-Bayard pistols manufactured by Pieper.
+</p>
+<h2>The Spanish Firearms Industry</h2>
+
+<p>
+  Spain, however, played the most important role in the long service life of the 9×23 mm
+  Bergmann-Bayard.
+</p>
+
+<p>
+  Spanish manufacturers did not simply continue using the
+  cartridge; they also developed a wide range of their own firearms chambered for it.
+</p>
+
+<p>
+  Among the best known were:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>Campo-Giro</strong></li>
+  <li style={{ color: "#fff" }}><strong>Astra 400</strong></li>
+  <li style={{ color: "#fff" }}><strong>Astra 903</strong></li>
+  <li style={{ color: "#fff" }}><strong>Star Model 1920</strong></li>
+  <li style={{ color: "#fff" }}><strong>Star Model 1921</strong></li>
+  <li style={{ color: "#fff" }}><strong>Star Model 1922</strong></li>
+  <li style={{ color: "#fff" }}>various <strong>Llama</strong> models</li>
+</ul>
+<div
+  style={{
+    display: "flex",
+    justifyContent: "space-between",
+    gap: "30px",
+    margin: "30px 0",
+  }}
+>
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Campo-Giro M1913</h3>
+    <img
+      src="/images/calibers/cartridges/Campo-Giro M1913.png"
+      alt="Campo-Giro M1913"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Astra 400</h3>
+    <img
+      src="/images/calibers/cartridges/Astra 400.png"
+      alt="Astra 400"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Star Model 1921</h3>
+    <img
+      src="/images/calibers/cartridges/Star Model 1921.png"
+      alt="Star Model 1921"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+</div>
+<p>
+  The cartridge was also used in some Spanish submachine guns. As a result,
+  the 9 mm Largo remained widely used within the Spanish military and police
+  systems for decades.
+</p>
+
+<p>
+  The <strong>Astra 400</strong> is particularly well known. It used the 9 mm Largo and featured an unusual
+  straight-blowback action despite the relatively powerful cartridge.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The 9×23 mm Bergmann-Bayard is a <strong>rimless cartridge with
+  a cylindrical-to-slightly-tapered case and a centerfire primer</strong>.
+</p>
+
+<p>
+  The case is approximately <strong>23 mm</strong> long,
+  while the overall cartridge length is around <strong>33.5 mm</strong>. The bullet diameter is
+  approximately <strong>9.0–9.05 mm</strong>.
+</p>
+
+<p>
+  Standard military loads are found with bullets weighing approximately
+  <strong>8.1–8.6 g</strong>, although specific characteristics vary by
+  manufacturer and production period.
+</p>
+
+<p>
+  Historical and modern reference sources report
+  different ballistic figures. For example, a bullet weighing around 8.1 g is reported to have
+  a velocity of approximately <strong>341 m/s</strong> and energy of around <strong>470 J</strong>, while
+  some Spanish military loads were considerably more powerful.
+</p>
+<h2>9×23 mm Bergmann-Bayard and 9×23 mm Steyr</h2>
+
+<p>
+  This distinction deserves particular attention.
+</p>
+
+<p>
+  <strong>9×23 mm Bergmann-Bayard and 9×23 mm Steyr are
+  different cartridges.</strong>
+</p>
+
+<p>
+  Both are 9×23 mm cartridges, but they have different designs,
+  origins, and ballistic characteristics.
+</p>
+
+<p>
+  Because their dimensions are similar, they are among the cartridges
+  most easily confused during visual identification. The Bergmann-Bayard uses different bullet types and a
+  specific case geometry, whereas the 9×23 mm Steyr is a separate Austrian development.
+</p>
+
+<p>
+  Therefore, the designation <strong>“9×23” alone is not
+  sufficient to identify the cartridge</strong>.
+</p>
+<h2>Alternative Designations</h2>
+
+<p>
+  Over the years, the 9×23 mm Bergmann-Bayard has acquired
+  numerous designations depending on the country, manufacturer, and firearm.
+</p>
+
+<p>
+  Some of the most common are:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>9×23 mm</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Bergmann-Bayard</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Bergmann-Bayard Long</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Bayard</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Largo</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Campo-Giro</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Bergmann 1910/21</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Astra 1921</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Star Auto-Pistol</strong></li>
+  <li style={{ color: "#fff" }}><strong>9 mm Danish Pistol Cartridge</strong></li>
+</ul>
+
+<p>
+  Despite the different names, these designations refer to a cartridge
+  from the same basic design lineage.
+</p>
+<h2>The Cartridge in Spain Through the Late 20th Century</h2>
+
+<p>
+  The 9 mm Largo had an unusually long service life as a military
+  and police cartridge.
+</p>
+
+<p>
+  In Spain, it remained a principal pistol cartridge
+  for decades and was also used in submachine guns.
+</p>
+
+<p>
+  It was only in the second half of the 20th century that it gradually
+  began to be replaced by the <strong>9×19 mm Parabellum</strong>. Nevertheless, the 9 mm Largo
+  continued to be encountered in Spain long after the introduction of the more modern
+  standard 9 mm cartridge.
+</p>
+
+<p>
+  This is one reason the cartridge remains of interest to collectors today.
+</p>
+<h2>The Cartridge Today</h2>
+
+<p>
+  The 9×23 mm Bergmann-Bayard is no longer a standard
+  military cartridge, but it continues to exist thanks to the large number of
+  historical firearms chambered for it.
+</p>
+
+<p>
+  The cartridge is found mainly among collectors and
+  owners of historical pistols, especially Spanish models from <strong>Astra, Star,
+  and Llama</strong>, as well as Bergmann-Bayard pistols.
+</p>
+
+<p>
+  Ammunition for the 9 mm Largo continues to be
+  produced in limited quantities, including by manufacturers serving the
+  American market.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  The name <strong>Largo</strong> (“long”) is particularly fitting
+  for this cartridge because, during the first half of the 20th century, Spain used
+  several different 9 mm cartridges at the same time.
+</p>
+
+<p>
+  As a result, <strong>9 mm Largo</strong> gradually became
+  the unofficial but highly recognizable name for the 9×23 mm Bergmann-Bayard.
+</p>
+
+<p>
+  The cartridge's history is also a good example of how
+  ammunition designed for a specific German pistol could gain much wider and longer-lasting
+  use through another country—in this case, Spain.
+</p>
+<TechnicalData
+  title="9×23 mm Bergmann-Bayard"
+  language="en"
+  data={[
+    ["Designation", "9×23 mm Bergmann-Bayard"],
+    ["Other designations", "9 mm Largo / 9 mm Bayard / 9 mm Bergmann-Bayard / 9 mm Campo-Giro"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "Germany"],
+    ["Developer", "Theodor Bergmann"],
+    ["Initial development", "Around 1903"],
+    ["Case", "Rimless, cylindrical to slightly tapered"],
+    ["Case length", "Approximately 23.0 mm"],
+    ["Maximum cartridge length", "Approximately 33.5 mm"],
+    ["Bullet diameter", "Approximately 9.0–9.05 mm"],
+    ["Bullet weight", "Approximately 8.0–9.0 g"],
+    ["Muzzle velocity", "Approximately 325–400 m/s*"],
+    ["Muzzle energy", "Approximately 450–580 J*"],
+    ["Main firearms", "Bergmann Mars, Bergmann-Bayard, Campo-Giro, Astra, Star, Llama"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight and design, and barrel length. Published figures for historical loads vary considerably. Some Spanish military ammunition has been reported to achieve velocities of around 400 m/s and energy exceeding 600 J, while other standard loads were considerably more moderate.
+</p>
+</Section>
+<Section
+  id="9x23-steyr"
+  title="9×23 mm Steyr"
+>
+  <img
+    src="/images/calibers/cartridges/9x23 Steyr.png"
+    alt="9×23 mm Steyr"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>An Austro-Hungarian pistol cartridge developed for the
+  Steyr M1912 and used by several European armies.</em>
+</p>
+<p>
+  <strong>9×23 mm Steyr</strong>, also known
+  as <strong>9 mm Steyr</strong>, <strong>9 mm Steyr-Mannlicher</strong>, and <strong>9 mm M1912</strong>, is
+  an Austro-Hungarian pistol cartridge developed in the early 20th century specifically for
+  the <strong>Steyr M1911/M1912</strong> pistols.
+</p>
+
+<p>
+  The cartridge was developed by <strong>Österreichische
+  Waffenfabriks-Gesellschaft (Steyr)</strong> and adopted alongside the Steyr
+  M1912 system. It offered relatively high velocity and muzzle energy for its time and
+  became a standard cartridge for many Austro-Hungarian pistols during the First World War.
+</p>
+<h2>Development History</h2>
+
+<p>
+  In the early 20th century, Steyr developed a new
+  self-loading pistol for military use. The initial model was known as the <strong>Steyr
+  M1911</strong>, while its improved version received the designation <strong>M1912</strong>.
+</p>
+<h2>Steyr M1911</h2>
+
+<img
+  src="/images/calibers/cartridges/Steyr M1911.png"
+  alt="Steyr M1911"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto 30px auto",
+  }}
+/>
+<p>
+  A special cartridge, the <strong>9 mm Steyr</strong>, was developed
+  for the new pistol. It was designed as a powerful military cartridge suitable for
+  a service pistol, with its design tailored to the Steyr's operating mechanism.
+</p>
+
+<p>
+  The M1912 pistol was adopted for service in <strong>1912</strong>,
+  and during the First World War it became one of the principal Austro-Hungarian
+  military pistols. Hundreds of thousands were produced, most of them for the
+  armed forces of Austria-Hungary.
+</p>
+<h2>Steyr M1911/M1912</h2>
+
+<p>
+  The Steyr M1912 was an unusual pistol for its time.
+  Instead of a detachable magazine, it used an <strong>internal magazine holding 8
+  cartridges</strong>, loaded from the top with a stripper clip.
+</p>
+
+<p>
+  Its design used <strong>short-recoil operation and a
+  rotating-barrel locking system</strong>. This made it possible to use the relatively
+  powerful 9 mm Steyr without requiring an exceptionally heavy slide.
+</p>
+
+<p>
+  The pistol was known for its reliability and
+  durability and remained in service long after the end of the Austro-Hungarian Empire.
+</p>
+<h2>Military Use</h2>
+
+<p>
+  The 9×23 mm Steyr became a standard pistol
+  cartridge of Austria-Hungary during the First World War.
+</p>
+
+<p>
+  After the empire dissolved, the cartridge continued
+  to be used in several countries that inherited or purchased Steyr pistols.
+</p>
+
+<p>
+  These included:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>Austria</strong></li>
+  <li style={{ color: "#fff" }}><strong>Romania</strong></li>
+  <li style={{ color: "#fff" }}><strong>Chile</strong></li>
+  <li style={{ color: "#fff" }}><strong>Czechoslovakia</strong></li>
+  <li style={{ color: "#fff" }}>Germany, in limited numbers through the use of Austrian firearms</li>
+</ul>
+
+<p>
+  Romania purchased a substantial number of Steyr M1912 pistols, while Chile also adopted the pistol for military service.
+</p>
+<h2>9×23 mm Steyr and Submachine Guns</h2>
+
+<p>
+  The cartridge was not limited to pistols.
+</p>
+
+<p>
+  In the early 20th century, automatic variants of the Steyr
+  were also developed. Later, the <strong>Steyr-Solothurn MP34</strong> was
+  produced in several calibers, including <strong>9×23 mm Steyr</strong>, alongside 9×25
+  mm Mauser.
+</p>
+
+<p>
+  This allowed the relatively powerful
+  cartridge to be used in automatic firearms as well.
+</p>
+<h2>The Cartridge After 1938</h2>
+
+<p>
+  Following the <strong>Anschluss in 1938</strong>, when Austria
+  was annexed by the German Reich, large numbers of Austrian Steyr M1912 pistols entered
+  German service.
+</p>
+
+<p>
+  To achieve greater standardization of
+  weaponry, many of these pistols were <strong>converted to 9×19 mm
+  Parabellum</strong> by replacing the barrel. The same happened to some
+  Steyr submachine guns.
+</p>
+
+<p>
+  This gradually reduced the role of the 9×23 mm Steyr
+  in military service.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The 9×23 mm Steyr is a <strong>rimless cartridge with
+  a bottlenecked case and a centerfire primer</strong>.
+</p>
+
+<p>
+  One interesting feature is the way the cartridge
+  is positioned in the chamber: it <strong>headspaces on the case mouth</strong>.
+</p>
+
+<p>
+  According to published standardized dimensions,
+  the case length is approximately <strong>23.05–23.20 mm</strong>, while the maximum overall
+  cartridge length is around <strong>33.0–33.1 mm</strong>. The bullet diameter is approximately <strong>9.0
+  mm</strong>.
+</p>
+
+<p>
+  This explains why the cartridge is often described
+  simply as <strong>9×23 mm</strong>, even though its actual geometry differs from
+  that of other cartridges sharing the same metric designation.
+</p>
+<h2>9×23 mm Steyr and 9×23 mm Largo</h2>
+
+<p>
+  This is one of the most important distinctions to understand
+  when discussing this caliber.
+</p>
+
+<p>
+  <strong>9×23 mm Steyr and 9×23 mm Bergmann-Bayard (9 mm
+  Largo) are different cartridges.</strong>
+</p>
+
+<p>
+  They have nearly the same nominal length and
+  use a 9 mm bullet, but their case dimensions are not identical. The 9 mm Steyr has a
+  different base diameter and other dimensions compared with the 9 mm Largo.
+</p>
+
+<p>
+  Therefore, they <strong>must not be considered
+  interchangeable</strong>. The fact that some Largo cartridges may physically fit in certain
+  Steyr firearms because of variations between individual examples does not mean the two
+  cartridges are interchangeable or that such use is safe.
+</p>
+
+<p>
+  This is particularly important with collectible firearms,
+  as the two cartridges can be very difficult to distinguish visually.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The 9×23 mm Steyr was a relatively powerful pistol
+  cartridge for the early 20th century.
+</p>
+
+<p>
+  Standard loads are reported with bullets weighing
+  approximately <strong>7–7.6 g</strong>. Depending on the specific ammunition and barrel length,
+  muzzle velocity can be approximately <strong>310–370 m/s</strong>, with muzzle
+  energy reaching around <strong>500 J</strong>.
+</p>
+
+<p>
+  For example, a bullet weighing approximately <strong>7 g</strong> is
+  reported to achieve around <strong>370 m/s and 526 J</strong>.
+</p>
+
+<p>
+  This places the 9×23 mm Steyr among the relatively powerful
+  European pistol cartridges of its era.
+</p>
+<h2>Distribution</h2>
+
+<p>
+  After the First World War, the 9×23 mm Steyr continued
+  to be used in Austria, Romania, and Chile.
+</p>
+
+<p>
+  Romania's use of the Steyr M1912 was particularly significant.
+  Romania purchased tens of thousands of pistols of this type, some of which were
+  delivered before the outbreak of the First World War.
+</p>
+
+<p>
+  Chile was also an important user of the Steyr system.
+  The first major foreign order for the pistol came from Chile: in 1912,
+  <strong>5,000 pistols</strong> were ordered.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  Today, the 9×23 mm Steyr is a <strong>rare historical cartridge</strong>.
+  It is no longer a standard military round, but limited quantities are still produced
+  for collectors and shooting enthusiasts. Modern ammunition has been produced, for example,
+  by <strong>Fiocchi</strong>, and other manufacturers have also offered it at various times.
+</p>
+
+<p>
+  Interest in the cartridge today is primarily associated with
+  historical <strong>Steyr M1911/M1912</strong> pistols and other firearms chambered
+  for this caliber.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  The Steyr M1912 pistol was used in various
+  conflicts and by different armies for decades. Some examples even received
+  <strong>a new lease on life in 9×19 mm Parabellum</strong> after being converted
+  for the German Army.
+</p>
+
+<p>
+  As a result, the same pistol can be encountered today in
+  two different versions: the original <strong>9×23 mm Steyr</strong> or a version converted to <strong>9×19
+  mm Parabellum</strong>.
+</p>
+<TechnicalData
+  title="9×23 mm Steyr"
+  language="en"
+  data={[
+    ["Designation", "9×23 mm Steyr"],
+    ["Other designations", "9 mm Steyr / 9 mm Steyr-Mannlicher / 9 mm M1912"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "Austria-Hungary"],
+    ["Developed for", "Steyr M1911/M1912"],
+    ["Adopted for service", "1912"],
+    ["Case", "Rimless, bottlenecked"],
+    ["Case length", "Approximately 23.1 mm"],
+    ["Maximum cartridge length", "Approximately 33.0 mm"],
+    ["Bullet diameter", "Approximately 9.0 mm"],
+    ["Bullet weight", "Approximately 7.0–7.6 g"],
+    ["Muzzle velocity", "Approximately 310–370 m/s*"],
+    ["Muzzle energy", "Approximately 365–530 J*"],
+    ["Main firearms", "Steyr M1911/M1912, Steyr-Solothurn MP34"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight and design, and barrel length. Historical and modern loads can differ considerably.
+</p>
+
+<p>
+  <strong>Important:</strong> The 9×23 mm Steyr
+  must not be confused with the <strong>9×23 mm Bergmann-Bayard / 9 mm Largo</strong>. Despite
+  their similar designations and comparable external dimensions, they are different cartridges.
+</p>
+</Section>
+<Section
+  id="9x23-sr-38-acp"
+  title="9×23 mm SR (.38 ACP / .38 Auto)"
+>
+  <img
+    src="/images/calibers/cartridges/9×23 SR .38 ACP .38 Auto.png"
+    alt="9×23 mm SR (.38 ACP / .38 Auto)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>One of the first high-velocity American pistol cartridges, developed by John Browning for the Colt M1900.</em>
+</p>
+<p>
+  <strong>9×23 mm SR</strong>, best known
+  as <strong>.38 ACP (Automatic Colt Pistol)</strong>, <strong>.38 Auto</strong>, or <strong>.38
+  Automatic</strong>, is an American pistol cartridge developed by <strong>John Moses
+  Browning</strong> in the late 19th century and introduced to the market in <strong>1900</strong> for
+  the <strong>Colt M1900</strong> pistol.
+</p>
+
+<p>
+  The cartridge is notable not only for its early introduction,
+  but also for its design. It uses a <strong>semi-rimmed case</strong>,
+  whose rim protrudes slightly beyond the case body and helps position the
+  cartridge correctly in the chamber.
+</p>
+
+<p>
+  The metric designation <strong>9×23 mm SR</strong> is a convenient
+  way to distinguish it from other cartridges designated 9×23 mm.
+</p>
+<h2>Development History</h2>
+
+<p>
+  The history of the .38 ACP is directly connected to
+  the development of the first successful self-loading pistols by <strong>John Browning</strong>.
+</p>
+
+<p>
+  In the late 19th century, Browning developed a new
+  generation of self-loading pistols for the American company <strong>Colt</strong>. The
+  new firearm also required a suitable smokeless-powder pistol cartridge that could
+  deliver significantly higher velocity than the revolver ammunition widely used at the time.
+</p>
+
+<p>
+  The first experimental versions of what would become the .38
+  ACP appeared as early as <strong>1897</strong>. During development, the case design
+  underwent several changes, and by 1898 the <strong>semi-rimmed</strong> case configuration
+  had been established. This remained a defining feature of the production cartridge.
+</p>
+
+<p>
+  In <strong>1899</strong>, the new cartridge and pistol underwent
+  military trials. In <strong>1900</strong>, Colt began series production of the
+  <strong>Colt M1900</strong> and the .38 ACP cartridge.
+</p>
+<h2>Colt M1900</h2>
+
+<img
+  src="/images/calibers/cartridges/Colt M1900.png"
+  alt="Colt M1900"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto 30px auto",
+  }}
+/>
+<p>
+  The Colt M1900 was the first production pistol designed
+  specifically for the .38 ACP.
+</p>
+
+<p>
+  The pistol used <strong>short-recoil operation and
+  a locked breech</strong>, with the barrel and slide moving together during the initial
+  phase of recoil. The barrel locked to the slide through locking lugs and was unlocked
+  by a link mechanism. This design became the foundation for the subsequent development
+  of Browning and Colt pistols.
+</p>
+
+<p>
+  The Colt M1900 had a magazine capacity of <strong>7 rounds</strong>
+  and represented an exceptionally modern design for its time.
+</p>
+<h2>Cartridge Design</h2>
+
+<p>
+  The .38 ACP is a <strong>cartridge with a generally rimless
+  design but a semi-rimmed case, a straight cylindrical case body, and a centerfire primer</strong>.
+</p>
+
+<p>
+  The semi-rimmed case is one of the cartridge's most distinctive
+  features. It allows the cartridge to <strong>headspace on the rim at the front
+  of the chamber</strong>, determining its correct position relative to the barrel
+  and firing mechanism.
+</p>
+
+<p>
+  This design solution was used at a time when
+  self-loading pistols were still evolving and different manufacturers were experimenting
+  with ways to position cartridges in the chamber.
+</p>
+
+<p>
+  The case is approximately <strong>22.9 mm</strong> long, while
+  the maximum overall cartridge length is around <strong>32.5–33 mm</strong>. The bullet
+  diameter is approximately <strong>9.0 mm</strong>.
+</p>
+<h2>Early High-Powered Loads</h2>
+
+<p>
+  One interesting aspect of the .38 ACP's history is that
+  early ammunition loads were relatively powerful.
+</p>
+
+<p>
+  Initial commercial loads are reported to have achieved
+  velocities of around <strong>380 m/s</strong> with a bullet weighing approximately <strong>8.4 g</strong>,
+  while experimental loads reached even higher velocities.
+</p>
+
+<p>
+  However, these performance levels proved too demanding
+  for early Colt pistols. Manufacturers subsequently reduced the power of standard loads,
+  and muzzle velocities gradually settled at more moderate levels.
+</p>
+
+<p>
+  This is an important part of the cartridge's history because
+  later .38 ACP ammunition should not be directly compared with the most powerful early
+  experimental loads.
+</p>
+<h2>.38 ACP and .38 Super</h2>
+
+<p>
+  The history of the .38 ACP eventually led to the development
+  of one of the best-known high-velocity pistol cartridges: the <strong>.38 Super</strong>.
+</p>
+
+<p>
+  During the 1920s, Colt began offering the
+  <strong>Super .38 Automatic</strong> pistol, based on the Colt M1911 platform.
+  The ammunition initially used was standard .38 ACP, but high-velocity loads developed
+  specifically for stronger pistols appeared during the 1930s. These gradually became
+  established under the designation <strong>.38 Super</strong>.
+</p>
+
+<p>
+  This distinction is extremely important:
+</p>
+
+<p>
+  <strong>.38 ACP and .38 Super are not simply two names for
+  the same standard cartridge.</strong>
+</p>
+
+<p>
+  The .38 Super is a high-pressure variant intended
+  for firearms capable of withstanding the corresponding stresses.
+</p>
+
+<h2>.38 ACP and 9×19 mm Parabellum</h2>
+
+<p>
+  The .38 ACP is one of the early high-velocity
+  pistol cartridges, and its ballistic performance can be comparable to that of the 9×19 mm
+  in certain specific loads.
+</p>
+
+<p>
+  However, this does not mean the two cartridges are
+  identical or interchangeable.
+</p>
+
+<p>
+  <strong>9×19 mm Parabellum and 9×23 mm SR (.38 ACP) are
+  different cartridges</strong>, with different case geometry, operating pressures,
+  and specifications.
+</p>
+
+<p>
+  It is particularly important not to attribute the
+  performance characteristics of the <strong>.38 Super</strong> to standard .38 ACP.
+  The high-pressure .38 Super loads are significantly more powerful than standard .38 ACP ammunition.
+</p>
+
+<h2>Different 9×23 mm Cartridges</h2>
+
+<p>
+  The designation <strong>9×23 mm</strong> alone is not
+  sufficient to identify a cartridge.
+</p>
+
+<p>
+  This group includes several different designs:
+</p>
+
+<ul
+  style={{
+    width: "80%",
+    margin: "0 auto 30px auto",
+    paddingLeft: "40px",
+    boxSizing: "border-box",
+    fontSize: "1.15em",
+    listStyleType: "disc",
+  }}
+>
+  <li style={{ color: "#fff" }}><strong>9×23 mm SR (.38 ACP / .38 Auto)</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm Bergmann-Bayard / 9 mm Largo</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm Steyr</strong></li>
+  <li style={{ color: "#fff" }}><strong>9×23 mm Winchester</strong></li>
+</ul>
+
+<p>
+  These cartridges have similar metric designations, but they are <strong>different
+  cartridges</strong> and must not be considered interchangeable.
+</p>
+
+<p>
+  For the .38 ACP, the designation <strong>SR</strong> is particularly
+  useful because it indicates the presence of a <strong>semi-rimmed</strong> case.
+</p>
+<h2>.38 ACP and .380 ACP — Two Completely Different Cartridges</h2>
+
+<p>
+  One of the most common sources of confusion involves
+  the designations <strong>.38 ACP</strong> and <strong>.380 ACP</strong>.
+</p>
+
+<p>
+  Despite their similar spelling, these are <strong>two
+  different cartridges</strong>.
+</p>
+
+<p>
+  <strong>.38 ACP</strong> is the 9×23 mm SR
+  — a longer and significantly more powerful cartridge with a semi-rimmed case.
+</p>
+
+<p>
+  <strong>.380 ACP</strong> is the 9×17 mm
+  Browning Short — a shorter cartridge with a rimless cylindrical case.
+</p>
+
+<p>
+  Therefore:
+</p>
+
+<p>
+  <strong>.38 ACP ≠ .380 ACP</strong>
+</p>
+
+<p>
+  The similarity between the names is purely historical and can
+  easily lead to confusion.
+</p>
+<h2>The Cartridge Today</h2>
+
+<p>
+  The .38 ACP is no longer a widely used service
+  cartridge, but production continues in limited quantities.
+</p>
+
+<p>
+  Interest in it today is primarily associated with
+  historical firearms such as the <strong>Colt M1900, M1902, and M1903 Pocket Model</strong>, as well as
+  collectible examples and firearms from the early 20th century.
+</p>
+<div
+  style={{
+    display: "flex",
+    justifyContent: "space-between",
+    gap: "30px",
+    margin: "30px 0",
+  }}
+>
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Colt M1902</h3>
+    <img
+      src="/images/calibers/cartridges/Colt M1902.png"
+      alt="Colt M1902"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ flex: 1, textAlign: "center" }}>
+    <h3>Colt M1903 Pocket</h3>
+    <img
+      src="/images/calibers/cartridges/Colt M1903 Pocket.png"
+      alt="Colt M1903 Pocket"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+</div>
+<p>
+  However, the cartridge's significance extends far beyond
+  its limited modern use. Its development formed part of the evolution that led to
+  later American pistol cartridges such as the <strong>.38 Super</strong>.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  The .38 ACP was one of the first American pistol
+  cartridges to combine a <strong>self-loading pistol, smokeless powder, and a muzzle
+  velocity that was high for its era</strong>.
+</p>
+
+<p>
+  Even the earliest loads were powerful enough to
+  prompt a subsequent reduction in ballistic performance because of the stresses they placed
+  on early pistols.
+</p>
+
+<p>
+  The cartridge thus represented an important step in the
+  development of American self-loading pistols, from the <strong>Colt M1900</strong> to
+  later Colt and Browning designs.
+</p>
+<TechnicalData
+  title="9×23 mm SR (.38 ACP / .38 Auto)"
+  language="en"
+  data={[
+    ["Designation", "9×23 mm SR"],
+    ["American designation", ".38 ACP / .38 Auto / .38 Automatic"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Developer", "John Moses Browning / Colt"],
+    ["Year introduced", "1900"],
+    ["Case type", "Semi-rimmed, cylindrical"],
+    ["Case length", "Approximately 22.9 mm"],
+    ["Maximum cartridge length", "Approximately 32.5–33.0 mm"],
+    ["Bullet diameter", "Approximately 9.0 mm"],
+    ["Bullet weight", "Approximately 7.0–8.4 g"],
+    ["Muzzle velocity", "Approximately 320–350 m/s*"],
+    ["Muzzle energy", "Approximately 420–460 J*"],
+    ["Primary firearm", "Colt M1900"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight and design, and barrel length. Historical .38 ACP loads varied considerably, with early experimental and initial commercial loads being more powerful than later standard ammunition.
+</p>
+
+<p>
+  <strong>Important:</strong> <strong>9×23 mm SR (.38 ACP)</strong> must not be confused with
+  <strong>9×23 mm Largo, 9×23 mm Steyr, or 9×23 mm Winchester</strong>. These are different
+  cartridges. Likewise, <strong>.38 ACP is not .380 ACP (9×17 mm Browning Short)</strong>.
+</p>
+</Section>
+<Section
+  id="9x23-sr-38-super"
+  title="9×23 mm SR (.38 Super)"
+>
+  <img
+    src="/images/calibers/cartridges/9x23 HR 38 Super.png"
+    alt="9×23 mm SR (.38 Super)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>The high-velocity American cartridge designed for the
+  Colt M1911, which later became a legend in practical shooting.</em>
+</p>
+<p>
+  <strong>9×23 mm SR (.38 Super)</strong>, known as <strong>.38 Super</strong>, <strong>.38 Super Auto</strong>, <strong>.38 Super
+  Automatic</strong>, and <strong>Super .38</strong>, is an American pistol cartridge developed
+  from the older <strong>.38 ACP (.38 Auto)</strong>.
+</p>
+
+<p>
+  The external dimensions of the two cartridges are practically
+  identical, but the .38 Super uses a significantly more powerful load and operates at higher
+  pressure. For this reason, .38 Super must be regarded as a <strong>separate
+  cartridge</strong>, despite being a direct successor to the .38 ACP.
+</p>
+
+<p>
+  The cartridge was introduced by <strong>Colt in 1929</strong>
+  for the <strong>Colt M1911 Government Model</strong> pistol. The main objective was to
+  develop a high-velocity pistol cartridge with better penetration than
+  the standard pistol cartridges of the time.
+</p>
+<h2>Colt M1911 Government Model</h2>
+
+<img
+  src="/images/calibers/cartridges/Colt M1911 Government Model.png"
+  alt="Colt M1911 Government Model"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto 30px auto",
+  }}
+/>
+<h2>History of Development</h2>
+
+<p>
+  The history of the .38 Super begins with the <strong>.38 ACP</strong>,
+  developed by John Moses Browning and introduced in 1900 for the Colt M1900.
+</p>
+
+<p>
+  The .38 ACP uses a semi-rimmed case and offered
+  a relatively high velocity for its time. After the adoption of the .45 ACP as
+  the standard American military cartridge in 1911, the .38 ACP gradually faded into
+  the background.
+</p>
+
+<p>
+  The introduction of the <strong>Colt M1911</strong>, however, created
+  an opportunity to use a more powerful cartridge with a smaller bullet diameter.
+</p>
+
+<p>
+  In <strong>1929, Colt introduced the M1911 in .38 Super</strong>.
+  The new cartridge was based on the .38 ACP but was designed to withstand significantly
+  higher pressures. Colt marketed it as a high-velocity cartridge for the M1911.
+</p>
+
+<p>
+  The designation <strong>.38 Super</strong> later became established,
+  while modern standards also frequently use the name <strong>.38 Super Auto</strong>.
+</p>
+<h2>.38 ACP and .38 Super</h2>
+
+<p>
+  This is one of the most important characteristics of this
+  cartridge.
+</p>
+
+<p>
+  <strong>.38 ACP and .38 Super have practically identical
+  case dimensions</strong>, but they differ in terms of operating pressure.
+</p>
+
+<p>
+  The .38 Super was designed for stronger firearms and
+  higher pressure. The C.I.P. specifies a maximum pressure of <strong>2300 bar for
+  .38 Super Auto</strong>.
+</p>
+
+<p>
+  For this reason, older pistols designed for the .38
+  ACP must not automatically be considered suitable for the .38 Super.
+</p>
+
+<p>
+  This similarity between the two cartridges is also why
+  Colt used a different commercial designation. The aim was to reduce
+  the risk of the more powerful new cartridge being used in older .38 ACP pistols.
+</p>
+
+<p>
+  Under modern standards, <strong>.38 ACP and .38 Super +P are treated as separate cartridges</strong>, despite their practically identical case geometry.
+</p>
+<h2>The Colt M1911 in .38 Super</h2>
+
+<p>
+  The .38 Super was developed specifically with the <strong>Colt
+  M1911</strong> platform in mind.
+</p>
+
+<p>
+  Using a smaller 9 mm bullet instead of the standard
+  .45 ACP bullet makes it possible to combine high velocity with greater
+  magazine capacity.
+</p>
+
+<p>
+  The cartridge is particularly well suited to the M1911's
+  design, which had already demonstrated its ability to function with powerful pistol
+  cartridges.
+</p>
+
+<p>
+  Colt marketed the .38 Super as a high-velocity
+  alternative to the .45 ACP. According to historical data, more than <strong>200,000 Colt pistols chambered in .38 Super</strong> were produced between 1929 and
+  1969.
+</p>
+<h2>Why Was It Developed?</h2>
+
+<p>
+  In the late 1920s, automobiles and protective
+  equipment began to change the requirements for pistol ammunition.
+</p>
+
+<p>
+  A smaller, faster bullet offered advantages when
+  fired against metal barriers and vehicle structures compared with slower,
+  heavier bullets.
+</p>
+
+<p>
+  High velocity and a relatively flat trajectory
+  became the main selling points of the .38 Super.
+</p>
+
+<p>
+  Colt presented it as a powerful, high-velocity
+  cartridge designed for the M1911. The cartridge attracted interest among both civilian
+  shooters and law enforcement personnel.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The .38 Super is a <strong>semi-rimmed pistol cartridge</strong>,
+  similar to the .38 ACP.
+</p>
+
+<p>
+  Its case is cylindrical and features a small
+  protruding rim at the rear.
+</p>
+
+<p>
+  According to C.I.P. data, the case length is <strong>22.86
+  mm</strong>, while the maximum overall cartridge length is <strong>32.51 mm</strong>. The maximum
+  pressure is <strong>2300 bar</strong>.
+</p>
+
+<p>
+  These dimensions are practically identical to those of
+  the .38 ACP.
+</p>
+
+<p>
+  This does not mean, however, that the two cartridges are
+  interchangeable in all firearms. The main difference lies in the <strong>operating
+  pressure and the corresponding propellant load</strong>.
+</p>
+<h2>The Headspace Problem</h2>
+
+<p>
+  The original .38 Super pistols used the same
+  cartridge-positioning principle as the older .38 ACP: headspacing on the small
+  semi-rimmed case rim.
+</p>
+
+<p>
+  In the M1911, this created an accuracy problem
+  because the cartridge could move slightly within the chamber.
+</p>
+
+<p>
+  Later, gunsmith and barrel maker <strong>Irv Stone</strong>
+  of <strong>Bar-Sto Precision</strong> developed barrels in which the .38 Super headspaces
+  on the front edge of the case — <strong>case-mouth headspacing</strong>. This significantly
+  improved accuracy.
+</p>
+
+<p>
+  Modern .38 Super pistols generally use this
+  approach.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The main advantage of the .38 Super is its high
+  muzzle velocity.
+</p>
+
+<p>
+  With a typical bullet weighing approximately <strong>7.5–8.4 g</strong>,
+  modern factory ammunition can achieve velocities of approximately <strong>360–400
+  m/s</strong>, depending on the specific load and barrel length.
+</p>
+
+<p>
+  With a bullet weighing around 8.4 g and a velocity of approximately 390 m/s,
+  the kinetic energy is about <strong>640 J</strong>.
+</p>
+
+<p>
+  Lighter bullets are also available, with
+  velocities that can exceed <strong>400 m/s</strong>. Historical and modern sources
+  show considerable variation depending on the specific ammunition.
+</p>
+
+<p>
+  These figures place the .38 Super well above the
+  standard .38 ACP and made it one of the fastest pistol cartridges of its
+  time.
+</p>
+<h2>.38 Super and 9×19 Parabellum</h2>
+
+<p>
+  The .38 Super and <strong>9×19 mm Parabellum</strong> are
+  relatively similar in bullet diameter and ballistic performance, but they use
+  different cases.
+</p>
+
+<p>
+  The .38 Super has a longer case — approximately <strong>22.86 mm</strong>,
+  compared with 19 mm for the 9×19.
+</p>
+
+<p>
+  With certain modern loads, the .38 Super can
+  achieve higher velocity and energy than standard 9×19 mm ammunition, but this depends
+  on the specific cartridge.
+</p>
+
+<p>
+  It should not be assumed that the .38 Super automatically
+  "outperforms" every 9×19 mm load. Modern 9×19 ammunition is also available
+  across a wide range of performance levels.
+</p>
+<h2>Popularity in the United States and Latin America</h2>
+
+<p>
+  The .38 Super never became a standard American
+  military cartridge, but it found a niche among civilian shooters, law enforcement
+  agencies, and particularly in Latin American markets.
+</p>
+
+<p>
+  In some countries south of the United States, civilian
+  ownership of firearms in traditional military calibers has been restricted. This
+  created demand for powerful pistols chambered in calibers that did not fall into the same
+  category.
+</p>
+
+<p>
+  As a result, the .38 Super became particularly popular in <strong>Mexico
+  and other Latin American countries</strong>. Spanish manufacturers such as <strong>Star, Astra,
+  and Llama</strong> also produced pistols chambered for it.
+</p>
+<h2>.38 Super and Law Enforcement</h2>
+
+<p>
+  The cartridge was conceived as a powerful service round
+  and attracted the interest of American police officers and other personnel during the
+  first half of the 20th century.
+</p>
+
+<p>
+  Its high velocity was particularly valued when
+  using a pistol against vehicle structures and other hard barriers.
+</p>
+
+<p>
+  Nevertheless, the .38 Super never became a universal standard for American law enforcement. The .45 ACP and, later, the 9×19 mm remained much more widely used.
+</p>
+<h2>The Revival of .38 Super in Practical Shooting</h2>
+
+<p>
+  One of the most interesting chapters in the history of the .38
+  Super began in the <strong>1980s</strong>.
+</p>
+
+<p>
+  The cartridge found a new lease on life in dynamic
+  shooting sports, particularly <strong>IPSC and USPSA</strong>.
+</p>
+
+<p>
+  The combination of a relatively light bullet, high
+  velocity, and the ability to use a compensator made the .38 Super highly
+  suitable for competition pistols.
+</p>
+
+<p>
+  It became one of the most popular calibers in the Open Division of practical shooting. Its high velocity makes it possible
+  to achieve the required <strong>Major power factor</strong>, while the compensator reduces
+  perceived recoil and allows rapid follow-up shots.
+</p>
+
+<p>
+  Thus, a cartridge developed in 1929 for a
+  high-velocity service pistol found a new lease on life more than half a century
+  later.
+</p>
+<h2>.38 Super Today</h2>
+
+<p>
+  Today, the .38 Super remains in production and retains
+  a niche among competitive shooters and enthusiasts of the <strong>1911</strong>
+  platform.
+</p>
+
+<p>
+  The cartridge is particularly popular in competition
+  pistols, which are often equipped with compensators and high-capacity magazines.
+</p>
+
+<p>
+  Modern manufacturers offer .38 Super ammunition with
+  various bullet designs, including FMJ and specialized competition and
+  defensive loads.
+</p>
+
+<p>
+  Although the 9×19 mm is incomparably more widespread,
+  the .38 Super retains its reputation as a high-velocity American pistol
+  cartridge.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  <strong>The .38 Super is one of the longest-serving
+  high-velocity pistol cartridges developed during the first half of the 20th century.</strong>
+</p>
+
+<p>
+  Created for the Colt M1911 in 1929, it survived
+  through nearly the entire 20th century. Rather than disappearing with the arrival of
+  more modern 9 mm ammunition, it found a new role in competitive shooting.
+</p>
+
+<p>
+  Its history therefore spans three distinct
+  stages:
+</p>
+
+<p>
+  <strong>.38 ACP → .38 Super → Competition .38 Super</strong>
+</p>
+<h2>Technical Data</h2>
+
+<TechnicalData
+  language="en"
+  title="9×23 mm SR (.38 Super)"
+  data={[
+    ["Designation", "9×23 mm SR"],
+    ["Primary designation", ".38 Super"],
+    ["Other designations", ".38 Super Auto / .38 Super Automatic / Super .38"],
+    ["Type", "Pistol cartridge"],
+    ["Country of origin", "United States"],
+    ["Manufacturer at introduction", "Colt"],
+    ["Year of introduction", "1929"],
+    ["Design origin", ".38 ACP / .38 Auto"],
+    ["Case type", "Semi-rimmed, cylindrical"],
+    ["Case length", "22.86 mm"],
+    ["Maximum overall cartridge length", "32.51 mm"],
+    ["Bullet diameter", "Approx. 9.0 mm"],
+    ["Bullet weight", "Approximately 7.5–8.4 g"],
+    ["Muzzle velocity", "Approximately 360–400 m/s*"],
+    ["Muzzle energy", "Approximately 500–650 J*"],
+    ["Maximum pressure according to C.I.P.", "2300 bar"],
+    ["Primary historical firearm", "Colt M1911 Government Model"],
+    ["Modern applications", "Competitive and civilian shooting"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific
+  cartridge, bullet weight and design, and barrel length. Considerable differences exist
+  between historical and modern .38 Super loads.
+  C.I.P. specifies a maximum pressure of <strong>2300 bar</strong>.
+</p>
+
+<p>
+  <strong>Important:</strong> <strong>9×23 mm SR
+  (.38 Super)</strong> must not be confused with <strong>9×23 mm SR (.38 ACP / .38 Auto)</strong>,
+  despite their practically identical case dimensions. The .38 Super is a high-pressure
+  cartridge and must not be used in firearms designed exclusively for the .38
+  ACP. It must also not be confused with the <strong>9×23
+  mm Bergmann-Bayard (Largo), 9×23 mm Steyr, or 9×23 mm Winchester</strong>.
+</p>
+</Section>
+<Section
+  id="9x23-winchester"
+  title="9×23 mm Winchester"
+>
+  <img
+    src="/images/calibers/cartridges/9x23 Winchester.png"
+    alt="9×23 mm Winchester"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>The high-pressure American cartridge developed for
+  practical shooting as a modern rimless alternative to the .38 Super.</em>
+</p>
+<p>
+  <strong>9×23 mm Winchester</strong> is an American pistol cartridge developed in the early 1990s and
+  officially introduced in <strong>1996</strong>. It was designed primarily for the needs
+  of <strong>practical shooting</strong>, where it needed to combine high muzzle
+  velocity, substantial energy, and the ability to achieve a high <strong>Power Factor</strong>
+  with relatively moderate recoil.
+</p>
+
+<p>
+  The cartridge is particularly interesting because of
+  its similarity to the existing <strong>.38 Super</strong>. Both use a bullet with a diameter
+  of approximately 9 mm and have a case around 23 mm long, but their designs are different.
+  While the .38 Super has a <strong>semi-rimmed</strong> case, the 9×23 Winchester is <strong>rimless</strong>
+  and uses a significantly reinforced case designed for very
+  high pressure.
+</p>
+
+<p>
+  This design allows the 9×23 Winchester to achieve ballistic performance comparable to that of some magnum pistol cartridges without using a bottlenecked case.
+</p>
+<h2>History of Development</h2>
+
+<p>
+  The history of the 9×23 Winchester begins in the early
+  <strong>1990s</strong>, when American designer <strong>John Ricco</strong>
+  developed a new 9 mm case design.
+</p>
+
+<p>
+  Ricco filed a patent in <strong>1992</strong> for
+  an improved case design initially known as the <strong>9×23 Super</strong>.
+  <strong>Winchester Ammunition</strong> technology was used to manufacture the prototypes.
+</p>
+
+<p>
+  The main idea was to create a powerful 9 mm cartridge
+  that could take advantage of <strong>1911</strong>-style platforms while avoiding
+  some of the shortcomings of the .38 Super.
+</p>
+
+<p>
+  The semi-rimmed case of the .38 Super can
+  cause feeding problems, particularly in pistols with
+  modified magazines and in competition configurations.
+</p>
+
+<p>
+  The new cartridge addressed this problem by
+  using a <strong>rimless case</strong>.
+</p>
+
+<p>
+  Winchester modified the prototype design, and
+  the resulting cartridge was eventually designated the <strong>9×23 Winchester</strong>.
+</p>
+<h2>The Introduction of the 9×23 Winchester</h2>
+
+<p>
+  The new cartridge was publicly introduced in <strong>1996</strong>
+  at the annual meeting of the <strong>National Rifle Association (NRA)</strong>.
+</p>
+
+<p>
+  Its primary purpose was practical shooting, particularly
+  competitions governed by <strong>IPSC</strong> and <strong>USPSA</strong> rules.
+</p>
+
+<p>
+  At the time, competitors were looking for a way to
+  achieve the required <strong>Major Power Factor</strong> while using
+  a smaller, faster bullet than the .45 ACP.
+</p>
+
+<p>
+  The 9×23 Winchester was designed specifically with this goal in mind.
+</p>
+
+<p>
+  With a bullet weighing around 8 g, it can achieve
+  velocities exceeding <strong>430 m/s</strong> while retaining the relatively compact
+  dimensions of a pistol cartridge.
+</p>
+<h2>The Connection with the .38 Super</h2>
+
+<p>
+  The history of the 9×23 Winchester is difficult to
+  discuss separately from that of the <strong>.38 Super</strong>.
+</p>
+
+<p>
+  The .38 Super was already an established cartridge in practical
+  shooting, particularly in <strong>1911</strong> pistols. However, it uses a semi-rimmed
+  case.
+</p>
+
+<p>
+  During the development of the 9×23 Winchester, the aim was
+  to retain the high ballistic performance of the .38 Super while adopting a more
+  modern case design.
+</p>
+
+<p>
+  This led to the development of the <strong>rimless 9×23 Winchester</strong>.
+</p>
+
+<p>
+  The two cartridges are similar in dimensions and
+  intended applications, but <strong>they are not the same cartridge and are not interchangeable</strong>.
+</p>
+
+<p>
+  The 9×23 Winchester has a significantly stronger case construction and is designed for much higher pressures than the standard .38 ACP.
+</p>
+<h2>Case Design</h2>
+
+<p>
+  One of the most important features of the 9×23 Winchester
+  is its <strong>heavily reinforced case</strong>.
+</p>
+
+<p>
+  Its external geometry resembles an elongated 9×19 mm
+  Parabellum, but the case is designed to withstand significantly higher pressure.
+</p>
+
+<p>
+  The case walls and base are reinforced, allowing it to
+  accommodate a large propellant charge.
+</p>
+
+<p>
+  Unlike the .38 Super, the case is <strong>rimless</strong>,
+  improving feeding and allowing more reliable operation in competition
+  pistols.
+</p>
+
+<p>
+  The case is almost cylindrical, with a slight
+  taper toward the mouth.
+</p>
+
+<p>
+  This differs from the bottlenecked cases used by the <strong>.357
+  SIG</strong>, <strong>9×25 Dillon</strong>, and other high-velocity 9 mm cartridges.
+</p>
+<h2>High Operating Pressure</h2>
+
+<p>
+  The 9×23 Winchester is unusual because of its extremely
+  high operating pressure.
+</p>
+
+<p>
+  The <strong>Sporting Arms and Ammunition Manufacturers'
+  Institute (SAAMI)</strong> specifies a maximum pressure of approximately <strong>55,000 psi</strong>,
+  equivalent to approximately <strong>379 MPa</strong>.
+</p>
+
+<p>
+  This figure is significantly higher than the pressure of
+  standard 9×19 mm Parabellum ammunition.
+</p>
+
+<p>
+  For this reason, the 9×23 Winchester must be used
+  <strong>only in firearms specifically designed for this cartridge</strong>.
+</p>
+
+<p>
+  Its external similarity to the 9×19 and other 9 mm cartridges does not make them interchangeable.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The high operating pressure allows the 9×23 Winchester to
+  achieve very high muzzle velocities.
+</p>
+
+<p>
+  With a bullet weighing approximately <strong>8 g (124–125 gr)</strong>,
+  Winchester factory ammunition has achieved velocities of approximately <strong>440–450
+  m/s</strong> in tests using a suitable test barrel.
+</p>
+
+<p>
+  With an 8 g bullet traveling at approximately 450 m/s,
+  the kinetic energy is about <strong>810 J</strong>. Published factory data
+  show figures of approximately <strong>790–800 J</strong>, depending on the specific cartridge
+  and test barrel.
+</p>
+
+<p>
+  This places the 9×23 Winchester well above
+  standard 9×19 mm loads and brings its energy close to that of some
+  high-performance pistol cartridges.
+</p>
+<h2>9×23 Winchester and the 1911 Platform</h2>
+
+<p>
+  The cartridge is particularly well suited to pistols of the <strong>Colt M1911</strong>
+  type.
+</p>
+
+<p>
+  The case is relatively long, measuring approximately
+  <strong>22.86 mm</strong>, while the overall cartridge length reaches approximately <strong>33.02 mm</strong>.
+</p>
+
+<p>
+  This means that standard compact pistols designed for
+  9×19 mm are not the natural platform for this cartridge.
+</p>
+
+<p>
+  The 1911 platform has magazines of sufficient length and
+  a design that allows the use of this type of cartridge.
+</p>
+
+<p>
+  For this reason, the 9×23 Winchester remains closely associated with
+  competition pistols based on the 1911.
+</p>
+<h2>Practical Shooting</h2>
+
+<p>
+  The primary reason for developing the 9×23 Winchester was <strong>competitive shooting</strong>.
+</p>
+
+<p>
+  In practical shooting disciplines, results depend not only on accuracy but also on shooting speed and ammunition power.
+</p>
+
+<p>
+  The 9×23 Winchester was designed to deliver a high <strong>Power Factor</strong> without requiring the use of the heavier .45 ACP.
+</p>
+
+<p>
+  This allows competitors to use a relatively light 9 mm bullet at high velocity.
+</p>
+
+<p>
+  The cartridge is particularly interesting for <strong>Open</strong>
+  and other competition configurations of the 1911, where compensators and specially prepared firearms are used.
+</p>
+
+<h2>Why Didn't the 9×23 Winchester Become Widely Adopted?</h2>
+
+<p>
+  Despite its impressive performance, the cartridge never achieved widespread adoption.
+</p>
+
+<p>
+  One reason is that its original purpose was closely tied to the rules of practical shooting.
+</p>
+
+<p>
+  Meanwhile, competition rules changed, and the minimum Power Factor for the <strong>Major</strong> category was reduced. This weakened one of the new cartridge's main advantages.
+</p>
+
+<p>
+  As a result, competitors could achieve the required performance with established cartridges such as the <strong>9×19</strong>, <strong>.38 Super</strong>, and <strong>.45 ACP</strong>.
+</p>
+
+<p>
+  The 9×23 Winchester therefore remained a high-performance but relatively niche cartridge.
+</p>
+
+<h2>9×23 Winchester and Other 9×23 mm Cartridges</h2>
+
+<p>
+  The designation <strong>9×23 mm</strong> is a source of considerable confusion.
+</p>
+
+<p>
+  The 9×23 Winchester must not be confused with:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+  }}
+>
+  <li><strong>9×23 mm Bergmann-Bayard / 9 mm Largo</strong></li>
+  <li><strong>9×23 mm Steyr</strong></li>
+  <li><strong>9×23 mm SR (.38 ACP / .38 Auto)</strong></li>
+  <li><strong>9×23 mm SR (.38 Super)</strong></li>
+</ul>
+
+<p>
+  Although all these cartridges use 9 mm bullets and cases approximately 23 mm long, they are different designs.
+</p>
+
+<p>
+  The distinction from the <strong>.38 Super</strong> is particularly important.
+</p>
+
+<p>
+  The .38 Super uses a <strong>semi-rimmed</strong> case, whereas the 9×23 Winchester is <strong>rimless</strong>. In addition, the Winchester cartridge uses a significantly reinforced case and is designed for very high pressure.
+</p>
+
+<p>
+  Therefore, the designation <strong>9×23 mm alone is not sufficient to identify a cartridge</strong>.
+</p>
+<h2>9×23 Winchester and .357 SIG</h2>
+
+<p>
+  The 9×23 Winchester is also frequently compared with the <strong>.357 SIG</strong>,
+  as both cartridges were developed around a similar concept: achieving high
+  velocity and energy with a 9 mm bullet.
+</p>
+
+<p>
+  Their designs, however, are different.
+</p>
+
+<p>
+  The .357 SIG uses a <strong>bottlenecked case</strong>
+  based on the .40 S&amp;W, whereas the 9×23 Winchester has an almost cylindrical case.
+</p>
+
+<p>
+  Depending on the factory load, the two cartridges
+  can achieve similar ballistic performance. However, the 9×23 Winchester operates
+  at extremely high pressure and is optimized for a different firearm
+  platform.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  The 9×23 Winchester never achieved the popularity
+  of the 9×19 mm or .38 Super.
+</p>
+
+<p>
+  Nevertheless, the cartridge remains in production
+  and is used by shooters who own firearms designed for it.
+</p>
+
+<p>
+  Its primary niche remains <strong>sport and
+  competitive shooting</strong>, particularly with pistols based on the 1911.
+</p>
+
+<p>
+  It is also of interest to collectors because of
+  its unusual design and its place in the history of
+  high-velocity 9 mm ammunition.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  The 9×23 Winchester was developed at a time when the <strong>.38
+  Super was already an established cartridge in practical shooting</strong>, but its semi-rimmed
+  case design created certain problems in competition firearms.
+</p>
+
+<p>
+  The new cartridge offered an elegant solution:
+</p>
+
+<p>
+  <strong>9 mm bullet + rimless case + very high
+  pressure.</strong>
+</p>
+
+<p>
+  The concept was technically successful, but it emerged
+  at a time when changes to practical shooting rules were already beginning to
+  reduce the need for such a powerful cartridge.
+</p>
+<h2>Technical Data</h2>
+
+<TechnicalData
+  language="en"
+  title="9×23 mm Winchester"
+  data={[
+    ["Designation", "9×23 mm Winchester"],
+    ["Other designations", "9×23 Winchester / 9×23 Win"],
+    ["Type", "Pistol cartridge"],
+    ["Country of origin", "United States"],
+    ["Development period", "1992–1995"],
+    ["Commercial introduction", "1996"],
+    ["Principal developers", "John Ricco / Winchester Ammunition"],
+    ["Case type", "Rimless, almost cylindrical"],
+    ["Case length", "22.86 mm"],
+    ["Maximum overall cartridge length", "33.02 mm"],
+    ["Bullet diameter", "Approximately 9.04 mm"],
+    ["Ignition type", "Centerfire"],
+    ["Typical bullet weight", "Approximately 8.0 g"],
+    ["Muzzle velocity", "Approximately 400–450 m/s*"],
+    ["Muzzle energy", "Approximately 640–800 J*"],
+    ["Maximum pressure according to SAAMI", "Approximately 379 MPa"],
+    ["Primary purpose", "Practical and competitive shooting"],
+    ["Primary firearm platform", "Colt M1911 and derivatives"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific
+  cartridge, bullet weight and design, and barrel length. Factory data for 124–125 gr
+  bullets show velocities of approximately 440–450 m/s and energy of approximately
+  790–800 J when measured using suitable test barrels.
+</p>
+
+<p>
+  <strong>Important:</strong> <strong>9×23 mm Winchester</strong> is a different cartridge from
+  <strong>9×23 mm Bergmann-Bayard (Largo), 9×23 mm Steyr, .38 ACP, and .38 Super</strong>,
+  despite similar designations and comparable dimensions. They must not be considered
+  interchangeable.
+</p>
+</Section>
+<Section
+  id="9x25-mauser-export"
+  title="9×25 mm Mauser Export"
+>
+  <img
+    src="/images/calibers/cartridges/9x25 Mauser.png"
+    alt="9×25 mm Mauser Export"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The powerful 9 mm cartridge developed for the Mauser C96 as an export variant of the legendary 7.63×25 Mauser, which later found a new lease on life in submachine guns.
+  </em>
+</p>
+<p>
+  <strong>9×25 mm Mauser</strong>, also known as <strong>9 mm Mauser Export</strong>, is a German pistol cartridge developed in the early 20th century for the <strong>Mauser C96</strong> family.
+</p>
+
+<p>
+  The cartridge represents an increase in caliber over the existing <strong>7.63×25 mm Mauser</strong>.
+  The case length was retained, but the bottlenecked design was replaced with an
+  almost cylindrical case for a 9 mm bullet. The result was an unusually powerful
+  9 mm cartridge for its time, intended primarily for export markets in Africa, Asia,
+  and South America.
+</p>
+
+<p>
+  The 9×25 Mauser is particularly interesting because of its later history. After limited
+  use in pistols, it found a much more suitable application in <strong>submachine guns</strong>,
+  where its high velocity and power could be used more effectively.
+</p>
+
+<h2>History of Development</h2>
+
+<p>
+  By the beginning of the 20th century, the <strong>7.63×25 mm Mauser</strong> was already an established cartridge for the Mauser C96.
+  Its high muzzle velocity distinguished it from many other pistol
+  cartridges of the era.
+</p>
+
+<p>
+  Mauser, however, was looking for ways to expand the C96's market, particularly in countries where
+  pistols of a larger caliber were in demand.
+</p>
+
+<p>
+  Around <strong>1904–1905</strong>, the new <strong>9×25 mm Mauser Export</strong> was developed. The cartridge used the
+  7.63×25 Mauser case as its starting point, but the case was changed from a bottlenecked shape to a <strong>cylindrical
+  form</strong> and fitted with a 9 mm bullet. This increased the bullet diameter without
+  increasing the case length.
+</p>
+
+<p>
+  Some reference works give <strong>1907</strong> as the beginning of production, when
+  DWM began manufacturing the cartridge for export versions of the Mauser.
+</p>
+
+<p>
+  The name <strong>"Mauser Export"</strong> is directly related to its intended market.
+  The cartridge was aimed primarily at foreign customers rather than the German
+  armed forces.
+</p>
+
+<h2>9×25 Mauser and the Mauser C96</h2>
+
+<p>
+  The principal firearm for which the cartridge was intended was the <strong>Mauser C96</strong>.
+</p>
+
+<p>
+  The C96 version chambered in 9×25 mm received the designation <strong>M1912 Mauser Export</strong> and was
+  developed with export markets in mind. Pistols in this caliber are
+  exceptionally rare compared with standard 7.63×25 mm C96 models.
+</p>
+
+<p>
+  Because of the different case shape, the firearm had to be adapted. In the 9×25
+  mm Mauser version, the magazine follower was also modified with a characteristic
+  recess to help feed the cylindrical case correctly.
+</p>
+
+<p>
+  The barrel and chamber were also different. The 9×25 mm version incorporated design
+  changes to accommodate the larger caliber and the cartridge's characteristics.
+</p>
+
+<p>
+  Because relatively few pistols were produced, this C96 variant is particularly
+  interesting to collectors today. According to surviving production records, approximately
+  <strong>150 C96 pistols in 9×25 mm Mauser Export</strong> were manufactured.
+</p>
+
+<h2>Design and Relationship to 7.63×25 Mauser</h2>
+
+<p>
+  The 9×25 mm Mauser is a direct design relative of the <strong>7.63×25 mm Mauser</strong>.
+</p>
+
+<p>
+  The case length of both cartridges is practically identical, at approximately <strong>25 mm</strong>.
+  The main changes concern the diameter and shape of the case.
+</p>
+
+<p>
+  The 7.63×25 Mauser has a <strong>bottlenecked</strong> case, whereas the 9×25 Mauser has a <strong>cylindrical</strong> case.
+</p>
+
+<p>
+  This is an interesting example of an existing cartridge being developed by changing the bullet diameter
+  without altering the basic case length.
+</p>
+
+<p>
+  The result was:
+</p>
+
+<p>
+  <strong>7.63×25 Mauser → 9×25 Mauser Export</strong>
+</p>
+
+<p>
+  However, these are different cartridges designed for different chambers.
+</p>
+<h2>A Powerful Cartridge for Its Time</h2>
+
+<p>
+  The 9×25 Mauser was an unusually powerful pistol cartridge for the early 20th century.
+</p>
+
+<p>
+  With a standard bullet weighing approximately <strong>8 g</strong>, it could achieve velocities of around <strong>400 m/s</strong>,
+  corresponding to a muzzle energy of approximately <strong>670 J</strong> with a specific
+  standardized load.
+</p>
+
+<p>
+  This placed it among the most powerful pistol cartridges of its era.
+</p>
+
+<p>
+  An interesting feature is that despite the increased bullet diameter compared with the 7.63×25 Mauser,
+  the ballistic performance of some loads remained similar. This allowed
+  Mauser to retain some of the characteristics of its high-velocity cartridge
+  while switching to a larger 9 mm bullet.
+</p>
+<h2>Why Didn't the 9×25 Mauser Become a Mainstream Pistol Cartridge?</h2>
+
+<p>
+  The main problem was not a lack of power, but quite the opposite.
+</p>
+
+<p>
+  The 9×25 Mauser was <strong>very powerful for pistols of the early 20th century</strong>. The Mauser C96 was relatively large
+  and heavy, but even this pistol faced considerable design demands when using
+  such a powerful cartridge.
+</p>
+
+<p>
+  As a result, the 9×25 Mauser failed to displace the more widely used <strong>7.63×25 Mauser</strong>,
+  which remained the principal cartridge for the C96.
+</p>
+
+<p>
+  More importantly, other 9 mm designs gradually gained ground on the international market,
+  including the <strong>9×19 mm Parabellum</strong> and <strong>9×23 mm Largo</strong>.
+</p>
+
+<p>
+  This limited the adoption of the 9×25 Mauser as a standard pistol
+  cartridge.
+</p>
+
+<h2>From Pistol to Submachine Gun</h2>
+
+<p>
+  The cartridge's history did not end with its limited use in the C96.
+</p>
+
+<p>
+  In the 1930s, the 9×25 Mauser acquired a new role: use in <strong>submachine guns</strong>.
+</p>
+
+<p>
+  Its characteristics were much better suited to this role. The longer barrel of an automatic
+  firearm allowed more complete use of the propellant charge, while the greater mass of
+  the firearm itself made the powerful cartridge easier to control.
+</p>
+
+<p>
+  The 9×25 Mauser was used in several firearms from Central Europe, including the <strong>Steyr MP30/MP34</strong>,
+  as well as certain Swiss and Hungarian designs. The cartridge also found use
+  in firearms from the <strong>SIG/Kiraly</strong> family.
+</p>
+
+<p>
+  Thus, a cartridge that proved too specialized for widespread use in pistols found
+  a second life in automatic firearms.
+</p>
+
+<h2>9×25 Mauser in Austria, Hungary, and Switzerland</h2>
+
+<p>
+  During the 1930s and 1940s, production of the 9×25 Mauser resumed, and the cartridge became
+  increasingly common in military and police submachine guns.
+</p>
+
+<p>
+  It was manufactured by German companies such as <strong>DWM, Geco, and RWS</strong>, as well as by manufacturers in
+  Austria and Hungary. The cartridge was also produced by companies such as <strong>Kynoch, Fiocchi</strong>,
+  and Société Française des Munitions.
+</p>
+
+<p>
+  This illustrates the interesting transformation in its intended role:
+</p>
+
+<p>
+  <strong>1900s — a powerful export pistol cartridge</strong>
+</p>
+
+<p>
+  <strong>1930s–1940s — a submachine gun cartridge</strong>
+</p>
+<h2>Comparison with 9×19 Parabellum</h2>
+
+<p>
+  The 9×25 Mauser is often discussed alongside the <strong>9×19 mm Parabellum</strong>, but the two cartridges
+  have different designs.
+</p>
+
+<p>
+  The 9×19 has a case approximately <strong>19 mm</strong> long and was developed specifically for the Parabellum system.
+</p>
+
+<p>
+  The 9×25 Mauser uses a considerably longer case, approximately <strong>25 mm</strong>, inherited from the 7.63×25
+  Mauser.
+</p>
+
+<p>
+  With certain loads, the 9×25 Mauser can achieve very high velocity and energy, but its
+  high power and larger cartridge dimensions limit its practical
+  applications.
+</p>
+
+<p>
+  Ultimately, the <strong>9×19 Parabellum</strong> became a much more versatile and widely
+  adopted military and police cartridge.
+</p>
+
+<h2>9×25 Mauser and 9×23 Largo</h2>
+
+<p>
+  The 9×25 Mauser appeared at a time when various countries were already using powerful 9 mm cartridges.
+</p>
+
+<p>
+  Of particular importance to Mauser's export strategy was the <strong>9×23 mm Largo</strong>, widely used in
+  Spain and Latin America.
+</p>
+
+<p>
+  However, the two cartridges differ in dimensions and design and <strong>are not interchangeable</strong>.
+</p>
+
+<p>
+  The 9×25 Mauser remains a distinct German design, initially associated with the Mauser C96 and
+  later with certain submachine guns.
+</p>
+
+<h2>An Interesting Design Detail</h2>
+
+<p>
+  The 9×25 mm Mauser case is approximately the same length as the 7.63×25 Mauser case, but
+  it no longer has the characteristic shoulder of a bottlenecked case.
+</p>
+
+<p>
+  This may appear to be a relatively minor change, but it required adaptations to the firearm.
+</p>
+
+<p>
+  The C96 received a specially modified magazine follower to facilitate
+  feeding the new cartridge. This is a good example of how changing an ammunition design
+  can lead to specific structural modifications to the firearm itself.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  Today, the <strong>9×25 mm Mauser Export</strong> is an exceptionally rare cartridge.
+</p>
+
+<p>
+  Its practical significance has long since disappeared, but it remains important to the history of Mauser and
+  early submachine guns.
+</p>
+
+<p>
+  It is of greatest interest to collectors of the <strong>Mauser C96</strong>, particularly those seeking rare
+  9×25 mm examples, as well as European submachine guns that used
+  this caliber.
+</p>
+
+<p>
+  Its history is also interesting because of the unusual path it followed: it began as an attempt to
+  create a more powerful cartridge for the C96, but ultimately found
+  a more suitable application in automatic firearms.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  The 9×25 Mauser is one of those cartridges for which <strong>the pistol could not fully exploit
+  the ammunition's potential, while the submachine gun offered a much more suitable application</strong>.
+</p>
+
+<p>
+  This is precisely why the cartridge has two quite different chapters in its history.
+</p>
+
+<p>
+  The first is associated with the rare <strong>Mauser C96 Export</strong>.
+</p>
+
+<p>
+  The second began decades later with European submachine guns, for which
+  high velocity and power were genuine advantages.
+</p>
+
+<p>
+  Thus, the <strong>9×25 Mauser Export</strong> remains an interesting example of a cartridge that failed to become
+  a mainstream pistol round but found a second life in another
+  category of firearms.
+</p>
+<h2>Technical Data</h2>
+
+<TechnicalData
+  language="en"
+  title="9×25 mm Mauser"
+  data={[
+    ["Designation", "9×25 mm Mauser"],
+    ["Other designation", "9 mm Mauser Export"],
+    ["Type", "Pistol / submachine gun cartridge"],
+    ["Country of origin", "Germany"],
+    ["Development period", "Around 1904–1905"],
+    ["Introduction into production", "Around 1907"],
+    ["Parent cartridge", "7.63×25 mm Mauser"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Case length", "Approximately 24.9 mm"],
+    ["Maximum overall cartridge length", "Approximately 32.8 mm"],
+    ["Bullet diameter", "Approximately 9.02 mm"],
+    ["Ignition type", "Centerfire"],
+    ["Typical bullet weight", "Approximately 8.0 g"],
+    ["Muzzle velocity", "Approximately 400–405 m/s*"],
+    ["Muzzle energy", "Approximately 650–675 J*"],
+    ["Maximum pressure", "Approximately 260 MPa*"],
+    ["Principal firearms", "Mauser C96 M1912, Steyr MP30/MP34, and other submachine guns"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight, and barrel
+  length. Figures of approximately 404 m/s and 671 J are reported for a load with an 8 g
+  bullet fired from a 5.5-inch test barrel.
+</p>
+<p>
+  <strong>The 9×25 mm Mauser Export must not be confused with other cartridges designated 9×25 mm.</strong>
+  Other designs with similar metric designations exist, including
+  <strong>9×25 Super Auto G</strong> and <strong>9×25 Dillon</strong>, but these are
+  structurally different cartridges intended for different purposes.
+</p>
+</Section>
+<Section
+  id="9x25-super-auto-g"
+  title="9×25 mm Super Auto G"
+>
+  <img
+    src="/images/calibers/cartridges/9x25 Super Auto G.png"
+    alt="9×25 mm Super Auto G"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+
+  <p>
+    <em>
+      An Austrian high-velocity 9 mm pistol cartridge developed by necking down
+      the 10 mm Auto case.
+    </em>
+  </p>
+
+  <p>
+    <strong>9×25 mm Super Auto G</strong> is an Austrian pistol cartridge
+    developed in the early 1990s by Austrian firearms technician and
+    ballistician <strong>Horst Grillmayer</strong>. The cartridge was officially
+    recognized by <strong>C.I.P.</strong> in <strong>1991</strong> and is also
+    known as <strong>9×25 Super Auto Grillmayer</strong> or, in abbreviated
+    form, 9×25 SAG.
+  </p>
+
+  <p>
+    Its design is unusual for a 9 mm cartridge. The <strong>10 mm Auto</strong>
+    case was used as the basis, with its neck narrowed to accept a bullet
+    approximately <strong>9.03 mm</strong> in diameter. The resulting case is
+    rimless and bottlenecked, retaining the large case-head diameter of the
+    10 mm Auto.
+  </p>
+
+  <p>
+    The concept behind the design is straightforward: the large internal
+    capacity of the 10 mm Auto case allows a relatively light 9 mm bullet to
+    be used at high pressure. This makes a very high muzzle velocity possible
+    for a pistol cartridge.
+  </p>
+
+  <h2>Development History</h2>
+
+  <p>
+    In the late 1980s and early 1990s, <strong>10 mm Auto</strong> attracted
+    considerable attention as a powerful pistol cartridge. Its large case and
+    ability to operate at relatively high pressure made it a suitable basis
+    for developing various derivative designs.
+  </p>
+
+  <p>
+    Horst Grillmayer applied this concept to the development of the 9×25 Super
+    Auto G. Rather than designing an entirely new case, the existing
+    <strong>10 mm Auto</strong> case was narrowed at the shoulder and neck to
+    accommodate a 9 mm bullet. The first prototypes were made from
+    Hertenberger-produced 10 mm Auto cases.
+  </p>
+
+  <p>
+    The cartridge was introduced and described in <strong>1991</strong>, and
+    on <strong>May 17, 1991</strong>, it was registered with
+    <strong>C.I.P.</strong> as the 9 × 25 Super Auto G, originating in Austria.
+    The specification was subsequently revised in 2013.
+  </p>
+
+  <h2>Construction</h2>
+
+  <p>
+    At first glance, the 9×25 Super Auto G resembles an elongated 9 mm
+    cartridge, but its construction is quite different. The case is
+    <strong>rimless and bottlenecked</strong>, with a large case head and a
+    clearly defined shoulder.
+  </p>
+
+  <p>
+    According to C.I.P., the case length is <strong>25.35 mm</strong>, while
+    the maximum overall cartridge length is <strong>32.70 mm</strong>. The
+    bullet diameter is approximately <strong>9.03 mm</strong>.
+  </p>
+
+  <p>
+    This design retains a substantial portion of the case capacity of the
+    10 mm Auto while using a smaller and lighter bullet. This combination
+    lies at the heart of the Super Auto G concept.
+  </p>
+
+  <h2>High Velocity</h2>
+
+  <p>
+    The primary goal of the 9×25 Super Auto G is to achieve a very high muzzle
+    velocity through the combination of a large case, a relatively light
+    9 mm bullet, and high operating pressure.
+  </p>
+
+  <p>
+    The design shares some conceptual similarities with later high-velocity
+    cartridges such as the <strong>.357 SIG</strong>, but the 9×25 Super Auto G
+    uses a significantly larger case and was developed differently.
+  </p>
+
+  <p>
+    C.I.P. specifies a maximum pressure of <strong>255 MPa</strong>
+    (2550 bar). This is slightly below 36,985 psi.
+  </p>
+
+  <h2>The Connection with the Glock 20</h2>
+
+  <p>
+    The 9×25 Super Auto G was developed with use in modern self-loading
+    pistols in mind. According to the International Ammunition Association,
+    the cartridge was adapted for the <strong>Glock 20</strong>, which was
+    originally designed for 10 mm Auto.
+  </p>
+
+  <p>
+    This is a logical choice because the Glock 20 uses a platform designed
+    around the large 10 mm Auto case. When switching to the 9×25 Super Auto G,
+    the basic case geometry remains similar to that of the 10 mm Auto, while
+    the bullet has a smaller diameter.
+  </p>
+
+  <h2>9×25 Super Auto G and 9×25 Dillon</h2>
+
+  <p>
+    The 9×25 Super Auto G is not the only cartridge developed by necking down
+    the 10 mm Auto case to 9 mm.
+  </p>
+
+  <p>
+    A closely related cartridge is the American <strong>9×25 Dillon</strong>,
+    which also uses the 10 mm Auto as its basis. The two cartridges are
+    ballistically similar, but they are not identical and differ in their
+    dimensions.
+  </p>
+
+  <p>
+    The 9×25 Dillon was developed earlier, in <strong>1988</strong>, whereas
+    the 9×25 Super Auto G is associated with Horst Grillmayer's work in
+    <strong>1991</strong>.
+  </p>
+
+  <p>
+    This is an interesting example of the independent development of a very
+    similar idea: using the high-capacity 10 mm Auto case to create a
+    high-velocity 9 mm cartridge.
+  </p>
+
+  <h2>Why Did the Cartridge Remain Rare?</h2>
+
+  <p>
+    Despite its interesting design, the 9×25 Super Auto G never became a
+    widely available factory-produced cartridge.
+  </p>
+
+  <p>
+    According to the International Ammunition Association, the cartridge did
+    not achieve widespread commercial production. Prototypes and small
+    production runs are known, including examples produced by
+    <strong>Otto Planiavsky Munitions (OPM)</strong> in South Africa.
+  </p>
+
+  <p>
+    Some known prototypes use modified 10 mm Auto cases. This is characteristic
+    of many rare, specialized cartridges that never progress to mass
+    production.
+  </p>
+
+  <p>
+    Meanwhile, the 9 mm pistol cartridge market developed in a different
+    direction. More compact and widely standardized cartridges such as
+    <strong>9×19 mm Parabellum</strong> retained their enormous importance,
+    while specialized high-velocity designs remained niche products.
+  </p>
+
+  <h2>Other Developments by Grillmayer</h2>
+
+  <p>
+    The 9×25 Super Auto G was just one of the many designs developed by
+    <strong>Horst Grillmayer</strong>, an Austrian firearms technician and
+    ballistician. He worked on a range of unconventional cartridges and
+    experimental designs. These included other specialized calibers such as
+    <strong>9×22 Major</strong> and various hunting cartridges.
+  </p>
+
+  <p>
+    Interestingly, the development of the 9×25 Super Auto G was part of the
+    search for high-velocity 9 mm solutions during a period when 10 mm Auto
+    was still attracting considerable interest.
+  </p>
+
+  <h2>The Cartridge Today</h2>
+
+  <p>
+    Today, the <strong>9×25 mm Super Auto G</strong> remains an extremely rare
+    cartridge. It is primarily of historical and collector interest rather
+    than having widespread practical applications.
+  </p>
+
+  <p>
+    It is also interesting for GunsAtlas because it demonstrates how a single
+    basic case can serve as the foundation for different cartridges. In this
+    instance, <strong>10 mm Auto</strong> provides the basis for a 9 mm design
+    focused on achieving very high velocity.
+  </p>
+
+  <h2>Interesting Fact</h2>
+
+  <p>
+    <strong>The 9×25 Super Auto G and 9×25 Dillon appear to represent almost
+    the same concept, but they are two separate developments.</strong> Both
+    cartridges use a 10 mm Auto case necked down for a 9 mm bullet, but their
+    designs are not identical.
+  </p>
+
+  <p>
+    This makes the family of cartridges designated <strong>9×25 mm</strong>
+    particularly interesting: behind what appears to be a simple, identical
+    designation lie distinct designs developed at different times.
+  </p>
+
+  <h2>Technical Data</h2>
+
+  <TechnicalData
+    language="en"
+    title="9×25 mm Super Auto G"
+    data={[
+      ["Designation", "9×25 mm Super Auto G"],
+      ["Other designations", "9×25 SAG / 9×25 Super Auto Grillmayer"],
+      ["Type", "Pistol cartridge"],
+      ["Origin", "Austria"],
+      ["Development", "1991"],
+      ["Developer", "Horst Grillmayer"],
+      ["Parent case", "10 mm Auto"],
+      ["Case type", "Rimless, bottlenecked"],
+      ["Case length", "25.35 mm"],
+      ["Maximum cartridge length", "32.70 mm"],
+      ["Bullet diameter", "9.03 mm"],
+      ["Neck diameter", "9.63 mm"],
+      ["Case-head diameter", "10.80 mm"],
+      ["Rim diameter", "10.85 mm"],
+      ["Primer type", "Centerfire, Large Pistol"],
+      ["Case capacity", "Approximately 1.60 cm³"],
+      ["Maximum pressure (C.I.P.)", "255 MPa"],
+      ["Primary firearm platform", "Pistols based on the 10 mm Auto"],
+    ]}
+  />
+
+  <p>
+    <strong>Important:</strong> The <strong>9×25 mm Super Auto G</strong> is
+    a different cartridge from the <strong>9×25 mm Mauser Export</strong> and
+    the <strong>9×25 mm Dillon</strong>. Despite their similar designations,
+    the three cartridges have different histories and case geometries.
+  </p>
+</Section>
+<Section
+  id="9x1-29-38-special"
+  title="9.1×29 mm R (.38 Special)"
+>
+  <img
+    src="/images/calibers/cartridges/9.1x29 38 Special.png"
+    alt="9.1×29 mm R (.38 Special)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    <em>
+      The legendary Smith &amp; Wesson revolver cartridge, which became one of
+      the most widely used rounds for police, service, and civilian revolvers.
+    </em>
+  </p>
+  <p>
+    <strong>.38 Special</strong>, also known as <strong>.38 Smith &amp; Wesson Special</strong>,
+    <strong>.38 Spl.</strong>, and in metric notation as <strong>9.1×29 mm R</strong>,
+    is one of the most famous revolver cartridges in history.
+  </p>
+
+  <p>
+    It was developed by <strong>Smith &amp; Wesson</strong> in the late 19th
+    century as a more powerful evolution of the older <strong>.38 Long Colt</strong>.
+    The cartridge was introduced in <strong>1898</strong>, and in 1899 it was
+    offered alongside the new <strong>Smith &amp; Wesson Military &amp; Police</strong>
+    revolver, later known as the <strong>Model 10</strong>.
+  </p>
+
+  <p>
+    The combination of relatively moderate recoil, good accuracy, reliability,
+    and power that was substantial for its time made the .38 Special an
+    exceptionally successful cartridge. For decades, it was widely used by
+    police, military organizations, security services, sport shooters, and
+    civilians.
+  </p>
+
+  <h2>Development History</h2>
+
+  <p>
+    By the late 19th century, <strong>Smith &amp; Wesson</strong> had already
+    accumulated extensive experience in manufacturing revolvers and their
+    ammunition.
+  </p>
+
+  <p>
+    At the time, the <strong>.38 Long Colt</strong> was widely used, but
+    Smith &amp; Wesson sought a more powerful cartridge for a new generation
+    of revolvers with solid frames and swing-out cylinders.
+  </p>
+
+  <p>
+    The company developed a new cartridge with a longer case and a larger
+    powder charge. The new round was designated
+    <strong>.38 Smith &amp; Wesson Special</strong>.
+  </p>
+
+  <p>
+    Initially, it used <strong>black powder</strong> and a bullet weighing
+    approximately <strong>158 gr (10.24 g)</strong>. The early load produced
+    a velocity of around <strong>775 ft/s (236 m/s)</strong>, but smokeless
+    powder loads began to appear shortly afterward.
+  </p>
+
+  <p>
+    In <strong>1899</strong>, Smith &amp; Wesson introduced the new
+    <strong>Military &amp; Police</strong> revolver, designed for use with
+    .38 Special. The firearm became a major success and was later designated
+    the <strong>Model 10</strong>.
+  </p>
+
+  <h3>Smith &amp; Wesson - Model 10.</h3>
+  <img
+    src="/images/calibers/cartridges/S W Model 10.png"
+    alt="Smith &amp; Wesson Model 10"
+    style={{
+      width: "45%",
+      height: "auto",
+      display: "block",
+      margin: "30px auto",
+    }}
+  />
+  <p>
+    From the very beginning, the cartridge was therefore associated with one
+    of the most successful revolver series in history.
+  </p>
+
+  <h2>Evolution from .38 Long Colt</h2>
+
+  <p>
+    The .38 Special is directly related to the older
+    <strong>.38 Long Colt</strong>.
+  </p>
+
+  <p>
+    The main difference is the increased case length. The .38 Special uses
+    the same general bullet diameter, but its case is approximately
+    <strong>0.529 in (13.4 mm)</strong> longer.
+  </p>
+
+  <p>
+    This design relationship has an important practical consequence:
+    revolvers chambered for .38 Special can also use .38 Long Colt, whereas
+    the reverse is not possible because of the greater length of the
+    .38 Special cartridge.
+  </p>
+
+  <p>
+    The new cartridge gradually displaced the .38 Long Colt as a more powerful
+    and modern revolver round.
+  </p>
+
+  <h2>Construction and Characteristics</h2>
+
+  <p>
+    The .38 Special is a <strong>rimmed, straight-walled, centerfire cartridge</strong>.
+  </p>
+
+  <p>
+    The rim serves an important function in a revolver: it allows the cartridge
+    to be properly positioned in the cylinder and facilitates case extraction
+    after firing.
+  </p>
+
+  <p>
+    The case is cylindrical, and the cartridge uses bullets with a nominal
+    diameter of <strong>.357 in</strong>, or approximately <strong>9.07 mm</strong>.
+  </p>
+
+  <p>
+    This illustrates one of the peculiarities of the American cartridge
+    designation system. Although the cartridge is called <strong>.38</strong>,
+    the actual bullet diameter is approximately 9.1 mm.
+  </p>
+
+  <p>
+    For this reason, the metric designation <strong>9.1×29 mm R</strong> is
+    also encountered.
+  </p>
+
+  <p>
+    This designation does not mean that the .38 Special is the same cartridge
+    as the various 9 mm pistol rounds. The letter <strong>R</strong> stands
+    for <strong>Rimmed</strong>, a characteristic feature of revolver
+    cartridges.
+  </p>
+
+  <h2>Why Is It Called .38?</h2>
+
+  <p>
+    The <strong>.38</strong> designation originates from the historical
+    American system of naming cartridges.
+  </p>
+
+  <p>
+    With older revolver ammunition, the number was often associated with the
+    approximate bullet diameter or the dimensions of the cartridge being used.
+  </p>
+
+  <p>
+    As designs evolved, the designation did not always remain an exact match
+    for the actual bullet diameter.
+  </p>
+
+  <p>
+    For the .38 Special, the nominal designation of <strong>.38 in</strong>
+    corresponds to approximately <strong>9.65 mm</strong>, whereas the actual
+    bullet diameter is approximately <strong>.357 in (9.07 mm)</strong>.
+  </p>
+
+  <p>
+    Therefore, the <strong>.38 Special</strong> should not be interpreted as
+    a cartridge with a bullet measuring exactly 9.65 mm in diameter.
+  </p>
+
+  <h2>Spread and Adoption</h2>
+
+  <p>
+    The .38 Special gradually became one of the most widely used revolver
+    cartridges in the world.
+  </p>
+
+  <p>
+    During the first half of the 20th century, it was widely used by American
+    police forces and various law enforcement agencies.
+  </p>
+
+  <p>
+    <strong>Smith &amp; Wesson Military &amp; Police</strong> revolvers became
+    standard police firearms in a large number of departments. Colt also began
+    offering revolvers chambered for .38 Special, including the
+    <strong>Colt Police Positive</strong>.
+  </p>
+
+  <p>
+    Over time, nearly every major revolver manufacturer introduced models
+    chambered for this cartridge.
+  </p>
+
+  <p>
+    The versatility of the .38 Special is one of the main reasons it remained
+    popular for many decades after its introduction.
+  </p>
+
+  <h2>.38 Special and American Law Enforcement</h2>
+
+  <p>
+    The .38 Special played a particularly important role in the history of
+    American law enforcement.
+  </p>
+
+  <p>
+    For decades, revolvers chambered for this cartridge were among the most
+    widely used service firearms in the United States.
+  </p>
+
+  <p>
+    There were several reasons for this:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "disc",
+      paddingLeft: "28px",
+      marginTop: "16px",
+      marginBottom: "28px",
+      fontSize: "20px",
+    }}
+  >
+    <li>simple and reliable revolver design;</li>
+    <li>relatively moderate recoil;</li>
+    <li>good accuracy;</li>
+    <li>adequate power for service use;</li>
+    <li>a wide selection of bullets and ammunition types.</li>
+  </ul>
+
+  <p>
+    The .38 Special gradually became something of a standard for the American
+    police revolver.
+  </p>
+
+  <p>
+    With the widespread adoption of self-loading pistols during the final
+    decades of the 20th century, its role as a service cartridge declined,
+    but .38 Special revolvers continued to see widespread use.
+  </p>
+
+  <h2>Military Use</h2>
+
+  <p>
+    The .38 Special was not designed as a primary military cartridge, but it
+    also found military applications.
+  </p>
+
+  <p>
+    During World War II, Smith &amp; Wesson manufactured large quantities of
+    <strong>Military &amp; Police</strong> revolvers, including the so-called
+    <strong>Victory Models</strong>, for British and Allied forces.
+    Smith &amp; Wesson states that more than <strong>800,000</strong> such
+    revolvers were supplied to the British military during the war.
+  </p>
+
+  <p>
+    This is an interesting example of a cartridge originally developed as
+    American police and civilian ammunition that later also became part of
+    military supply programs.
+  </p>
+
+  <h2>Bullet Types and Loads</h2>
+
+  <p>
+    Over more than a century of production, the .38 Special has acquired a
+    huge variety of loadings.
+  </p>
+
+  <p>
+    Bullets of different weights and designs are used, ranging from lightweight
+    target-shooting bullets to heavy lead and hollow-point bullets for service
+    and civilian applications.
+  </p>
+
+  <p>
+    Some of the most characteristic bullet types include:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "disc",
+      paddingLeft: "28px",
+      marginTop: "16px",
+      marginBottom: "28px",
+      fontSize: "20px",
+    }}
+  >
+    <li><strong>Lead Round Nose (LRN)</strong>;</li>
+    <li><strong>Wadcutter (WC)</strong>;</li>
+    <li><strong>Semi-Wadcutter (SWC)</strong>;</li>
+    <li><strong>Full Metal Jacket (FMJ)</strong>;</li>
+    <li><strong>Jacketed Hollow Point (JHP)</strong>;</li>
+    <li><strong>+P</strong> loads with increased pressure.</li>
+  </ul>
+
+  <p>
+    The <strong>wadcutter</strong> bullet is particularly important. It has a
+    flat nose and is widely used in target shooting and training.
+  </p>
+
+  <p>
+    The .38 Special is also known for its very good accuracy when suitable
+    target loads are used.
+  </p>
+
+  <h2>.38 Special +P</h2>
+
+  <p>
+    A variant known as <strong>.38 Special +P</strong> is also available,
+    using ammunition loaded to higher pressure.
+  </p>
+
+  <p>
+    +P ammunition is not simply a "more powerful version" that can be used
+    indiscriminately in every .38 Special revolver. Suitability depends on
+    the specific firearm and its manufacturer.
+  </p>
+
+  <p>
+    This is particularly important with older revolvers, as historical designs
+    are not always intended to withstand the stresses associated with modern
+    +P ammunition.
+  </p>
+
+  <h2>Ballistic Characteristics</h2>
+
+  <p>
+    The ballistic performance of the .38 Special varies considerably depending
+    on bullet weight and design, the type of load, and barrel length.
+  </p>
+
+  <p>
+    The classic load with a <strong>158-gr (10.24 g)</strong> bullet is known
+    for its relatively moderate muzzle velocity. Modern standard ammunition
+    can achieve approximately <strong>230–300 m/s</strong>, depending on the
+    specific load and barrel.
+  </p>
+
+  <p>
+    For example, SAAMI data show different velocities for standard .38 Special
+    loads depending on bullet weight, with figures of approximately
+    <strong>750–900 ft/s</strong> listed for 158-gr bullets, depending on the
+    test configuration.
+  </p>
+
+  <p>
+    With a standard 158-gr bullet and a velocity of around
+    <strong>270–275 m/s</strong>, kinetic energy is approximately
+    <strong>380–390 J</strong>.
+  </p>
+
+  <p>
+    For this reason, the figure of approximately <strong>420 J</strong>
+    mentioned in the earlier text is possible for a particular load, but
+    should not be presented as a universal characteristic of the .38 Special.
+  </p>
+
+  <h2>.38 Special and .357 Magnum</h2>
+
+  <p>
+    One of the most interesting chapters in the cartridge's history is its
+    relationship with the <strong>.357 Magnum</strong>.
+  </p>
+
+  <p>
+    The .357 Magnum was developed later as a significantly more powerful
+    revolver cartridge, but it uses a lengthened case based on the
+    .38 Special.
+  </p>
+
+  <p>
+    This creates an important practical rule:
+  </p>
+
+  <p>
+    <strong>
+      A revolver chambered for .357 Magnum can use .38 Special ammunition,
+      but a revolver chambered only for .38 Special must not use .357 Magnum.
+    </strong>
+  </p>
+
+  <p>
+    In this way, the .38 Special became the foundation for an entire family
+    of powerful revolver cartridges.
+  </p>
+
+  <h2>.38 Special and .38 S&amp;W</h2>
+
+  <p>
+    The name creates another common source of confusion.
+  </p>
+
+  <p>
+    <strong>.38 Special</strong> is not the same cartridge as
+    <strong>.38 S&amp;W</strong>.
+  </p>
+
+  <p>
+    Despite their similar designations, the two cartridges have different
+    dimensions and designs and <strong>are not interchangeable</strong>.
+  </p>
+
+  <p>
+    This is important when identifying older ammunition and firearms, since
+    the designation ".38" alone is not sufficient to identify a specific
+    cartridge.
+  </p>
+
+  <h2>The Cartridge Today</h2>
+
+  <p>
+    More than 120 years after its introduction, the .38 Special continues
+    to be manufactured and used.
+  </p>
+
+  <p>
+    It remains particularly popular in revolvers intended for target shooting,
+    training, collecting, and personal use.
+  </p>
+
+  <p>
+    Modern production includes a huge selection of standard and specialized
+    loads.
+  </p>
+
+  <p>
+    Although self-loading pistols chambered for 9×19 mm and other modern
+    calibers have largely replaced .38 Special revolvers in service roles,
+    the cartridge retains a remarkably strong presence.
+  </p>
+
+  <p>
+    It is one of the rare cartridges that continues to be mass-produced and
+    used in a vast number of firearms more than a century after its creation.
+  </p>
+
+  <h2>Interesting Fact</h2>
+
+  <p>
+    The history of the .38 Special is closely linked to one of the most
+    successful revolver series in the world.
+  </p>
+
+  <p>
+    The <strong>Smith &amp; Wesson Military &amp; Police</strong>, later known
+    as the <strong>Model 10</strong>, has been in continuous production since
+    1899. Smith &amp; Wesson states that more than
+    <strong>6 million units</strong> have been produced.
+  </p>
+
+  <p>
+    Thus, the .38 Special did more than become a popular cartridge — it became
+    part of the history of the revolver itself, one of the most recognizable
+    personal firearms of the 20th century.
+  </p>
+
+  <h2>Technical Data</h2>
+
+  <TechnicalData
+    language="en"
+    title=".38 Special"
+    data={[
+      ["Designation", ".38 Special"],
+      ["Full designation", ".38 Smith & Wesson Special"],
+      ["Metric designation", "9.1×29 mm R"],
+      ["Type", "Revolver cartridge"],
+      ["Origin", "United States"],
+      ["Developer", "Smith & Wesson"],
+      ["Year of development", "1898"],
+      ["Production began", "1898"],
+      ["Case type", "Rimmed, straight-walled"],
+      ["Case length", "Approximately 29.34 mm"],
+      ["Maximum cartridge length", "Approximately 39.37 mm"],
+      ["Bullet diameter", "Approximately 9.07 mm (.357 in)"],
+      ["Primer type", "Centerfire"],
+      ["Typical bullet weight", "Approximately 8.0–10.2 g"],
+      ["Muzzle velocity", "Approximately 230–300 m/s*"],
+      ["Muzzle energy", "Approximately 280–450 J*"],
+      ["Maximum pressure", "Approximately 150 MPa according to C.I.P."],
+      ["Primary applications", "Revolvers, target shooting, law enforcement, and civilian use"],
+    ]}
+  />
+
+  <p>
+    * Ballistic performance depends on the specific cartridge, bullet weight
+    and design, and barrel length. Standard 158-gr (10.24 g) loads typically
+    produce velocities of around 230–275 m/s, while other modern loads may
+    achieve higher figures. SAAMI data show substantial variations depending
+    on bullet weight and test barrel.
+  </p>
+
+  <p>
+    <strong>Important:</strong> <strong>.38 Special</strong>,
+    <strong>.38 S&amp;W</strong>, <strong>.38 Long Colt</strong>,
+    <strong>.38 ACP</strong>, <strong>.38 Super</strong>, and
+    <strong>9×23 mm Winchester</strong> are different cartridges despite
+    similarities in their designations. For the .38 Special, the metric
+    designation <strong>9.1×29 mm R</strong> further emphasizes that it is a
+    <strong>rimmed revolver cartridge</strong>, not a standard 9 mm pistol
+    cartridge.
+  </p>
+</Section>
+<Section
+  id="9x1-33-357-magnum"
+  title="9.1×33 mm R (.357 Magnum)"
+>
+  <img
+    src="/images/calibers/cartridges/9.1x33.357 Magnum.png"
+    alt="9.1×33 mm R (.357 Magnum)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+    <em>
+      The legendary Magnum revolver cartridge that ushered in the era of
+      high-performance revolver ammunition.
+    </em>
+  </p>
+  <p>
+    <strong>.357 Magnum</strong>, also known as <strong>.357 S&amp;W Magnum</strong>,
+    is one of the most famous revolver cartridges in history. Developed in the
+    United States in <strong>1934</strong> and introduced by
+    <strong>Smith &amp; Wesson in 1935</strong>, it was designed as a
+    significantly more powerful evolution of the <strong>.38 Special</strong>.
+  </p>
+
+  <p>
+    The cartridge was developed through the work of <strong>Elmer Keith</strong>,
+    <strong>Phil Sharpe</strong>, and <strong>Douglas B. Wesson</strong>, with
+    <strong>Winchester</strong> contributing to the development of the
+    ammunition itself. The main objective was to create a powerful revolver
+    cartridge capable of delivering significantly higher velocity and
+    penetration than the standard .38 Special.
+  </p>
+
+  <p>
+    From its introduction, the .357 Magnum became a symbol of the powerful
+    revolver. It found applications among police and law enforcement agencies,
+    hunters, sport shooters, and civilian users.
+  </p>
+
+  <h2>Development History</h2>
+
+  <p>
+    The history of the .357 Magnum began in the 1930s with the development of
+    high-powered loads for the <strong>.38 Special</strong>.
+  </p>
+
+  <p>
+    At the time, American law enforcement agencies were increasingly
+    encountering criminals who used automobiles as cover. Prohibition and
+    organized crime created additional interest in more powerful pistol and
+    revolver ammunition.
+  </p>
+
+  <p>
+    The standard .38 Special no longer fully met every requirement of certain
+    service users. The introduction of the <strong>.38 Super</strong> for the
+    Colt M1911 pistol also demonstrated the potential of high-velocity 9 mm
+    ammunition.
+  </p>
+
+  <p>
+    Smith &amp; Wesson had already developed the heavy-frame
+    <strong>.38/44 Heavy Duty</strong> and <strong>.38/44 Outdoorsman</strong>
+    revolvers, which used a reinforced frame based on the company's .44-caliber
+    revolvers. These firearms could handle loads considerably more powerful
+    than standard .38 Special ammunition.
+  </p>
+
+  <p>
+    It was with these firearms that <strong>Elmer Keith</strong> and
+    <strong>Phil Sharpe</strong> experimented with heavy bullets and
+    high-velocity loads.
+  </p>
+
+  <p>
+    Sharpe brought the project to the attention of <strong>Douglas B. Wesson</strong>,
+    who was a senior figure at Smith &amp; Wesson at the time.
+    Subsequently, <strong>Winchester Repeating Arms Company</strong> became
+    involved in developing the new cartridge.
+  </p>
+
+  <h2>The Creation of the .357 Magnum</h2>
+
+  <p>
+    By <strong>1934</strong>, the design of the new cartridge had taken shape.
+  </p>
+
+  <p>
+    The main change compared with the .38 Special was an increase in case
+    length of approximately <strong>3.4 mm</strong>. This prevented the new
+    cartridge from being chambered in a cylinder designed exclusively for
+    .38 Special.
+  </p>
+
+  <p>
+    This was an extremely important design decision.
+  </p>
+
+  <p>
+    The increased case length itself <strong>was not the primary reason for
+    the cartridge's greater power</strong>. Instead, it allowed substantially
+    higher operating pressures and larger powder charges while preventing the
+    more powerful ammunition from being used in standard .38 Special revolvers.
+  </p>
+
+  <p>
+    The new cartridge received the designation <strong>.357 Magnum</strong>.
+  </p>
+
+  <p>
+    In <strong>1935, Smith &amp; Wesson introduced the first revolver
+    chambered for it</strong>, known as the <strong>Registered Magnum</strong>,
+    later associated with the <strong>Model 27</strong> designation.
+  </p>
+
+  <h3>Smith &amp; Wesson - Registered Magnum. Model 27.</h3>
+  <img
+    src="/images/calibers/cartridges/Smith & Wesson Model 27.png"
+    alt="Smith &amp; Wesson Model 27"
+    style={{
+      width: "45%",
+      height: "auto",
+      display: "block",
+      margin: "30px auto",
+    }}
+  />
+  <p>
+    Initially, the revolver was produced as a special-order model and could
+    be configured with different barrel lengths, sights, and other features.
+    The first examples were individually manufactured and supplied with a
+    registration certificate.
+  </p>
+
+  <h2>Why .357, Not .38?</h2>
+
+  <p>
+    At first glance, the designation <strong>.357 Magnum</strong> seems
+    unusual because .357 is numerically smaller than .38.
+  </p>
+
+  <p>
+    The reason lies in the historical American cartridge designation system.
+  </p>
+
+  <p>
+    The .38 Special uses a bullet with a diameter of approximately
+    <strong>.357 in (9.07 mm)</strong>. The ".38" designation was inherited
+    from older cartridges and does not directly correspond to the actual
+    bullet diameter.
+  </p>
+
+  <p>
+    For the new cartridge, manufacturers used the designation
+    <strong>.357</strong>, which more accurately reflects the actual bullet
+    diameter.
+  </p>
+
+  <p>
+    Consequently, the two cartridges have virtually the same bullet diameter,
+    but the .357 Magnum uses a longer, stronger case and operates at
+    significantly higher pressure.
+  </p>
+
+  <h2>The Relationship with .38 Special</h2>
+
+  <p>
+    The .357 Magnum is directly related to the .38 Special.
+  </p>
+
+  <p>
+    Both cartridges use bullets of approximately the same diameter, but they
+    differ in case length and operating characteristics.
+  </p>
+
+  <p>
+    This creates an important rule:
+  </p>
+
+  <p>
+    <strong>A .357 Magnum revolver can use .38 Special ammunition, but a
+    revolver designed exclusively for .38 Special must not use .357 Magnum.</strong>
+  </p>
+
+  <p>
+    The shorter .38 Special case allows the cartridge to fit inside the longer
+    chamber of a .357 Magnum revolver.
+  </p>
+
+  <p>
+    The reverse is not possible because of the greater case length of the
+    .357 Magnum.
+  </p>
+
+  <p>
+    This feature makes the .357 Magnum and .38 Special one of the most
+    interesting pairs of revolver cartridges.
+  </p>
+
+  <h2>Construction and Characteristics</h2>
+
+  <p>
+    The .357 Magnum is a <strong>rimmed, straight-walled, centerfire cartridge</strong>.
+  </p>
+
+  <p>
+    The case is approximately <strong>32.6 mm</strong> long, while the maximum
+    overall cartridge length is about <strong>40 mm</strong>.
+  </p>
+
+  <p>
+    The bullet has a nominal diameter of approximately
+    <strong>.357 in (9.07 mm)</strong>.
+  </p>
+
+  <p>
+    Although its dimensions are relatively similar to those of the .38 Special,
+    the .357 Magnum was designed to operate at significantly higher pressure.
+  </p>
+
+  <p>
+    This allows a wide range of bullets with different weights and designs
+    to be used, from lightweight, high-velocity bullets to heavier bullets
+    intended for hunting and other specialized applications.
+  </p>
+
+  <h2>The First Magnum</h2>
+
+  <p>
+    The .357 Magnum is often described as the <strong>first widely adopted
+    Magnum revolver cartridge</strong>.
+  </p>
+
+  <p>
+    The term "Magnum" gradually became a designation for ammunition offering
+    greater power than standard cartridges of the same caliber.
+  </p>
+
+  <p>
+    With the .357 Magnum, this concept proved exceptionally successful.
+  </p>
+
+  <p>
+    The cartridge delivers substantially higher velocity and energy than the
+    .38 Special while remaining compact enough for use in a revolver.
+  </p>
+
+  <h2>Police Use</h2>
+
+  <p>
+    The high penetration of the .357 Magnum quickly attracted the attention
+    of American law enforcement agencies.
+  </p>
+
+  <p>
+    The cartridge can penetrate automobile body panels and some early forms
+    of protective equipment, a particularly important capability during an
+    era when vehicles were frequently used as cover.
+  </p>
+
+  <p>
+    This helped make it one of the best-known police cartridges in the
+    United States.
+  </p>
+
+  <p>
+    <strong>Smith &amp; Wesson</strong>, <strong>Colt</strong>, and
+    <strong>Ruger</strong> revolvers chambered for .357 Magnum gradually
+    became symbols of the American police revolver.
+  </p>
+
+  <p>
+    Over the following decades, however, self-loading pistols gradually
+    displaced revolvers as the primary service firearm.
+  </p>
+
+  <h2>Hunting and Civilian Use</h2>
+
+  <p>
+    The .357 Magnum did not remain solely a police cartridge.
+  </p>
+
+  <p>
+    Its high power also made it suitable for hunting small and medium-sized
+    game, as well as for sport shooting and civilian use.
+  </p>
+
+  <p>
+    During the cartridge's development, <strong>Douglas B. Wesson</strong>
+    demonstrated its capabilities on hunting expeditions.
+  </p>
+
+  <p>
+    The cartridge is used in a wide variety of revolvers, ranging from
+    substantial full-size models to more compact firearms designed for carry.
+  </p>
+
+  <h2>Ballistic Characteristics</h2>
+
+  <p>
+    One of the most distinctive characteristics of the .357 Magnum is its
+    high muzzle velocity.
+  </p>
+
+  <p>
+    Performance varies considerably depending on bullet weight, the specific
+    load, and barrel length.
+  </p>
+
+  <p>
+    With a bullet weighing approximately <strong>158 gr (10.24 g)</strong>,
+    velocities of around <strong>350–450 m/s</strong> are encountered with
+    various factory loads and barrel lengths.
+  </p>
+
+  <p>
+    Lighter bullets can achieve even higher velocities.
+  </p>
+
+  <p>
+    With a 10.2 g bullet traveling at 411 m/s, kinetic energy is approximately
+    <strong>860 J</strong>. This is a realistic figure for a powerful load,
+    but it should not be presented as a universal characteristic of all
+    .357 Magnum ammunition.
+  </p>
+
+  <p>
+    For this reason, using a range of values rather than a single figure is
+    more appropriate for the technical data on GunsAtlas.
+  </p>
+
+  <h2>.357 Magnum and .38 Special</h2>
+
+  <p>
+    The difference between these two cartridges is much greater than their
+    external appearance might suggest.
+  </p>
+
+  <p>
+    <strong>.38 Special</strong> is the older and less powerful cartridge.
+  </p>
+
+  <p>
+    <strong>.357 Magnum</strong> uses a longer case, higher pressure, and
+    significantly more powerful loads.
+  </p>
+
+  <p>
+    Nevertheless, the two cartridges retain almost the same bullet diameter.
+  </p>
+
+  <p>
+    This is what makes the .357 Magnum so practical: a .357 Magnum revolver
+    can fire both the powerful Magnum cartridge and the milder .38 Special.
+  </p>
+
+  <p>
+    This combination allows the same revolver to be used for different
+    purposes.
+  </p>
+
+  <h2>.357 Magnum and the Desert Eagle</h2>
+
+  <p>
+    The .357 Magnum also has an interesting connection with self-loading
+    pistols. The first production version of the Desert Eagle was chambered
+    for .357 Magnum. Introduced in 1983, the pistol uses gas-operated
+    functioning and a rotating bolt, allowing this powerful revolver cartridge
+    to be used in a self-loading firearm. The Desert Eagle was later offered
+    in .44 Magnum and subsequently in .50 Action Express.
+  </p>
+
+  <h3>Desert Eagle</h3>
+
+  <img
+    src="/images/calibers/cartridges/Desert eagle.png"
+    alt="Desert Eagle"
+    style={{
+      width: "45%",
+      height: "auto",
+      display: "block",
+      margin: "30px auto",
+    }}
+  />
+
+  <h2>The Development of the Magnum Family</h2>
+
+  <p>
+    The success of the .357 Magnum influenced the development of other
+    powerful revolver cartridges.
+  </p>
+
+  <p>
+    Cartridges that followed include:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "disc",
+      paddingLeft: "28px",
+      marginTop: "16px",
+      marginBottom: "28px",
+      fontSize: "20px",
+    }}
+  >
+    <li><strong>.44 Magnum</strong></li>
+    <li><strong>.41 Magnum</strong></li>
+    <li><strong>.454 Casull</strong></li>
+    <li><strong>.460 S&amp;W Magnum</strong></li>
+    <li><strong>.500 S&amp;W Magnum</strong></li>
+  </ul>
+
+  <p>
+    The term <strong>Magnum</strong> thus gradually became a symbol of high
+    power in revolver ammunition.
+  </p>
+
+  <p>
+    The .357 Magnum, however, remains one of the most versatile members of
+    this category.
+  </p>
+
+  <h2>The Cartridge Today</h2>
+
+  <p>
+    More than 90 years after its development, the .357 Magnum continues to
+    be manufactured and used.
+  </p>
+
+  <p>
+    It remains popular among shooters and hunters, and major firearms
+    manufacturers continue to produce revolvers chambered for it.
+  </p>
+
+  <p>
+    Although modern police forces have largely transitioned to self-loading
+    pistols, the .357 Magnum maintains a strong presence in civilian shooting,
+    hunting, and collectible firearms.
+  </p>
+
+  <p>
+    Its combination of high power, relatively compact dimensions, and the
+    ability to use .38 Special ammunition makes it one of the most successful
+    designs in the history of revolver cartridges.
+  </p>
+
+  <h2>Interesting Fact</h2>
+
+  <p>
+    The first .357 Magnum was created as a <strong>custom-order revolver</strong>.
+  </p>
+
+  <p>
+    Smith &amp; Wesson initially did not expect enormous demand for a firearm
+    that cost <strong>$60</strong> in 1935 — approximately $15 more than the
+    company's most expensive standard revolvers at the time.
+  </p>
+
+  <p>
+    Those expectations proved wrong. Demand exceeded Smith &amp; Wesson's
+    production capacity, and the .357 Magnum gradually became one of the
+    best-known handgun cartridges in the world.
+  </p>
+
+  <h2>Technical Data</h2>
+
+  <TechnicalData
+    language="en"
+    title=".357 Magnum"
+    data={[
+      ["Designation", ".357 Magnum"],
+      ["Full designation", ".357 Smith & Wesson Magnum"],
+      ["Metric designation", "9.1×33 mm R"],
+      ["Type", "Revolver cartridge"],
+      ["Origin", "United States"],
+      ["Development", "1934"],
+      ["Introduction", "1935"],
+      ["Developers", "Elmer Keith, Phil Sharpe, Douglas B. Wesson, Winchester"],
+      ["Case type", "Rimmed, straight-walled"],
+      ["Case length", "Approximately 32.6 mm"],
+      ["Maximum cartridge length", "Approximately 40.4 mm"],
+      ["Bullet diameter", "Approximately 9.07 mm (.357 in)"],
+      ["Primer type", "Centerfire"],
+      ["Typical bullet weight", "Approximately 7.1–10.2 g"],
+      ["Muzzle velocity", "Approximately 350–450 m/s*"],
+      ["Muzzle energy", "Approximately 600–900 J*"],
+      ["Primary applications", "Revolvers, hunting, sport shooting, law enforcement, and civilian use"],
+    ]}
+  />
+
+  <p>
+    * Ballistic performance depends on the specific cartridge, bullet weight
+    and design, and barrel length. Powerful factory loads with bullets
+    weighing approximately 10.2 g can achieve velocities exceeding 400 m/s
+    and energy levels of around 800–900 J. Historical development data show
+    substantially higher velocities than those of standard .38 Special
+    ammunition, even during the cartridge's initial testing.
+  </p>
+
+  <p>
+    <strong>Important:</strong> <strong>.357 Magnum</strong> and
+    <strong>.38 Special</strong> have similar bullet diameters but are
+    different cartridges. A revolver designed for .357 Magnum can use
+    .38 Special ammunition, whereas a firearm designed exclusively for
+    .38 Special must not use .357 Magnum.
+  </p>
+</Section>
+<Section
+  id="10x22-40-sw"
+  title="10×22 mm Smith & Wesson (.40 S&amp;W)"
+>
+  <img
+    src="/images/calibers/cartridges/10x22 .40 S W.png"
+    alt="10×22 mm Smith & Wesson (.40 S&W)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    An American cartridge designed as a compromise between 9×19 mm and .45 ACP, which became one of the most popular law enforcement cartridges in the United States.
+  </em>
+</p>
+<p>
+  <strong>.40 S&amp;W</strong>, also known as <strong>10×22 mm</strong>, is a rimless pistol cartridge developed by <strong>Smith &amp; Wesson</strong> and <strong>Winchester</strong> in the late 1980s. It was designed as a more compact alternative to <strong>10mm Auto</strong>, offering the ballistic performance of the reduced-power 10mm load used by the FBI while allowing the development of more compact pistols.
+</p>
+
+<p>
+  Its introduction was directly related to changing requirements for service pistols in the United States following the 1986 Miami shootout. The FBI began searching for a cartridge with improved effectiveness and penetration through various barriers while remaining sufficiently controllable for service use.
+</p>
+<h2>Development History</h2>
+
+<p>
+  In 1986, a shootout between FBI agents and two heavily armed criminals in Miami led to an extensive analysis of the firearms and ammunition used by American law enforcement agencies. As a result, the FBI developed new ballistic testing protocols and began searching for a pistol cartridge that would provide greater effectiveness than the ammunition used at the time.
+</p>
+
+<p>
+  One option under consideration was <strong>10mm Auto</strong>. However, full-power 10mm Auto ammunition produces substantial recoil and requires a relatively large pistol. During testing, the FBI determined that a reduced-power load using a bullet weighing approximately <strong>180 gr (11.7 g)</strong> could provide the required ballistic performance with significantly improved controllability.
+</p>
+
+<p>
+  This led to the development of the so-called <strong>FBI load</strong> — a reduced-power 10mm Auto load that became the basis for the concept behind the future .40 S&amp;W.
+</p>
+
+<p>
+  The problem was that 10mm Auto had a relatively long case and required large-frame pistols. This increased the size and weight of the firearm.
+</p>
+
+<p>
+  Engineers at <strong>Smith &amp; Wesson</strong> determined that the reduced-power load did not require the full internal volume of the 10mm Auto case. The case could therefore be shortened without sacrificing the performance of the reduced-power load used by the FBI.
+</p>
+
+<p>
+  Smith &amp; Wesson worked in cooperation with <strong>Winchester</strong>, resulting in the new <strong>.40 S&amp;W</strong> cartridge. It uses a bullet with the same nominal diameter as 10mm Auto, but its case is considerably shorter. This allows it to be used in pistols similar in size to those chambered for 9×19 mm.
+</p>
+
+<h2>The Introduction of .40 S&amp;W</h2>
+
+<p>
+  The new cartridge was officially introduced on <strong>January 17, 1990</strong>, alongside the <strong>Smith &amp; Wesson Model 4006</strong> pistol. Almost simultaneously, <strong>Glock</strong> introduced the <strong>Glock 22</strong> and <strong>Glock 23</strong>, designed for the new cartridge.
+</p>
+<div
+  style={{
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "flex-start",
+    gap: "40px",
+    margin: "30px 0",
+  }}
+>
+  <div style={{ width: "41%", textAlign: "center" }}>
+    <h3>Smith &amp; Wesson Model 4006</h3>
+
+    <img
+      src="/images/calibers/cartridges/Smith & Wesson Model 4006.png"
+      alt="Smith & Wesson Model 4006"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+
+  <div style={{ width: "41%", textAlign: "center" }}>
+    <h3>Glock 22</h3>
+
+    <img
+      src="/images/calibers/cartridges/Glock 22.png"
+      alt="Glock 22"
+      style={{
+        width: "100%",
+        height: "auto",
+        display: "block",
+      }}
+    />
+  </div>
+</div>
+<p>
+  This proved to be an extremely successful solution.
+</p>
+
+<p>
+  .40 S&amp;W offers a larger bullet diameter than 9×19 mm while allowing the use of pistols with dimensions and magazine capacities similar to those of 9 mm service pistols.
+</p>
+
+<p>
+  It therefore represents a compromise between <strong>9×19 mm</strong> and <strong>.45 ACP</strong> — a larger bullet than 9 mm, but in a more compact platform with greater capacity than typical single-stack .45 ACP pistols.
+</p>
+<h2>The Connection with 10mm Auto</h2>
+
+<p>
+  .40 S&amp;W is often described as a <strong>“shortened 10mm Auto,”</strong> which is largely accurate.
+</p>
+
+<p>
+  Both cartridges use bullets of the same nominal diameter and have very similar case-head designs. The main difference is case length.
+</p>
+
+<p>
+  The .40 S&amp;W case is approximately <strong>21.6 mm</strong> long, compared with approximately <strong>25.2 mm</strong> for 10mm Auto.
+</p>
+
+<p>
+  However, .40 S&amp;W is not simply a shorter version of full-power 10mm Auto. It was developed around the ballistic performance of the <strong>reduced-power FBI load for 10mm Auto</strong>, which offers better controllability than full-power 10mm loads.
+</p>
+
+<p>
+  This distinction is essential to understanding the cartridge's history.
+</p>
+
+<h2>Design and Features</h2>
+
+<p>
+  .40 S&amp;W is a <strong>rimless pistol cartridge with a cylindrical, slightly tapered case and centerfire ignition</strong>.
+</p>
+
+<p>
+  The case is approximately <strong>21.6 mm</strong> long, while the maximum overall cartridge length is approximately <strong>28.8 mm</strong>.
+</p>
+
+<p>
+  The bullet has a nominal diameter of <strong>10.16 mm (.400 inch)</strong>.
+</p>
+
+<p>
+  A wide variety of bullet designs and weights have been developed for this cartridge. Common bullet weights include approximately <strong>8.7 g (135 gr), 10.7 g (165 gr), and 11.7 g (180 gr)</strong>.
+</p>
+
+<p>
+  The cartridge uses a <strong>small pistol primer</strong>, unlike the original 10mm Auto, which uses a large pistol primer.
+</p>
+
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  .40 S&amp;W was designed to deliver ballistic performance between that of 9×19 mm and .45 ACP, although its specific characteristics depend significantly on bullet weight and construction.
+</p>
+
+<p>
+  With typical service loads using bullets weighing approximately <strong>10.7–11.7 g</strong>, muzzle velocity generally falls within the approximate range of <strong>290–350 m/s</strong>.
+</p>
+
+<p>
+  Higher velocities can also be achieved with lighter bullets.
+</p>
+
+<p>
+  Muzzle energy for standard factory ammunition is generally approximately <strong>450–600 J</strong>, depending on the specific load.
+</p>
+
+<p>
+  This places .40 S&amp;W between standard 9×19 mm loads and full-power 10mm Auto loads.
+</p>
+
+<h2>.40 S&amp;W and 9×19 mm</h2>
+
+<p>
+  One of the main reasons for the success of .40 S&amp;W was that it could be chambered in pistols similar in size to those designed for 9×19 mm.
+</p>
+
+<p>
+  In the early 1990s, this was particularly important for law enforcement. Agencies could use a larger bullet than 9 mm without switching to large pistols designed for 10mm Auto or .45 ACP.
+</p>
+
+<p>
+  Pistols chambered in .40 S&amp;W generally have slightly lower magazine capacities than comparable 9×19 mm models because the larger case diameter takes up more space in the magazine. In return, they offer a larger bullet diameter and greater bullet weight.
+</p>
+
+<p>
+  As a result, .40 S&amp;W became one of the main competitors to 9×19 mm among American law enforcement agencies during the 1990s.
+</p>
+<h2>The FBI and .40 S&amp;W</h2>
+
+<p>
+  The FBI's interest in .40 S&amp;W was one of the main reasons for its rapid adoption.
+</p>
+
+<p>
+  It is important to clarify that <strong>the FBI did not adopt .40 S&amp;W immediately upon its introduction in 1990</strong>. Initially, the bureau used 10mm Auto with a reduced-power load, while the development of .40 S&amp;W proceeded alongside these developments.
+</p>
+
+<p>
+  The FBI officially adopted <strong>.40 S&amp;W in 1997</strong>, using it in service pistols, including Glock models.
+</p>
+
+<p>
+  Following the FBI's adoption of .40 S&amp;W, numerous other American law enforcement agencies also switched to the caliber.
+</p>
+
+<p>
+  During the 1990s, .40 S&amp;W became one of the defining cartridges of American police firearms.
+</p>
+
+<h2>Adoption and Popularity</h2>
+
+<p>
+  The success of .40 S&amp;W was not limited to the FBI.
+</p>
+
+<p>
+  The cartridge was quickly adopted by numerous American police and federal agencies. Manufacturers began offering nearly all major service pistol models in .40 S&amp;W.
+</p>
+
+<p>
+  Well-known pistols chambered in this caliber include:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li><strong>Glock 22</strong></li>
+  <li><strong>Glock 23</strong></li>
+  <li><strong>Glock 27</strong></li>
+  <li><strong>Smith &amp; Wesson Model 4006</strong></li>
+  <li><strong>SIG Sauer P229</strong></li>
+  <li><strong>Heckler &amp; Koch USP</strong></li>
+  <li><strong>Beretta 96</strong></li>
+  <li><strong>CZ 75</strong></li>
+  <li><strong>Colt</strong></li>
+  <li><strong>Smith &amp; Wesson</strong></li>
+  <li>Many other designs.</li>
+</ul>
+
+<p>
+  This made .40 S&amp;W one of the most widely used pistol cartridges in the United States during the 1990s and early 21st century.
+</p>
+<h2>Why Has .40 S&amp;W Lost Popularity?</h2>
+
+<p>
+  Despite its enormous success, .40 S&amp;W gradually began to lose ground during the 21st century.
+</p>
+
+<p>
+  Advances in modern bullet design for <strong>9×19 mm</strong> significantly improved the effectiveness of 9 mm ammunition. At the same time, 9×19 mm offers milder recoil and greater magazine capacity in pistols of comparable size.
+</p>
+
+<p>
+  This led a number of American law enforcement agencies to gradually return to 9×19 mm.
+</p>
+
+<p>
+  The FBI, for example, switched back to <strong>9×19 mm</strong> during the 2010s after new testing demonstrated the advantages of modern 9 mm ammunition.
+</p>
+
+<p>
+  Thus, the cartridge that seemed during the 1990s to be the ideal compromise between 9 mm and .45 ACP gradually gave way to modern 9×19 mm.
+</p>
+
+<h2>.40 S&amp;W and 10mm Auto</h2>
+
+<p>
+  The two cartridges are historically related, but they are not interchangeable.
+</p>
+
+<p>
+  .40 S&amp;W is shorter and was designed for pistols with smaller frames. <strong>10mm Auto is longer and can use significantly more powerful loads.</strong>
+</p>
+
+<p>
+  Because of their different dimensions and intended applications, a firearm designed for one cartridge must not be used with the other.
+</p>
+
+<p>
+  This is a good example of cartridges that have almost the same bullet diameter but are designed for different firearm systems.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  .40 S&amp;W is one of the few modern pistol cartridges whose development was directly driven by the specific requirements of a major law enforcement organization.
+</p>
+
+<p>
+  Rather than being developed simply as a new commercial caliber, it emerged as a practical solution to a specific problem: how to achieve the ballistic performance of reduced-power 10mm Auto in a more compact pistol.
+</p>
+
+<p>
+  Just a few years after its introduction, the cartridge had already become a major competitor to 9×19 mm in the American law enforcement market.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  Today, .40 S&amp;W no longer holds the dominant position it enjoyed during the 1990s and early 21st century.
+</p>
+
+<p>
+  9×19 mm has gradually regained ground among American law enforcement agencies, but .40 S&amp;W continues to be manufactured and used.
+</p>
+
+<p>
+  The large number of pistols produced for this cartridge ensures its continued presence in the civilian and sporting markets.
+</p>
+
+<p>
+  It remains an important part of the history of modern service pistols and the development of American police ammunition.
+</p>
+<h2>Technical Data</h2>
+
+<TechnicalData
+  language="en"
+  title="10×22 mm Smith &amp; Wesson (.40 S&amp;W)"
+  data={[
+    ["Designation", "10×22 mm Smith & Wesson"],
+    ["American designation", ".40 S&W / .40 Smith & Wesson"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Developers", "Smith & Wesson and Winchester"],
+    ["Development period", "1989–1990"],
+    ["Year introduced", "1990"],
+    ["Case length", "Approximately 21.6 mm"],
+    ["Maximum overall cartridge length", "Approximately 28.8 mm"],
+    ["Bullet diameter", "Approximately 10.16 mm"],
+    ["Case type", "Rimless, cylindrical/slightly tapered"],
+    ["Ignition", "Centerfire"],
+    ["Typical bullet weights", "8.7–11.7 g"],
+    ["Muzzle velocity", "Approximately 290–350 m/s*"],
+    ["Muzzle energy", "Approximately 450–600 J*"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific manufacturer, bullet weight and construction, and barrel length. .40 S&amp;W was developed around the characteristics of the reduced-power 10mm Auto load used by the FBI, but modern ammunition is available with a wide range of bullet designs and ballistic performance.
+</p>
+</Section>
+<Section
+  id="10x25-auto"
+  title="10×25 mm Auto (10mm Auto)"
+>
+  <img
+    src="/images/calibers/cartridges/10 х 25 Auto.png"
+    alt="10×25 mm Auto (10mm Auto)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    The powerful American pistol cartridge developed as an alternative to .45 ACP, which became one of the most powerful widely available cartridges for semi-automatic pistols.
+  </em>
+</p>
+<p>
+  <strong>10mm Auto</strong>, also known as <strong>10×25 mm</strong>, is a rimless pistol cartridge developed in the United States in the late 1970s and early 1980s. Its creation is closely associated with American firearms expert <strong>Jeff Cooper</strong>, who sought a cartridge with greater velocity and a flatter trajectory than .45 ACP, while retaining a sufficiently large bullet and enough energy for serious service and defensive applications.
+</p>
+
+<p>
+  Unlike .45 ACP, which uses a relatively heavy bullet at moderate velocity, Cooper's concept was to use a smaller-diameter bullet at a significantly higher muzzle velocity. The result was a cartridge with ballistic performance that was unusually powerful for a semi-automatic pistol of its time.
+</p>
+
+<p>
+  Serial production began in <strong>1983</strong> with the <strong>Bren Ten</strong> pistol, while the ammunition was initially manufactured by the Swedish company <strong>Norma</strong>.
+</p>
+<h2>Development History</h2>
+
+<p>
+  The idea for 10mm Auto emerged in the United States during the 1970s. <strong>Jeff Cooper</strong> developed the concept of a cartridge with a diameter of approximately 10 mm that would combine a relatively heavy bullet with high muzzle velocity.
+</p>
+
+<p>
+  Cooper believed that a service pistol should deliver substantial energy and good accuracy at longer distances, without being limited by the low velocity of traditional heavy bullets.
+</p>
+
+<p>
+  The initial concept was known as <strong>.40 Super</strong> and went through various experimental forms. Several specialists contributed to its development, while the cartridge's final design took shape with the involvement of <strong>Dornaus &amp; Dixon Enterprises</strong>, the company developing the Bren Ten pistol.
+</p>
+
+<p>
+  A modified <strong>.30 Remington</strong> case was used as the basis for the cartridge case. The result was a rimless, straight case approximately 25 mm long, designed for a bullet with a diameter of around 10 mm.
+</p>
+
+<p>
+  During development, Cooper insisted that the new cartridge be designated <strong>10mm</strong>. The word <strong>Auto</strong> was added to emphasize its intended use in semi-automatic pistols.
+</p>
+<h2>The Bren Ten</h2>
+
+<img
+  src="/images/calibers/cartridges/Bren Ten.png"
+  alt="Bren Ten"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<p>
+  In 1979, <strong>Thomas Dornaus</strong> and <strong>Michael Dixon</strong> founded Dornaus &amp; Dixon with the aim of developing a new semi-automatic service pistol.
+</p>
+
+<p>
+  The design of the future <strong>Bren Ten</strong> was heavily influenced by the Czech <strong>CZ 75</strong>, but it was enlarged and substantially modified to withstand the powerful new cartridge.
+</p>
+
+<p>
+  Jeff Cooper served as a consultant and contributed to the concept and the requirements for the firearm.
+</p>
+
+<p>
+  The Bren Ten was introduced in <strong>1983</strong>, alongside the launch of 10mm Auto. The ammunition was developed and manufactured by the Swedish company <strong>Norma Precision AB</strong>, which played an active role in finalizing the cartridge's ballistic characteristics.
+</p>
+
+<p>
+  The initial concept called for very powerful loads. Testing, however, revealed that the high pressures placed considerable stress on the pistol. As a result, Norma's production ammunition featured more moderate performance.
+</p>
+
+<p>
+  The Bren Ten proved expensive, and its production was plagued by problems involving quality, deliveries, and magazines. Dornaus &amp; Dixon ceased operations and went bankrupt in <strong>1986</strong>. After approximately 1,500 pistols had been produced, it appeared that 10mm Auto might remain a little-known experimental caliber.
+</p>
+<h2>The Colt Delta Elite Saves 10mm Auto</h2>
+
+<p>
+  The situation changed in 1987, when Colt introduced the Delta Elite, a variant of the legendary M1911 chambered for 10mm Auto.
+</p>
+
+<p>
+  This was a crucial moment for the cartridge's future. Even after the demise of the Bren Ten, 10mm Auto now had another production firearm chambered for it.
+</p>
+
+<p>
+  The Delta Elite demonstrated that the powerful cartridge could be used in a design based on the proven M1911, although the substantial stresses required additional attention to the firearm's construction and recoil springs.
+</p>
+
+<p>
+  Other manufacturers entered the market after Colt.
+</p>
+<h2>10mm Auto and the FBI</h2>
+
+<p>
+  The biggest breakthrough for 10mm Auto came from the <strong>FBI</strong>.
+</p>
+
+<p>
+  Following the <strong>1986 Miami shootout</strong>, in which two heavily armed criminals fought against eight FBI agents, the bureau began a thorough review of its service firearms and ammunition.
+</p>
+
+<p>
+  The FBI was looking for a cartridge that would provide greater effectiveness than the .38 Special and 9mm ammunition used at the time.
+</p>
+
+<p>
+  10mm Auto attracted attention because of its high velocity, energy, and ability to use relatively heavy bullets.
+</p>
+
+<p>
+  In <strong>1989, the FBI adopted 10mm Auto</strong> with a reduced-power load. The so-called <strong>FBI load</strong> was considerably less powerful than full-power loads but provided the required ballistic performance with more moderate recoil. The FBI used this load in Smith &amp; Wesson pistols, while specialized units also used the <strong>Heckler &amp; Koch MP5/10</strong>.
+</p>
+
+<p>
+  This marked the point at which 10mm Auto definitively moved beyond the niche category of experimental and sporting cartridges.
+</p>
+<h2>The Problem with Full-Power 10mm Auto</h2>
+
+<p>
+  Despite its impressive ballistic performance, 10mm Auto has one significant drawback: <strong>substantial recoil</strong>.
+</p>
+
+<p>
+  Full-power loads make rapid, accurate follow-up shots difficult. In addition, the large pistol and considerable mechanical stresses are not ideal for every officer.
+</p>
+
+<p>
+  This proved to be a problem for the FBI.
+</p>
+
+<p>
+  Rather than using the cartridge at full power, the bureau preferred a reduced-power load that retained much of the required ballistic performance while being easier to control.
+</p>
+
+<p>
+  This decision eventually led directly to the development of <strong>.40 S&amp;W</strong>.
+</p>
+<h2>From 10mm Auto to .40 S&amp;W</h2>
+
+<p>
+  One of the most interesting outcomes of the history of 10mm Auto was the development of <strong>.40 S&amp;W</strong>.
+</p>
+
+<p>
+  After the FBI determined that the reduced-power 10mm load provided the required performance with milder recoil, it became clear that the full case length of 10mm Auto was unnecessary for achieving that ballistic performance.
+</p>
+
+<p>
+  This led to the idea of shortening the case.
+</p>
+
+<p>
+  <strong>.40 S&amp;W</strong> retains a bullet diameter of approximately 10 mm but uses a significantly shorter case. This makes it possible to develop more compact pistols and magazines similar in size to those designed for 9×19 mm.
+</p>
+
+<p>
+  The new cartridge was introduced in <strong>1990</strong> by Smith &amp; Wesson and Winchester and quickly became one of the most popular police calibers in the United States.
+</p>
+
+<p>
+  This established one of the most interesting lineages in the modern history of pistol ammunition:
+</p>
+
+<p>
+  <strong>10mm Auto → .40 S&amp;W</strong>
+</p>
+<h2>Design and Features</h2>
+
+<p>
+  10mm Auto is a <strong>rimless cartridge with a straight case and centerfire ignition</strong>.
+</p>
+
+<p>
+  According to C.I.P. specifications, the case length is <strong>25.20 mm</strong>, while the maximum overall cartridge length is <strong>32.00 mm</strong>. The nominal bullet diameter is approximately <strong>10.16 mm</strong>. C.I.P. specifies a maximum pressure of <strong>230 MPa</strong>.
+</p>
+
+<p>
+  The cartridge accommodates a relatively wide range of bullet weights. Available variants use bullets weighing approximately <strong>9–15 g</strong>, with the most common service and sporting loads generally falling within the 10–12 g range.
+</p>
+
+<p>
+  This versatility allows 10mm Auto to be used in pistols for self-defense and service use, as well as in sporting and hunting firearms.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  10mm Auto is distinguished by its high muzzle velocity and substantial kinetic energy.
+</p>
+
+<p>
+  With standard factory ammunition using bullets weighing approximately <strong>10–12 g</strong>, muzzle velocities typically fall within the approximate range of <strong>350–400 m/s</strong>, although the specific figures depend on bullet weight, powder charge, and barrel length.
+</p>
+
+<p>
+  Some modern high-performance loads achieve even higher velocities.
+</p>
+
+<p>
+  Muzzle energy with typical standard loads often falls within the range of <strong>600–750 J</strong>, while some specially developed high-performance loads can exceed <strong>800 J</strong>.
+</p>
+
+<p>
+  Therefore, figures such as <strong>360–450 m/s and 730–1050 J</strong> should not be presented as universal characteristics of 10mm Auto. The upper end of these ranges is possible with certain modern high-performance loads, but it does not characterize the standard cartridge as a whole.
+</p>
+<h2>10mm Auto and .45 ACP</h2>
+
+<p>
+  The original concept behind 10mm Auto was closely tied to the goal of achieving higher velocity than .45 ACP.
+</p>
+
+<p>
+  The two cartridges can use bullets of similar weight in some load configurations, but their ballistic philosophies differ.
+</p>
+
+<p>
+  <strong>.45 ACP</strong> uses a larger-diameter and generally heavier bullet at a lower velocity.
+</p>
+
+<p>
+  <strong>10mm Auto</strong> uses a smaller-diameter bullet but drives it at a significantly higher velocity.
+</p>
+
+<p>
+  This gives 10mm Auto a flatter trajectory and higher energy with many modern loads.
+</p>
+
+<p>
+  It is precisely this combination of diameter, bullet weight, and velocity that distinguishes 10mm Auto from traditional .45 ACP.
+</p>
+<h2>Adoption and Popularity</h2>
+
+<p>
+  Following the introduction of the Bren Ten and Colt Delta Elite, several manufacturers began offering pistols chambered in 10mm Auto.
+</p>
+
+<p>
+  Some of the best-known examples include:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li><strong>Colt Delta Elite</strong></li>
+  <li><strong>Glock 20</strong></li>
+  <li><strong>Glock 29</strong></li>
+  <li><strong>Smith &amp; Wesson Model 1006</strong></li>
+  <li><strong>Smith &amp; Wesson Model 1076</strong></li>
+  <li><strong>Smith &amp; Wesson Model 610</strong></li>
+  <li><strong>Colt Double Eagle</strong></li>
+  <li><strong>Springfield Armory Omega</strong></li>
+  <li><strong>Heckler &amp; Koch MP5/10</strong></li>
+</ul>
+
+<p>
+  The <strong>Glock 20</strong> proved particularly successful, combining a relatively high magazine capacity with the power of 10mm Auto. It became one of the most recognizable modern firearms chambered for this cartridge.
+</p>
+<h2>10mm Auto as a Hunting Cartridge</h2>
+
+<p>
+  In the United States, 10mm Auto has also found applications beyond traditional pistol use.
+</p>
+
+<p>
+  When paired with a suitable firearm and ammunition, the cartridge is used for hunting certain types of game at relatively short distances.
+</p>
+
+<p>
+  This is possible because of its high energy and the wide selection of available bullets.
+</p>
+
+<p>
+  Unlike typical service pistol cartridges, 10mm Auto can be loaded with heavier bullets and used in pistols and revolvers intended for hunting.
+</p>
+
+<h2>10mm Auto Today</h2>
+
+<p>
+  After a period of relatively limited popularity, 10mm Auto has attracted renewed interest, particularly in the United States.
+</p>
+
+<p>
+  This is due to its combination of high power, the relatively large magazine capacities of modern pistols, and the ability to use the same cartridge for self-defense, sport shooting, and certain hunting applications.
+</p>
+
+<p>
+  The <strong>Glock 20</strong>, <strong>Glock 29</strong>, and other modern pistols continue to sustain interest in the cartridge, while ammunition manufacturers offer a wide range of loads.
+</p>
+
+<p>
+  As a result, 10mm Auto, which appeared to have a limited future during the 1980s, continues to be manufactured more than four decades after its development.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  The history of 10mm Auto is directly connected to the development of <strong>.40 S&amp;W</strong>.
+</p>
+
+<p>
+  The FBI initially adopted 10mm Auto but later determined that a reduced-power load was better suited to routine service use. This concept gave rise to the shorter .40 S&amp;W.
+</p>
+
+<p>
+  Thus, one of the most powerful modern pistol cartridges became the direct “parent” of a cartridge that would become one of the most widely used police calibers in the United States during the 1990s.
+</p>
+<h2>Technical Data</h2>
+
+<TechnicalData
+  language="en"
+  title="10 mm Auto"
+  data={[
+    ["Designation", "10 mm Auto"],
+    ["Metric designation", "10×25 mm"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States / Sweden"],
+    ["Developers", "Jeff Cooper, Dornaus & Dixon, and Norma"],
+    ["Year introduced", "1983"],
+    ["Case length", "25.20 mm"],
+    ["Maximum overall cartridge length", "32.00 mm"],
+    ["Bullet diameter", "Approximately 10.16 mm"],
+    ["Case type", "Rimless, straight"],
+    ["Ignition", "Centerfire"],
+    ["Bullet weight", "Approximately 9–15 g"],
+    ["Muzzle velocity", "Approximately 350–400 m/s*"],
+    ["Muzzle energy", "Approximately 600–800 J*"],
+    ["Maximum pressure according to C.I.P.", "230 MPa"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific ammunition, bullet weight and construction, and barrel length. Modern high-performance loads can exceed the typical values listed above. The dimensions and maximum pressure are based on C.I.P. specifications.
+</p>
+</Section>
+<Section
+    id="10-9x33-429-de"
+    title="10.9×33 mm RB .429 DE"
+  >
+    <img
+      src="/images/calibers/cartridges/10.9×33 mm.429 DE.png"
+      alt="10.9×33 mm RB .429 DE"
+      style={{
+        width: "41%",
+        height: "auto",
+        display: "block",
+        margin: "0 auto 30px auto",
+      }}
+    />
+
+    <p>
+      <em>
+        A powerful pistol cartridge developed specifically for the Desert Eagle platform, combining a .429-inch bullet with a case derived from the design of the .50 Action Express.
+      </em>
+    </p>
+
+    <p>
+      <strong>.429 DE (10.9×33 mm RB)</strong> is an American pistol cartridge introduced in 2018 by <strong>Magnum Research</strong> for Desert Eagle semi-automatic pistols. It was designed to offer higher muzzle velocity and greater muzzle energy than the traditional .44 Magnum while using a bullet of approximately the same diameter.
+    </p>
+
+    <p>
+      Unlike .44 Magnum, which was originally developed for revolvers, .429 DE is intended for a powerful gas-operated semi-automatic pistol. Its design allows relatively heavy bullets to be fired at high velocities, placing it among specialized, high-performance pistol cartridges.
+    </p>
+
+    <p>
+      The cartridge is not simply a higher-powered version of .44 Magnum. Its foundation is <strong>.50 Action Express (.50 AE)</strong>, whose case was modified by narrowing the forward section to accommodate a bullet with a diameter of .429 inches.
+    </p>
+
+    <h2>Development History</h2>
+
+    <p>
+      The introduction of .429 DE is connected to the development of the Desert Eagle platform and the pursuit of greater ballistic performance using a bullet with a smaller diameter than that of .50 AE.
+    </p>
+
+    <p>
+      In October <strong>2018</strong>, Magnum Research officially introduced the new cartridge. The manufacturer identified its primary objective as increasing muzzle velocity and muzzle energy compared with a standard .44 Magnum load using a 240-grain bullet.
+    </p>
+
+    <p>
+      Development focused on the Desert Eagle pistol, already known for its ability to chamber powerful cartridges such as .50 AE and .44 Magnum. The new cartridge expanded the platform's capabilities without changing the firearm's fundamental concept.
+    </p>
+
+    <p>
+      In <strong>2021</strong>, .429 DE was accepted for standardization by the American institute <strong>SAAMI</strong> (<em>Sporting Arms and Ammunition Manufacturers' Institute</em>). The organization published standardized cartridge and chamber dimensions, along with pressure specifications and test velocity data.
+    </p>
+
+    <h2>Design and Features</h2>
+
+    <p>
+      .429 DE uses a case derived from the .50 AE design, but with a narrower forward section intended for a bullet with a nominal diameter of <strong>.429 inches (approximately 10.9 mm)</strong>.
+    </p>
+
+    <p>
+      The designation <strong>RB</strong> in its metric name stands for <em>rebated rim</em> — a case design in which the rim has a smaller diameter than the main body of the case. This feature is part of the design that allows the cartridge to function in the corresponding Desert Eagle system.
+    </p>
+
+    <p>The main design features include:</p>
+
+    <ul
+      style={{
+        listStyleType: "disc",
+        paddingLeft: "28px",
+        marginTop: "16px",
+        marginBottom: "28px",
+        fontSize: "20px",
+      }}
+    >
+      <li><strong>Narrowed forward case section</strong>, designed for a bullet with a diameter of .429 inches.</li>
+      <li><strong>Reduced-diameter rim</strong> relative to the case body.</li>
+      <li><strong>Centerfire ignition</strong> using a large pistol magnum primer.</li>
+      <li><strong>Case approximately 33 mm long</strong>, derived from the .50 AE design.</li>
+    </ul>
+
+    <h2>Ballistic Characteristics</h2>
+
+    <p>
+      The main advantage of .429 DE is its ability to propel a heavy bullet at high muzzle velocity. According to Magnum Research, the cartridge reaches approximately <strong>1,600 ft/s (488 m/s)</strong> with a 240-grain bullet and around <strong>1,750 ft/s (533 m/s)</strong> with a 210-grain bullet.
+    </p>
+
+    <p>
+      These figures are significantly higher than the typical velocities of many standard .44 Magnum loads, although actual results depend on the ammunition and test barrel. Barrel length must also be taken into account when comparing published figures.
+    </p>
+
+    <p>
+      SAAMI specifies a maximum average pressure of <strong>46,000 psi (approximately 317 MPa)</strong> and a test velocity of 1,720 ft/s for a 240-grain bullet when using a standardized six-inch test barrel. This is a standardized test value, not a guarantee of the velocity achieved by every factory load.
+    </p>
+
+    <h2>.429 DE and .44 Magnum</h2>
+
+    <p>
+      Both cartridges use bullets with almost the same nominal diameter, but they were developed for different firearm systems and have significant design differences.
+    </p>
+
+    <p>
+      <strong>.44 Magnum</strong> is a traditional revolver cartridge introduced in 1955. It is used in a wide range of revolvers, as well as in some rifles and semi-automatic pistols.
+    </p>
+
+    <p>
+      <strong>.429 DE</strong> was developed specifically for the Desert Eagle platform and uses a case derived from the .50 AE design. Its primary objective is to achieve higher velocity and energy with a bullet diameter close to that of .44 Magnum.
+    </p>
+
+    <p>
+      Despite the similar bullet diameters, <strong>the two cartridges are not interchangeable</strong>. Their different case dimensions and designs mean that each must be used only in a firearm specifically chambered for that cartridge.
+    </p>
+
+    <h2>.429 DE and .50 Action Express</h2>
+
+    <p>
+      The relationship between .429 DE and .50 AE is more direct than that between .429 DE and .44 Magnum. The .50 AE case serves as the structural basis for the newer cartridge.
+    </p>
+
+    <p>
+      The .50 AE uses a bullet with a nominal diameter of approximately .500 inches, whereas .429 DE uses a .429-inch bullet. The narrower, lighter bullet allows a higher muzzle velocity to be achieved with a suitable load.
+    </p>
+
+    <p>
+      According to Magnum Research, .429 DE offers approximately 25% higher velocity and 45% greater energy than the manufacturer's cited standard .44 Magnum load. These percentages should be understood as a specific manufacturer comparison, rather than a universal advantage over all .44 Magnum or .50 AE loads.
+    </p>
+
+    <h2>Firearms Chambered in .429 DE</h2>
+
+    <p>
+      The primary firearm for this cartridge is the <strong>Magnum Research Desert Eagle Mark XIX</strong> in the appropriate .429 DE configuration.
+    </p>
+
+    <p>
+      The cartridge was developed for this platform, and its design relationship with .50 AE allows certain firearm components to be shared between the two configurations. According to published information about the system, converting from .50 AE to .429 DE may be possible by changing the barrel, provided the correct compatible components are used.
+    </p>
+
+    <p>
+      This does not mean that every Desert Eagle can automatically use .429 DE without checking the specific model and configuration.
+    </p>
+
+    <h2>.429 DE Today</h2>
+
+    <p>
+      .429 DE remains a specialized cartridge closely associated with the Desert Eagle. Unlike widely available cartridges such as 9×19 mm or .44 Magnum, it does not have the same variety of firearms and applications.
+    </p>
+
+    <p>
+      Its main significance lies in the development of high-performance semi-automatic pistols. It demonstrates how an existing case design can be adapted to a different bullet diameter and different ballistic objectives.
+    </p>
+
+    <p>
+      The adoption of a SAAMI standard provides a common technical basis for the cartridge's dimensions and testing, but its actual use remains largely limited to firearms designed for it.
+    </p>
+
+    <h2>Interesting Fact</h2>
+
+    <p>
+      Although .429 DE and .44 Magnum use bullets with almost identical diameters, one was developed for revolvers, while the other was designed for a powerful semi-automatic pistol.
+    </p>
+
+    <p>
+      This is a good example of why <strong>bullet diameter alone does not determine whether two cartridges are compatible</strong>. Case shape and dimensions, ignition method, and operating pressure are also essential factors.
+    </p>
+
+    <h2>Technical Data</h2>
+
+    <TechnicalData
+      language="en"
+      title="10.9×33 mm RB .429 DE"
+      data={[
+        ["Designation", ".429 DE"],
+        ["Metric designation", "10.9×33 mm RB"],
+        ["Alternative name", ".429 Desert Eagle"],
+        ["Type", "Pistol cartridge"],
+        ["Origin", "United States"],
+        ["Developer", "Magnum Research"],
+        ["Introduced", "2018"],
+        ["SAAMI standardization", "2021"],
+        ["Case length", "Approximately 32.6 mm"],
+        ["Maximum overall cartridge length", "39.12–40.64 mm"],
+        ["Bullet diameter", "10.92 mm"],
+        ["Case type", "Tapered, with a rebated rim"],
+        ["Ignition", "Centerfire"],
+        ["Bullet weight", "210–240 gr (approximately 13.6–15.6 g)"],
+        ["Muzzle velocity", "Approximately 488–533 m/s*"],
+        ["Muzzle energy", "Approximately 1,850–2,150 J*"],
+        ["Maximum average pressure according to SAAMI", "46,000 psi (approximately 317 MPa)"],
+        ["Primary firearm", "Magnum Research Desert Eagle Mark XIX"],
+      ]}
+    />
+
+    <p>
+      * Ballistic performance depends on the specific ammunition and test barrel. The values shown are approximate and based on published data from Magnum Research and SAAMI.
+    </p>
+  </Section>
+  <Section
+    id="10-97x33-44-remington-magnum"
+    title="10.97×33 mm .44 Remington Magnum (.44 Magnum)"
+>
+  <img
+    src="/images/calibers/cartridges/10.97x33.44 Magnum.png"
+    alt="10.97×33 mm .44 Remington Magnum (.44 Magnum)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  <p>
+  <em>
+    One of the most powerful and recognizable revolver cartridges in history, it has become a symbol of large-caliber handguns and revolvers.
+  </em>
+</p>
+<p>
+  <strong>.44 Remington Magnum</strong>, most commonly known as <strong>.44 Magnum</strong>, is a powerful American revolver cartridge developed during the first half of the 1950s. It was created as an evolution of the <strong>.44 Special</strong>, but with a much higher operating pressure and significantly greater muzzle velocity and energy.
+</p>
+
+<p>
+  The cartridge was developed with the active involvement of American shooter and hunter <strong>Elmer Keith</strong>, who had spent years experimenting with powerful loads for the .44 Special. His goal was to create a revolver cartridge capable of delivering substantially greater power than the ammunition available at the time.
+</p>
+
+<p>
+  In <strong>1955</strong>, development was completed, and <strong>Smith &amp; Wesson</strong> introduced the first revolver chambered for the new cartridge — the <strong>Smith &amp; Wesson Model 29</strong>. The cartridge itself was developed in cooperation with <strong>Remington</strong>, which took responsibility for its production.
+</p>
+<h3>Smith &amp; Wesson Model 29</h3>
+
+<img
+  src="/images/calibers/cartridges/Smith & Wesson Model 29.png"
+  alt="Smith & Wesson Model 29"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<h2>Development History</h2>
+
+<p>
+  The history of the .44 Magnum began long before its introduction in 1955.
+</p>
+
+<p>
+  As early as the 1870s, the <strong>.44 Smith &amp; Wesson Russian</strong> demonstrated the potential of heavy bullets with a large diameter. Later, the <strong>.44 Special</strong>, introduced in the early 20th century, became the basis for numerous experiments with more powerful loads.
+</p>
+
+<p>
+  Among the most enthusiastic advocates of powerful .44-caliber revolvers was <strong>Elmer Keith</strong>. He experimented with increased powder charges and heavy bullets in the .44 Special, gradually achieving performance levels that significantly exceeded the cartridge's standard capabilities.
+</p>
+
+<p>
+  These experiments demonstrated that a new, more powerful cartridge could be developed. However, this also required a firearm capable of safely withstanding the higher pressure.
+</p>
+
+<p>
+  This led to cooperation between Keith, <strong>Smith &amp; Wesson</strong>, and <strong>Remington</strong>.
+</p>
+
+<p>
+  The new cartridge was designated <strong>.44 Remington Magnum</strong>.
+</p>
+<h2>Why the .44 Magnum Is Not Simply a More Powerful .44 Special</h2>
+
+<p>
+  At first glance, the two cartridges look almost identical. Their main external difference is the case length.
+</p>
+
+<p>
+  The .44 Magnum case is approximately 3.2 mm longer than the .44 Special case.
+</p>
+
+<p>
+  This difference, however, is significant. The longer case allows for a larger powder charge, and the new cartridge was designed to operate at substantially higher pressure.
+</p>
+
+<p>
+  For this reason, the .44 Magnum should not be regarded simply as a "long .44 Special." It is a new, more powerful cartridge designed for firearms specifically engineered to handle it.
+</p>
+
+<h2>Smith &amp; Wesson Model 29</h2>
+
+<p>
+  In 1955, Smith &amp; Wesson introduced the Model 29 — the revolver that would become inseparably associated with the history of the .44 Magnum.
+</p>
+
+<p>
+  Initially, the Model 29 was offered with different barrel lengths, and additional variants appeared later. The firearm is large and heavy because it must withstand the high stresses generated by the .44 Magnum cartridge.
+</p>
+
+<p>
+  Initially, the cartridge remained relatively niche. Its power was impressive, but the strong recoil and the large size of the revolvers limited its practical use.
+</p>
+
+<p>
+  The situation changed during the 1970s.
+</p>
+
+<h2>.44 Magnum and "Dirty Harry"</h2>
+
+<p>
+  In 1971, the film "Dirty Harry" turned the Smith &amp; Wesson Model 29 and the .44 Magnum into worldwide icons.
+</p>
+
+<p>
+  Clint Eastwood's character, Inspector Harry Callahan, uses the Model 29, and the film portrays it as an exceptionally powerful revolver.
+</p>
+
+<p>
+  The film's popularity generated enormous interest in the Model 29 and the .44 Magnum. Smith &amp; Wesson itself has noted that demand for the revolver rose sharply during the 1970s following the film's success.
+</p>
+
+<p>
+  As a result, the .44 Magnum gradually became more than just an ammunition cartridge; it also became a symbol of American gun culture.
+</p>
+<h2>Hunting Applications</h2>
+
+<p>
+  Unlike many other powerful handgun cartridges, the .44 Magnum has also found significant use as a <strong>hunting cartridge</strong>.
+</p>
+
+<p>
+  It is used in large revolvers and in some carbines chambered for this cartridge. Depending on the specific ammunition and firearm, the .44 Magnum can be used to hunt various types of game at relatively short to medium distances.
+</p>
+
+<p>
+  Its heavy bullet and high energy are among the main reasons the cartridge remains popular with hunters who prefer handguns.
+</p>
+
+<h2>.44 Magnum and the Desert Eagle</h2>
+
+<p>
+  Although the .44 Magnum is historically associated primarily with <strong>revolvers</strong>, its use is not limited to them.
+</p>
+
+<p>
+  One of the best-known semiautomatic pistols chambered for the .44 Magnum is the <strong>Desert Eagle</strong>.
+</p>
+
+<p>
+  This is particularly interesting because the Desert Eagle is one of the first widely known self-loading pistols designed to use Magnum revolver cartridges. Magnum Research lists the .44 Magnum among the Desert Eagle's principal chamberings, alongside the .357 Magnum, .50 AE, and .429 DE.
+</p>
+
+<p>
+  The use of the .44 Magnum in the Desert Eagle illustrates just how substantial the stresses are that this pistol's design is engineered to withstand.
+</p>
+
+<p>
+  There is, however, an important difference compared with revolvers: the Desert Eagle uses <strong>gas-operated action</strong>, allowing the firearm to use energy from the fired cartridge to cycle and reload.
+</p>
+<h2>.44 Magnum and .357 Magnum</h2>
+
+<p>
+  The .44 Magnum appeared two decades after the <strong>.357 Magnum</strong>, but the two cartridges share a similar historical role — both were developed as high-performance revolver cartridges.
+</p>
+
+<p>
+  The .357 Magnum uses a smaller bullet at a higher velocity, whereas the .44 Magnum relies on a significantly heavier bullet with a larger diameter.
+</p>
+
+<p>
+  Depending on the specific load, the .44 Magnum generally delivers higher muzzle energy, but this also comes with greater recoil.
+</p>
+
+<p>
+  The two cartridges therefore represent different approaches to the concept of a powerful revolver cartridge:
+</p>
+
+<p>
+  <strong>.357 Magnum → smaller bullet, high velocity</strong>
+</p>
+
+<p>
+  <strong>.44 Magnum → larger, heavier bullet, high energy</strong>
+</p>
+
+<h2>.44 Magnum and .44 Special</h2>
+
+<p>
+  The historical connection between the two cartridges is direct.
+</p>
+
+<p>
+  <strong>The .44 Magnum was developed from the .44 Special</strong>, but features a longer case and a substantially higher maximum pressure.
+</p>
+
+<p>
+  For this reason, revolvers chambered for the .44 Magnum can generally also use .44 Special ammunition. The reverse is not true — .44 Magnum ammunition must not be used in firearms designed exclusively for the .44 Special.
+</p>
+
+<p>
+  This relationship is similar to the development of other "Magnum" cartridges, in which the longer case serves not only to increase capacity but also to clearly distinguish the cartridge from its less powerful predecessor.
+</p>
+
+<h2>Adoption and Availability</h2>
+
+<p>
+  Following the introduction of the Model 29, the .44 Magnum gradually spread among revolver manufacturers.
+</p>
+
+<p>
+  The cartridge became available in various models from <strong>Smith &amp; Wesson, Ruger, Colt</strong>, and other manufacturers.
+</p>
+
+<p>
+  Different bullet designs also emerged, ranging from standard jacketed bullets to specialized hunting projectiles.
+</p>
+
+<p>
+  The .44 Magnum became one of the most recognizable American revolver cartridges and has remained popular for decades after its introduction.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  Today, the .44 Magnum continues to be widely manufactured and used.
+</p>
+
+<p>
+  Its main applications include:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li>hunting revolvers;</li>
+  <li>sport shooting;</li>
+  <li>large self-defense revolvers;</li>
+  <li>some carbines;</li>
+  <li>powerful semiautomatic pistols such as the Desert Eagle.</li>
+</ul>
+
+<p>
+  SAAMI maintains standardized dimensions and specifications for the <strong>.44 Remington Magnum</strong>, demonstrating that the cartridge remains part of the modern system of standardized American ammunition.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  Before the introduction of the .44 Magnum, <strong>Elmer Keith</strong> was already experimenting with powerful loads for the .44 Special.
+</p>
+
+<p>
+  These experiments demonstrated that a heavy .44-caliber bullet could be driven at velocities far higher than those standard for the .44 Special.
+</p>
+
+<p>
+  The .44 Magnum therefore did not emerge suddenly as an entirely new idea. It was the result of years of experimentation that ultimately led to the creation of a new cartridge and revolvers specifically designed for it.
+</p>
+<h2>Technical Specifications</h2>
+
+<TechnicalData
+  language="en"
+  title=".44 Remington Magnum"
+  data={[
+    ["Other designation", ".44 Magnum"],
+    ["Metric designation", "approximately 10.97×33 mm"],
+    ["Type", "Revolver cartridge"],
+    ["Origin", "United States"],
+    ["Developed", "1950–1955"],
+    ["Introduced", "1955"],
+    ["Main developers", "Smith & Wesson, Remington, with significant contributions from Elmer Keith"],
+    ["Case length", "32.6 mm"],
+    ["Maximum cartridge length", "approximately 41.0 mm"],
+    ["Bullet diameter", "approximately 10.9–11.0 mm"],
+    ["Case type", "Rimmed, cylindrical"],
+    ["Primer type", "Centerfire"],
+    ["Bullet weight", "approximately 15–19 g"],
+    ["Muzzle velocity", "approximately 350–450 m/s*"],
+    ["Muzzle energy", "approximately 1,000–1,500 J*"],
+    ["Main firearms", "Smith & Wesson Model 29, Ruger Super Blackhawk, Desert Eagle, and others"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific cartridge, bullet weight and design, and barrel length. With a bullet weighing approximately <strong>15.6 g</strong> and a velocity of around <strong>420 m/s</strong>, the kinetic energy is approximately <strong>1,375 J</strong>. The original figure of 1,318 J is therefore entirely plausible for a specific load, but it should not be presented as a universal characteristic of the .44 Magnum.
+</p>
+</Section>
+<Section
+  id="11-43x19-45-gap"
+  title="11.43×19 mm .45 GAP (.45 Glock Automatic Pistol)"
+>
+  <img
+    src="/images/calibers/cartridges/45 GAP.png"
+    alt="11.43×19 mm .45 GAP (.45 Glock Automatic Pistol)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+<p>
+  <em>
+    The cartridge developed by Glock as a more compact alternative to the .45 ACP.
+  </em>
+</p>
+<p>
+  <strong>.45 GAP (Glock Automatic Pistol)</strong> is an American pistol cartridge developed in the early 21st century at the initiative of <strong>Glock</strong>. The goal was to create ammunition using a bullet of the same caliber as the <strong>.45 ACP</strong>, but with a shorter case that would allow the development of more compact pistols with smaller grips.
+</p>
+
+<p>
+  The cartridge was developed by engineer <strong>Ernest Durham</strong> of <strong>CCI/Speer</strong> and introduced in <strong>2003</strong>. The first pistol designed for it was the <strong>Glock 37</strong>.
+</p>
+
+<p>
+  The name <strong>GAP</strong> stands for <strong>Glock Automatic Pistol</strong>.
+</p>
+<h3>Glock 37</h3>
+
+<img
+  src="/images/calibers/cartridges/Glock 37.png"
+  alt="Glock 37"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<h2>Development History</h2>
+
+<p>
+  By the late 20th century, Glock had already achieved enormous success with its <strong>9×19 mm</strong> pistols, but the company was looking for a way to offer a firearm with a larger bullet without significantly increasing the dimensions of the frame.
+</p>
+
+<p>
+  The central idea was to develop a cartridge using a <strong>.45-caliber bullet</strong> but with a shorter case than the <strong>.45 ACP</strong>.
+</p>
+
+<p>
+  The work was assigned to <strong>Ernest Durham</strong> of <strong>Speer</strong>, and modern case-design and propellant-development technologies were used during the process.
+</p>
+
+<p>
+  The result was the <strong>.45 GAP</strong>, which retains the nominal bullet diameter of the .45 ACP but has a significantly shorter case.
+</p>
+
+<p>
+  The cartridge was introduced in <strong>2003</strong>, and Glock developed a new series of pistols for it.
+</p>
+
+<h2>.45 GAP and .45 ACP</h2>
+
+<p>
+  The names of the two cartridges can easily create the impression that the .45 GAP is simply a shortened .45 ACP. However, this is not entirely accurate.
+</p>
+
+<p>
+  The <strong>.45 ACP</strong> has a case length of approximately <strong>23 mm</strong>, whereas the <strong>.45 GAP</strong> case is approximately <strong>19.15 mm</strong> long.
+</p>
+
+<p>
+  Both cartridges use bullets with a nominal diameter of <strong>11.43 mm</strong>, but they are different types of ammunition designed for different chambers.
+</p>
+
+<p>
+  The shorter case allows Glock to produce pistols with more compact grips while retaining the large bullet diameter.
+</p>
+
+<p>
+  However, the .45 GAP is not simply a weaker .45 ACP. Its operating pressure is higher than that of standard .45 ACP ammunition, allowing the shorter cartridge to achieve ballistic performance close to that of the .45 ACP.
+</p>
+<h2>Glock 37</h2>
+
+<p>
+  The first pistol specifically designed for the .45 GAP was the <strong>Glock 37</strong>.
+</p>
+
+<p>
+  It was introduced alongside the new cartridge in 2003 and uses Glock's standard design, with the barrel locking through the interaction between the barrel and the slide.
+</p>
+
+<p>
+  Following the Glock 37, the company developed more compact models:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li><strong>Glock 38</strong></li>
+  <li><strong>Glock 39</strong></li>
+</ul>
+
+<p>
+  This allowed the .45 GAP to be offered in pistols of different sizes, much like Glock's other chamberings.
+</p>
+
+<h2>Why Was the .45 GAP Developed?</h2>
+
+<p>
+  The main reason was <strong>grip size</strong>.
+</p>
+
+<p>
+  The .45 ACP is a relatively large cartridge, and pistols designed for it generally require a larger frame and grip. This can be uncomfortable for shooters with smaller hands.
+</p>
+
+<p>
+  With the .45 GAP, the shorter case allows the use of a more compact frame.
+</p>
+
+<p>
+  Glock could therefore offer a pistol with a large <strong>.45-caliber bullet</strong> while keeping the frame dimensions closer to those of more compact models.
+</p>
+
+<h2>Law Enforcement Applications</h2>
+
+<p>
+  The .45 GAP gained its greatest recognition among certain American law enforcement agencies.
+</p>
+
+<p>
+  The cartridge was adopted or used by various law enforcement organizations, including the <strong>Georgia State Patrol</strong>, the <strong>Georgia Bureau of Investigation</strong>, and the <strong>South Carolina Highway Patrol</strong>.
+</p>
+
+<p>
+  The adoption of the .45 GAP in Georgia is particularly well known, as several law enforcement agencies in the state used the Glock 37.
+</p>
+
+<p>
+  However, this did not lead to widespread adoption of the .45 GAP by American police forces.
+</p>
+
+<p>
+  Ultimately, <strong>9×19 mm</strong> retained its dominant position, while the .45 GAP remained a relatively niche cartridge.
+</p>
+
+<h2>Design and Characteristics</h2>
+
+<p>
+  The .45 GAP is a <strong>rimless cartridge with a cylindrical case and centerfire ignition</strong>.
+</p>
+
+<p>
+  Its case is significantly shorter than that of the .45 ACP, while its diameter is larger than that of many other modern pistol cartridges.
+</p>
+
+<p>
+  According to the <strong>SAAMI</strong> standard, the nominal bullet diameter is <strong>11.43 mm</strong>. SAAMI maintains a separate standard for the .45 GAP, including cartridge dimensions and test-barrel specifications.
+</p>
+
+<p>
+  The cartridge is available with various bullet designs and weights, including standard full metal jacket bullets and expanding bullets.
+</p>
+
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The .45 GAP was designed to deliver ballistic performance close to that of standard .45 ACP loads.
+</p>
+
+<p>
+  Depending on the specific ammunition, bullet weights of approximately <strong>10–15 g</strong> are used.
+</p>
+
+<p>
+  With lighter bullets, velocities of around <strong>330–350 m/s</strong> can be achieved, while heavier bullets generally travel at lower velocities.
+</p>
+
+<p>
+  Muzzle energy for factory ammunition typically falls within a range of approximately <strong>400–600 J</strong>, depending on bullet weight and design.
+</p>
+
+<p>
+  For this reason, the original specification of "250–360 m/s and 300–624 J" is too broad to be presented as typical of all .45 GAP ammunition.
+</p>
+<h2>Advantages and Disadvantages</h2>
+
+<p>
+  The main advantage of the .45 GAP is its ability to combine:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li>a large bullet diameter;</li>
+  <li>a relatively compact frame;</li>
+  <li>a shorter case;</li>
+  <li>ballistic performance close to that of the .45 ACP.</li>
+</ul>
+
+<p>
+  Its main disadvantage is that it has not managed to establish a sufficiently large practical niche.
+</p>
+
+<p>
+  On one side is <strong>9×19 mm</strong>, which offers high magazine capacity and enormous international adoption.
+</p>
+
+<p>
+  On the other side is the <strong>.45 ACP</strong>, which has more than a century of history and an enormous number of existing firearms.
+</p>
+
+<p>
+  The .45 GAP falls between the two — technically interesting, but without a sufficiently significant advantage to displace either established cartridge.
+</p>
+
+<h2>.45 GAP and Glock</h2>
+
+<p>
+  The .45 GAP is one of the few modern pistol cartridges developed largely as part of a specific firearms manufacturer's strategy.
+</p>
+
+<p>
+  The connection between the cartridge and Glock is so close that the designation <strong>GAP</strong> itself stands for <strong>Glock Automatic Pistol</strong>.
+</p>
+
+<p>
+  This places it in an interesting group alongside cartridges such as the <strong>.357 SIG</strong>, which is also closely associated with a particular manufacturer and a specific approach to pistol ammunition development.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  The .45 GAP never achieved the widespread adoption of the .45 ACP or 9×19 mm.
+</p>
+
+<p>
+  Production of Glock pistols chambered for this cartridge is limited, and it remains primarily associated with the American market and existing Glock 37, 38, and 39 pistols.
+</p>
+
+<p>
+  Despite its limited adoption, the .45 GAP holds an important place in the history of modern pistol cartridges.
+</p>
+
+<p>
+  It illustrates manufacturers' attempts to retain the characteristics of a large-caliber cartridge while reducing the overall dimensions of the firearm.
+</p>
+<h2>Interesting Fact</h2>
+
+<p>
+  <strong>The .45 GAP is shorter than the .45 ACP, but it is not a weaker version of it.</strong>
+</p>
+
+<p>
+  The developers' goal was precisely the opposite — to use a modern case design, propellant, and firearm to achieve performance close to that of the .45 ACP in a more compact system.
+</p>
+
+<p>
+  The .45 GAP is therefore an interesting example of how <strong>cartridge dimensions and firearm dimensions can be optimized independently of bullet diameter</strong>.
+</p>
+
+<h2>Technical Specifications</h2>
+
+<TechnicalData
+  language="en"
+  title=".45 GAP"
+  data={[
+    ["Full designation", ".45 Glock Automatic Pistol"],
+    ["Metric designation", "11.43×19 mm"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Developer", "Ernest Durham / CCI-Speer"],
+    ["Associated manufacturer", "Glock"],
+    ["Year introduced", "2003"],
+    ["Case length", "approximately 19.15 mm"],
+    ["Overall cartridge length", "approximately 27.2 mm"],
+    ["Bullet diameter", "11.43 mm"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Primer type", "Centerfire"],
+    ["Bullet weight", "approximately 10–15 g"],
+    ["Muzzle velocity", "approximately 300–350 m/s*"],
+    ["Muzzle energy", "approximately 400–600 J*"],
+    ["Main firearms", "Glock 37, Glock 38, Glock 39"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific ammunition, bullet weight and design, and barrel length. Cartridge dimensions and test specifications are standardized by <strong>SAAMI</strong>.
+</p>
+</Section>
+<Section
+  id="11-43x23-45-acp"
+  title="11.43×23 mm .45 ACP (Automatic Colt Pistol)"
+>
+  <img
+    src="/images/calibers/cartridges/45 ACP_fin.png"
+    alt="11.43×23 mm .45 ACP (Automatic Colt Pistol)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+
+<p>
+  <em>
+    One of the most famous pistol cartridges in history, it became a symbol of American firearms and is inseparably associated with the Colt M1911.
+  </em>
+</p>
+<p>
+  <strong>.45 ACP (Automatic Colt Pistol)</strong> is an American pistol cartridge developed by <strong>John Moses Browning</strong> in the early 20th century for a new generation of Colt self-loading pistols. Introduced in <strong>1904</strong>, it was created in response to the U.S. Army's requirement for a pistol cartridge with a larger caliber and greater effectiveness than the .38 Long Colt then in use.
+</p>
+
+<p>
+  The cartridge gained enormous historical significance following the adoption of the <strong>Colt M1911</strong> by the U.S. Army on <strong>March 29, 1911</strong>. The .45 ACP remained the standard American military pistol cartridge for decades and was used in a vast number of pistols and submachine guns.
+</p>
+<h2>Development History</h2>
+
+<p>
+  The history of the .45 ACP is closely connected to the U.S. Army's search for a more effective pistol cartridge.
+</p>
+
+<p>
+  In the late 19th century, American servicemen used revolvers chambered in <strong>.38 Long Colt</strong>. However, combat operations in the Philippines led to reports that this cartridge did not provide sufficiently effective results in some close-range encounters. Fighting against the Moro people on the island of Mindanao became particularly well known.
+</p>
+
+<p>
+  As a result, the U.S. Army began looking for a more powerful pistol cartridge and a new self-loading firearm to use it.
+</p>
+
+<p>
+  In <strong>1904</strong>, the well-known <strong>Thompson–LaGarde trials</strong> were conducted. These tests were intended to determine a suitable caliber for the future service pistol. Various designs and calibers were evaluated, and the results led to the conclusion that the future pistol should use a bullet with a diameter of at least <strong>.45 inch (11.43 mm)</strong>.
+</p>
+
+<p>
+  The .45-caliber cartridge thus became the foundation of the new American military handgun.
+</p>
+<h2>John Browning and Colt</h2>
+
+<p>
+  By this time, <strong>John Moses Browning</strong> was already working with Colt on self-loading pistols.
+</p>
+
+<p>
+  After .45 caliber was identified as the required size, Browning developed a new pistol and its corresponding ammunition. In <strong>1905</strong>, the <strong>Colt Model 1905</strong> appeared, becoming the first Colt self-loading pistol produced in series for a .45-caliber cartridge.
+</p>
+<h3>Colt Model 1905</h3>
+<img
+  src="/images/calibers/cartridges/Colt M1905.png"
+  alt="Colt Model 1905"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<p>
+  Further testing and design improvements followed.
+</p>
+
+<p>
+  Browning and Colt gradually developed the system that would become known as the <strong>Colt M1911</strong>.
+</p>
+
+<p>
+  On <strong>March 29, 1911</strong>, the U.S. Army officially adopted the <strong>Automatic Pistol, Caliber .45, M1911</strong>, along with its corresponding ammunition, the <strong>Caliber .45 Automatic Pistol Ball Cartridge, Model of 1911</strong>, known today as the <strong>.45 ACP</strong>.
+</p>
+<h3>Colt M1911 — The Pistol of the .45 ACP</h3>
+<img
+  src="/images/calibers/cartridges/Colt M1911.png"
+  alt="Colt M1911 — The Pistol of the .45 ACP"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<p>
+  The M1911 became one of the most significant self-loading firearms of the 20th century.
+</p>
+
+<p>
+  The pistol uses the principle of <strong>short-recoil operation with a locked barrel and slide</strong> — a design developed by Browning that had an enormous influence on the evolution of self-loading pistols.
+</p>
+
+<p>
+  The standard M1911 uses a single-stack magazine holding <strong>seven cartridges</strong>.
+</p>
+
+<p>
+  The U.S. Army and the other branches of the U.S. armed forces used the M1911 and its modernized version, the <strong>M1911A1</strong>, for decades.
+</p>
+
+<p>
+  The U.S. Army lists the M1911 as its standard service handgun from <strong>1911 to 1985</strong>, when its replacement with 9 mm pistols began.
+</p>
+<h2>.45 ACP in Wartime</h2>
+
+<p>
+  The .45 ACP saw extensive military use during both World Wars, the Korean War, and the Vietnam War.
+</p>
+
+<p>
+  In addition to the M1911, the cartridge was used in a number of other firearms.
+</p>
+
+<p>Among the best-known examples are:</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li><strong>Colt M1911</strong></li>
+  <li><strong>Colt M1911A1</strong></li>
+  <li><strong>Thompson M1921/M1928</strong></li>
+  <li><strong>Thompson M1/M1A1</strong></li>
+  <li><strong>M3 "Grease Gun"</strong></li>
+  <li><strong>M1928A1</strong></li>
+</ul>
+
+<p>
+  The .45 ACP thus became not only a military pistol cartridge but also one of the most recognizable cartridges used in submachine guns.
+</p>
+
+<p>
+  The U.S. military, for example, used the Thompson and M3 in .45 ACP, and military museum collections document the use of 30-round magazines with these firearms.
+</p>
+
+<h2>Design and Characteristics</h2>
+
+<p>
+  The .45 ACP is a <strong>rimless cartridge with a cylindrical, slightly tapered case and centerfire ignition</strong>.
+</p>
+
+<p>
+  Unlike some older cartridges, in which the rim is used to position the cartridge in the chamber, the .45 ACP uses the <strong>case mouth</strong> to establish the correct headspacing.
+</p>
+
+<p>
+  The nominal bullet diameter is <strong>11.43 mm (.45 inch)</strong>.
+</p>
+
+<p>
+  The standard Ball bullet used by the U.S. military weighs approximately <strong>15 g (230 grains)</strong>. However, a vast number of other factory loads with different bullet weights and designs are available.
+</p>
+
+<p>
+  SAAMI maintains standardized dimensions and specifications for the .45 ACP.
+</p>
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The .45 ACP was not designed as a high-velocity cartridge.
+</p>
+
+<p>
+  Its core concept is the use of a <strong>heavy bullet at a moderate muzzle velocity</strong>.
+</p>
+
+<p>
+  The typical military bullet, weighing approximately <strong>15 g</strong>, achieves a muzzle velocity of around <strong>250–260 m/s</strong>, depending on the specific ammunition and test barrel.
+</p>
+
+<p>
+  With a 15 g bullet traveling at 255 m/s, the kinetic energy is approximately <strong>488 J</strong>.
+</p>
+
+<p>
+  Modern factory ammunition is available with a wide range of bullet designs and ballistic characteristics. Bullet weights of approximately <strong>11–15 g</strong> are common, while velocity and energy depend on the specific load.
+</p>
+
+<p>
+  For this reason, the .45 ACP should not be described using a single velocity or energy figure.
+</p>
+
+<h2>.45 ACP and Stopping Power</h2>
+
+<p>
+  The historical reputation of the .45 ACP is closely associated with its large bullet diameter and relatively high bullet weight.
+</p>
+
+<p>
+  The U.S. Army selected the .45-caliber firearm following accumulated combat experience and testing, during which the larger caliber was considered more suitable for a military service pistol.
+</p>
+
+<p>
+  This gradually established the .45 ACP's reputation as a powerful pistol cartridge.
+</p>
+
+<p>
+  However, historical assessments of "stopping power" should be distinguished from modern ballistic research. The effects of a bullet impact depend on multiple factors, including bullet design, the location of the impact, and the specific circumstances.
+</p>
+
+<h2>Adoption and Popularity</h2>
+
+<p>
+  After World War II, the .45 ACP was already widely used beyond the U.S. armed forces.
+</p>
+
+<p>
+  The cartridge became one of the most popular calibers for civilian, law enforcement, sporting, and collectible firearms.
+</p>
+
+<p>
+  Numerous designs from different manufacturers appeared.
+</p>
+
+<p>The best-known manufacturers include:</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "28px",
+    marginTop: "16px",
+    marginBottom: "28px",
+    fontSize: "20px",
+  }}
+>
+  <li><strong>Colt</strong></li>
+  <li><strong>Smith &amp; Wesson</strong></li>
+  <li><strong>Springfield Armory</strong></li>
+  <li><strong>Ruger</strong></li>
+  <li><strong>Para Ordnance</strong></li>
+  <li><strong>STI</strong></li>
+  <li><strong>Glock</strong></li>
+  <li><strong>Heckler &amp; Koch</strong></li>
+  <li><strong>SIG Sauer</strong></li>
+</ul>
+
+<p>
+  The variety of M1911-derived pistols is particularly extensive.
+</p>
+<h2>.45 ACP vs. 9×19 mm</h2>
+
+<p>
+  During the second half of the 20th century, the .45 ACP gradually began to lose its role as the primary American military pistol cartridge.
+</p>
+
+<p>
+  The main reasons were related to the ammunition's size and weight, the lower capacity of its magazines, and the drive for standardization within NATO.
+</p>
+
+<p>
+  During the 1980s, the United States transitioned to <strong>9×19 mm</strong>.
+</p>
+
+<p>
+  In the competition for a new service pistol, the <strong>Beretta 92</strong> was selected as the basis for the future M9. The U.S. Army identified NATO compatibility and the higher capacity of the 9 mm pistol as important characteristics.
+</p>
+
+<p>
+  The official replacement of the M1911A1 with the 9 mm Beretta began in 1985, and the M9 officially entered U.S. Army service in 1990.
+</p>
+
+<p>
+  This did not, however, mean the end of the .45 ACP.
+</p>
+
+<p>
+  On the contrary, the cartridge remains extremely popular among civilian shooters, law enforcement agencies, specialized military units, and pistol manufacturers.
+</p>
+<h2>Colt M1911 and TT-30/TT-33 — The American Predecessor and the Soviet Interpretation</h2>
+
+<p>
+  The TT-30 and TT-33 are often called the "Russian Colt" because of their similarities to the American Colt M1911. This description has some basis, but it does not fully explain the history of the Soviet pistol.
+</p>
+
+<p>
+  Developed by Soviet designer <strong>Fedor Tokarev</strong>, the TT incorporates principles from the designs of <strong>John Moses Browning</strong>, including the short-recoil system with a locked barrel and slide.
+</p>
+
+<p>
+  In the Colt M1911, the barrel tilts through the use of a movable link, whereas in the TT-33 the locking lugs were redesigned to simplify manufacturing. The TT-30 and TT-33 also differ from each other in several design details.
+</p>
+
+<p>
+  Tokarev retained the basic operating principle but modified the mechanisms and overall design to meet Soviet requirements. The TT thus became a distinct model rather than simply a copy of the M1911.
+</p>
+
+<p>
+  The two pistols were designed for different cartridges: the American pistol uses <strong>.45 ACP</strong>, while the Soviet pistol uses <strong>7.62×25 mm Tokarev</strong>.
+</p>
+
+<p>
+  Their similarities provide a telling example of the influence of Browning's design concepts on the development of self-loading pistols during the 20th century.
+</p>
+<h2>The .45 ACP Today</h2>
+
+<p>
+  Today, the .45 ACP remains one of the most recognizable pistol cartridges in the world.
+</p>
+
+<p>
+  It is manufactured by numerous companies and is available with a wide variety of bullets, ranging from classic <strong>Full Metal Jacket (FMJ)</strong> designs to various modern bullet constructions.
+</p>
+
+<p>
+  The cartridge remains particularly popular in the United States, where the history of the M1911 and American military firearms has created a strong tradition surrounding the .45 ACP.
+</p>
+
+<p>
+  Although 9×19 mm is more widespread as a modern military and law enforcement cartridge, the .45 ACP remains one of the most important pistol calibers in history.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  <strong>The .45 ACP is one of the few pistol cartridges to have remained relevant for more than a century after its introduction.</strong>
+</p>
+
+<p>
+  The cartridge was officially adopted in <strong>1911</strong>, was used in the M1911 during both World Wars and subsequent American conflicts, and continues to be manufactured and used in a vast number of civilian and service pistols today.
+</p>
+
+<p>
+  Its history is inseparably linked to <strong>John Browning, the Colt M1911, and American firearms of the 20th century</strong>.
+</p>
+<h2>Technical Specifications</h2>
+
+<TechnicalData
+  language="en"
+  title=".45 ACP"
+  data={[
+    ["Parameter", "Value"],
+    ["Designation", ".45 ACP"],
+    ["Full designation", ".45 Automatic Colt Pistol"],
+    ["Metric designation", "11.43×23 mm"],
+    ["Other designations", ".45 Auto, .45 Automatic"],
+    ["Type", "Pistol cartridge"],
+    ["Origin", "United States"],
+    ["Developer", "John Moses Browning / Colt"],
+    ["Year adopted", "1911"],
+    ["Case length", "approximately 22.8 mm"],
+    ["Overall cartridge length", "approximately 32.4 mm"],
+    ["Bullet diameter", "11.43 mm"],
+    ["Case type", "Rimless, cylindrical, slightly tapered"],
+    ["Primer type", "Centerfire"],
+    ["Bullet weight", "approximately 11–15 g*"],
+    ["Muzzle velocity", "approximately 250–370 m/s*"],
+    ["Muzzle energy", "approximately 450–700 J*"],
+    ["Main historical firearms", "Colt M1911, M1911A1, Thompson, M3"],
+    ["Modern firearms", "Numerous models from Colt, Glock, SIG Sauer, Heckler & Koch, Smith & Wesson, Springfield, and others"],
+  ]}
+/>
+
+<p>
+  * Ballistic performance depends on the specific ammunition, bullet weight and design, and barrel length. The stated range covers different factory loads and does not represent the performance of a single specific standard cartridge. The dimensions and technical specifications of the .45 ACP are standardized by SAAMI.
+</p>
+</Section>
+<Section
+  id="12-7x33-50-action-express"
+  title="12.7×33 mm .50 Action Express (.50 AE)"
+>
+  <img
+    src="/images/calibers/cartridges/12.7×33 _ .50 AE.png"
+    alt="12.7×33 mm .50 Action Express (.50 AE)"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+<p>
+  <em>
+    One of the most powerful commercially produced handgun cartridges in the world and the ammunition that turned the Desert Eagle into a symbol of immense firepower.
+  </em>
+</p>
+<p>
+  <strong>.50 Action Express (.50 AE)</strong> is an American handgun cartridge developed in <strong>1988 by Evan Whildin</strong> of <strong>Action Arms</strong>. It was designed for use in powerful semiautomatic pistols and is now most closely associated with the <strong>Desert Eagle</strong>.
+</p>
+
+<p>
+  The cartridge uses a bullet with a nominal diameter of <strong>.50 inch (12.7 mm)</strong> and is among the most powerful mass-produced cartridges designed for semiautomatic pistols. Depending on the specific load, its muzzle energy can exceed <strong>1,500 J</strong>, with some loads reaching approximately 2,000 J.
+</p>
+<h2>Development History</h2>
+
+<p>
+  During the 1980s, interest grew in developing extremely powerful semiautomatic pistols capable of using ammunition that had previously been associated primarily with revolvers.
+</p>
+
+<p>
+  One of the best-known firearms of this type is the <strong>Desert Eagle</strong>, a design developed by Magnum Research and initially manufactured in Israel by <strong>Israel Military Industries (IMI)</strong>.
+</p>
+
+<p>
+  In <strong>1988, Evan Whildin</strong> developed the new .50 Action Express. The main objective was to create an extremely powerful handgun cartridge with a .50-caliber bullet while ensuring that its design was compatible with the existing Desert Eagle platform.
+</p>
+
+<p>
+  This brings us to one of the most interesting features of the .50 AE.
+</p>
+<h2>The Desert Eagle</h2>
+
+<img
+  src="/images/calibers/cartridges/Desert eagle.png"
+  alt="Desert Eagle"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<h2>The Connection with .44 Magnum</h2>
+
+<p>
+  When developing the .50 AE, Whildin took into account the dimensions of the <strong>.44 Remington Magnum</strong>, which was already used in the Desert Eagle.
+</p>
+
+<p>
+  The .50 AE features a <strong>rebated rim—a case head with a smaller diameter than the main body of the case</strong>. Its rim diameter is approximately the same as that of the .44 Magnum.
+</p>
+
+<p>
+  This allows the .50 AE to use the same bolt face as the .44 Magnum in the corresponding Desert Eagle variants. On <strong>Mark XIX</strong> models, switching between .44 Magnum and .50 AE can be accomplished by changing the barrel and magazine without replacing the bolt assembly.
+</p>
+
+<p>
+  This is an exceptionally practical engineering solution.
+</p>
+
+<p>
+  Rather than designing an entirely new pistol for the new cartridge, the existing platform could be adapted to accommodate it.
+</p>
+<h2>The Desert Eagle and .50 AE</h2>
+
+<p>
+  The .50 AE cartridge has become inseparably associated with the <strong>Desert Eagle</strong>.
+</p>
+
+<p>
+  The Desert Eagle was initially offered in <strong>.357 Magnum</strong> and later in <strong>.44 Magnum</strong>. Following the introduction of the .50 AE, an even more powerful variant became available.
+</p>
+
+<p>
+  The combination of the Desert Eagle's imposing silhouette and the .50 AE cartridge turned the platform into one of the most recognizable firearm-and-ammunition pairings in the world.
+</p>
+
+<p>
+  The modern <strong>Desert Eagle Mark XIX</strong> is available in several powerful calibers, including .357 Magnum, .44 Magnum, and .50 AE.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The .50 AE is a <strong>rimless cartridge with a rebated rim, a cylindrical case, and centerfire ignition</strong>.
+</p>
+
+<p>
+  The case is approximately <strong>32.6 mm</strong> long, while the overall cartridge length is approximately <strong>40.9 mm</strong>.
+</p>
+
+<p>
+  The bullet has a nominal diameter of <strong>.500 inch</strong>, or approximately <strong>12.7 mm</strong>.
+</p>
+
+<p>
+  Interestingly, despite its “.50” designation, the bullet diameter should not be confused with that of certain other .50-caliber cartridges. For example, the .50 AE uses a bullet measuring approximately <strong>.500 inch</strong>, whereas some other powerful .50-caliber cartridges use bullets with diameters of around <strong>.510–.512 inch</strong>.
+</p>
+
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  The .50 AE was designed to deliver high muzzle energy.
+</p>
+
+<p>
+  Depending on the specific load, bullet weights typically range from approximately <strong>19–21 g</strong>, while muzzle velocities are generally around <strong>420–470 m/s</strong>.
+</p>
+
+<p>
+  For example, a bullet weighing <strong>19.4 g</strong> traveling at <strong>430 m/s</strong> has a kinetic energy of approximately <strong>1,795 J</strong>.
+</p>
+
+<p>
+  Some factory loads are listed with even higher figures. This places the .50 AE among the most powerful commercially produced cartridges used in semiautomatic pistols.
+</p>
+
+<h2>.50 AE vs. .44 Magnum</h2>
+
+<p>
+  A comparison between the .50 AE and .44 Magnum is inevitable, as the two cartridges are connected both historically and mechanically through the Desert Eagle platform.
+</p>
+
+<p>
+  Both can achieve very high muzzle energy, although their actual performance depends on bullet weight, the specific load, and barrel length.
+</p>
+
+<p>
+  The .50 AE uses a larger-diameter bullet and typically delivers very high energy with a relatively heavy projectile.
+</p>
+
+<p>
+  However, it is important not to claim that the .50 AE is <strong>always</strong> twice as powerful as the .44 Magnum. Actual performance depends on the specific factory loads and barrels involved.
+</p>
+
+<h2>Other Firearms</h2>
+
+<p>
+  Although the Desert Eagle is the best-known firearm chambered for the .50 AE, the cartridge is not limited to this platform.
+</p>
+
+<p>
+  Other firearms chambered for the .50 AE include the <strong>AMT Automag V</strong>, and the cartridge has also been used in some large-frame revolvers.
+</p>
+
+<p>
+  Another notable example is the <strong>L.A.R. Grizzly</strong>, which is based on the 1911 design and adapted for powerful ammunition.
+</p>
+
+<p>
+  The .50 AE has also been used in revolvers such as the <strong>Freedom Arms Model 83</strong> and the <strong>Magnum Research BFR</strong>, demonstrating that the cartridge is not mechanically limited to semiautomatic pistols.
+</p>
+<h2>Recoil and Practical Use</h2>
+
+<p>
+  The immense power of the .50 AE comes at a cost: <strong>substantial recoil</strong>.
+</p>
+
+<p>
+  In the Desert Eagle, recoil is particularly noticeable because of the bullet's high mass and the cartridge's considerable muzzle energy. However, the firearm itself is heavy and uses a gas-operated action, which helps manage part of the recoil impulse through the movement of the mechanism.
+</p>
+
+<p>
+  Nevertheless, the .50 AE is not a typical service-pistol cartridge.
+</p>
+
+<p>
+  Its large dimensions, the weight of the firearm, the high cost of ammunition, and substantial recoil make it primarily a specialized caliber for sport shooting, handgun hunting, and collectible firearms.
+</p>
+
+<h2>Why Is the .50 AE So Famous?</h2>
+
+<p>
+  The popularity of the .50 AE is not based on its ballistic performance alone.
+</p>
+
+<p>
+  The cartridge emerged at a time when the Desert Eagle was becoming a symbol of the “Magnum” semiautomatic pistol. The firearm's enormous size and the impressive dimensions of the cartridge made it particularly appealing to popular culture.
+</p>
+
+<p>
+  The Desert Eagle and .50 AE have appeared repeatedly in films, television productions, and video games.
+</p>
+
+<p>
+  As a result, the .50 AE has become one of the most recognizable handgun cartridges, even among people who have never been interested in its technical characteristics.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  The .50 Action Express continues to be manufactured today.
+</p>
+
+<p>
+  Its primary applications remain large sporting and hunting pistols, as well as collectible firearms.
+</p>
+
+<p>
+  Its best-known platform remains the <strong>Desert Eagle</strong>, which continues to be manufactured by Magnum Research. The company still lists the Desert Eagle among its principal products.
+</p>
+
+<p>
+  The .50 AE remains a niche cartridge, but it occupies a unique place in the history of handgun ammunition: <strong>one of the most powerful commercially produced cartridges specifically designed for a semiautomatic pistol</strong>.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  The development of the .50 AE involved a particularly clever engineering solution.
+</p>
+
+<p>
+  <strong>The rim diameter was designed to match that of the .44 Magnum</strong>, even though the main body of the case is significantly larger.
+</p>
+
+<p>
+  This allows the .50 AE to be integrated into the Desert Eagle platform without requiring an entirely new bolt mechanism. On the corresponding Mark XIX variants, switching between .44 Magnum and .50 AE involves changing the barrel and magazine.
+</p>
+
+<p>
+  This feature is one of the reasons the .50 AE became such a successful partner for the Desert Eagle.
+</p>
+<h2>Technical Specifications</h2>
+
+<TechnicalData
+  title=".50 Action Express"
+  language="en"
+  data={[
+    ["Specification", "Value"],
+    ["Designation", ".50 Action Express"],
+    ["Metric designation", "12.7×33 mm"],
+    ["Other designation", ".50 AE"],
+    ["Type", "Handgun cartridge"],
+    ["Country of origin", "United States"],
+    ["Developer", "Evan Whildin / Action Arms"],
+    ["Year developed", "1988"],
+    ["Case type", "Rimless, rebated rim"],
+    ["Case length", "Approximately 32.6 mm"],
+    ["Overall cartridge length", "Approximately 40.9 mm"],
+    ["Bullet diameter", "Approximately 12.7 mm"],
+    ["Ignition", "Centerfire"],
+    ["Bullet weight", "Approximately 19–21 g*"],
+    ["Muzzle velocity", "Approximately 420–470 m/s*"],
+    ["Muzzle energy", "Approximately 1,600–2,000 J*"],
+    ["Primary firearm", "Desert Eagle"],
+    ["Other firearms", "AMT Automag V, L.A.R. Grizzly, Freedom Arms Model 83, Magnum Research BFR"],
+  ]}
+/>
+
+<p>
+  * Ballistic characteristics depend on the specific cartridge, bullet weight and design, and barrel length. Significant differences in velocity and muzzle energy can occur between factory loads. For example, a bullet weighing approximately 19.4 g and traveling at 430 m/s produces about 1.8 kJ of energy.
+</p>
+</Section>
+<Section
+  id="2-7x9-kolibri"
+  title="2.7×9 mm Kolibri"
+>
+  <img
+    src="/images/calibers/cartridges/2.7x9 kolibri.png"
+    alt="2.7×9 mm Kolibri"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+<p>
+  <em>
+    The tiny cartridge that proves human ingenuity has very little sense of proportion.
+  </em>
+</p>
+<p>
+  <strong>2.7×9 mm Kolibri</strong>, also known as the <strong>2 mm Kolibri</strong>, is one of the most unusual handgun cartridges in history. It is the smallest commercially produced <strong>centerfire cartridge</strong> and was designed specifically for the miniature <strong>Kolibri</strong> pistol, developed by Austrian watchmaker and inventor <strong>Franz Pfannl</strong>.
+</p>
+
+<p>
+  This is not a cartridge with any significant military or practical importance. On the contrary, the 2.7 mm Kolibri is primarily a testament to just how far the pursuit of miniaturization can go.
+</p>
+
+<p>
+  And while with most cartridges featured on GunsAtlas we usually ask <strong>“How powerful is it?”</strong>, with the Kolibri the question is more likely to be <strong>“Why would anyone make this in the first place?”</strong>
+</p>
+
+<p>
+  The answer is simple: in the early 20th century, there was interest in making the smallest possible firearms for personal carry. Franz Pfannl decided to take things one step further—and created a pistol so small that it almost resembles a watchmaker's tool.
+</p>
+
+<h2>Development History</h2>
+
+<p>
+  Franz Pfannl was an Austrian watchmaker and inventor known for creating a series of miniature firearms.
+</p>
+
+<p>
+  The <strong>2.7 mm Kolibri</strong> cartridge was patented in <strong>1910</strong>, and the pistol and its ammunition were introduced to the market in <strong>1914</strong>. Pfannl received financial support from <strong>Georg Grabner</strong>.
+</p>
+
+<p>
+  The cartridge was developed specifically for the miniature Kolibri pistol, which was marketed for <strong>self-defense and concealed carry</strong>.
+</p>
+
+<p>
+  The name <strong>Kolibri</strong> comes from the German word for <strong>hummingbird</strong>, one of the smallest birds in the world. The name was clearly chosen deliberately: the size of the firearm and its cartridge really does justify the comparison.
+</p>
+<h2>The Smallest Production Cartridge</h2>
+
+<p>
+  The 2.7×9 mm Kolibri occupies a special place in the history of ammunition.
+</p>
+
+<p>
+  It is considered the <strong>smallest commercially produced centerfire cartridge</strong>. Its bullet diameter is only about <strong>2.7 mm</strong>, and the entire cartridge measures approximately <strong>11 mm</strong> in length.
+</p>
+
+<p>
+  For comparison, the overall length of the cartridge is shorter than the case length of many modern handgun cartridges.
+</p>
+
+<p>
+  This is one of those cases where the technical specifications look almost like a typographical error.
+</p>
+<h2>The Kolibri Pistol</h2>
+
+<img
+  src="/images/calibers/cartridges/Kolibri Pistol.png"
+  alt="Kolibri pistol"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "30px auto",
+  }}
+/>
+<p>
+  <em>
+    For a size comparison, the larger cartridge in the image is the .50 Action Express (.50 AE).
+  </em>
+</p>
+<p>
+  The pistol is exceptionally small and lightweight. It was designed for maximum compactness and concealed carry.
+</p>
+
+<p>
+  Both <strong>semiautomatic versions</strong> and single-shot variants were produced. The semiautomatic model uses a simple <strong>blowback action</strong>, and its barrel is fixed.
+</p>
+
+<p>
+  At such a small caliber, conventional engineering solutions become a serious challenge. The components are so tiny that even handling the cartridges is rather inconvenient.
+</p>
+
+<p>
+  The pistol was manufactured until approximately <strong>1938</strong>, with total production estimated at around <strong>1,000 units</strong>.
+</p>
+<h2>Design and Characteristics</h2>
+
+<p>
+  The 2.7×9 mm Kolibri is a <strong>rimless cartridge with a cylindrical case and centerfire ignition</strong>.
+</p>
+
+<p>
+  The case is approximately <strong>9.4 mm</strong> long, while the overall cartridge length is about <strong>11 mm</strong>. The bullet diameter is approximately <strong>2.7 mm</strong>.
+</p>
+
+<p>
+  The bullet is exceptionally small, weighing around <strong>0.2 g</strong>, or approximately 3 gr.
+</p>
+
+<p>
+  At such a miniature caliber, manufacturing precise components presents a significant technical challenge. Loading and handling the ammunition are also inconvenient because of its extremely small dimensions.
+</p>
+
+<h2>Ballistic Characteristics</h2>
+
+<p>
+  This is where the Kolibri becomes even more unusual.
+</p>
+
+<p>
+  With a bullet weighing approximately <strong>0.2 g</strong>, the reported muzzle velocity is around <strong>200 m/s</strong>. This corresponds to a muzzle energy of approximately <strong>4 J</strong>.
+</p>
+
+<p>
+  Some reference sources list slightly different figures, such as approximately <strong>213 m/s</strong> and around <strong>3 J</strong>. These differences are related to the particular source and measurement conditions.
+</p>
+
+<p>
+  In every case, the conclusion is the same: <strong>the 2.7 mm Kolibri is an exceptionally weak handgun cartridge</strong>.
+</p>
+
+<p>
+  Its muzzle energy is many times lower than that of even the weakest standard modern handgun cartridges.
+</p>
+
+<h2>What About Accuracy?</h2>
+
+<p>
+  The designers faced another problem here.
+</p>
+
+<p>
+  With such a small diameter, manufacturing conventional rifling inside the barrel is extremely difficult. As a result, Kolibri barrels are found <strong>without rifling</strong>, meaning the bullet does not receive stabilization through rotation around its longitudinal axis.
+</p>
+
+<p>
+  Consequently, accuracy is limited.
+</p>
+
+<p>
+  The result is a miniature firearm that is impressive as a feat of engineering but difficult to regard as particularly effective for practical self-defense.
+</p>
+<h2>How Powerful Is the Kolibri, Really?</h2>
+
+<p>
+  This is the point at which we return to the original question.
+</p>
+
+<p>
+  A muzzle energy of approximately <strong>4 J</strong> is extremely low for a firearm.
+</p>
+
+<p>
+  Historical sources indicate that the bullet could penetrate relatively thin wooden materials, but its practical effectiveness against a person was severely limited.
+</p>
+
+<p>
+  Claims that the cartridge could not penetrate a leather jacket or thick clothing should therefore be treated with caution. This is not a universal characteristic that can be established for every type of clothing or under all conditions.
+</p>
+
+<p>
+  It is more accurate to say that <strong>the cartridge was extremely weak even by the standards of its own time</strong>.
+</p>
+
+<p>
+  Nevertheless, this does not mean it was safe. As a firearm, it could still cause injury.
+</p>
+
+<h2>Why Was It Created in the First Place?</h2>
+
+<p>
+  The answer lies in the period's fascination with miniature firearms.
+</p>
+
+<p>
+  In the late 19th and early 20th centuries, there was a market for exceptionally small pistols intended for discreet carry.
+</p>
+
+<p>
+  With the Kolibri, this concept was taken to the extreme.
+</p>
+
+<p>
+  Rather than seeking a balance between size, power, and practicality, Pfannl placed <strong>miniaturization</strong> above all else.
+</p>
+
+<p>
+  In that respect, he certainly succeeded.
+</p>
+
+<p>
+  The result was a genuine engineering marvel: a functioning semiautomatic centerfire pistol so small that it looks almost like a toy.
+</p>
+
+<p>
+  Except that it isn't.
+</p>
+<h2>The End of Production</h2>
+
+<p>
+  The Kolibri never became a widely adopted firearm.
+</p>
+
+<p>
+  Its combination of extremely small dimensions, difficult cartridge handling, low power, and limited practical effectiveness prevented the system from gaining widespread acceptance.
+</p>
+
+<p>
+  Production of the pistol and Pfannl's related miniature firearms ended around <strong>1938</strong>.
+</p>
+
+<p>
+  Today, original pistols and cartridges are valued primarily as <strong>collectibles</strong>.
+</p>
+
+<h2>Interesting Fact</h2>
+
+<p>
+  If GunsAtlas were to rank cartridges by bullet diameter, the Kolibri would be one of those entries that might make someone look at the table and assume a digit had been left out.
+</p>
+
+<p>
+  <strong>2.7 mm.</strong>
+</p>
+
+<p>
+  That's it.
+</p>
+
+<p>
+  The bullet is approximately <strong>one-quarter the diameter of a 9 mm bullet</strong>, and the entire system was developed in an era when miniaturizing mechanical devices presented an impressive technical challenge.
+</p>
+
+<p>
+  Perhaps the most accurate description of the Kolibri is:
+</p>
+
+<p>
+  <strong>“A cartridge that was never meant to be powerful—it was meant to be small.”</strong>
+</p>
+
+<p>
+  And in that respect, the objective was achieved brilliantly.
+</p>
+
+<h2>The Cartridge Today</h2>
+
+<p>
+  The 2.7×9 mm Kolibri has not been used as practical ammunition for many decades.
+</p>
+
+<p>
+  Original cartridges are rare, and the firearms designed for them are sought after by collectors.
+</p>
+
+<p>
+  The historical significance of the Kolibri is not related to military use or ballistic performance. It lies in the fact that, more than a century ago, a designer managed to create a <strong>functioning centerfire firearm with dimensions that seem almost unbelievable today</strong>.
+</p>
+
+<p>
+  That is why the Kolibri deserves a place on GunsAtlas—not as a serious cartridge, but as a <strong>small, fascinating, and rather amusing chapter in the history of firearms engineering</strong>.
+</p>
+<h2>Technical Specifications</h2>
+
+<TechnicalData
+  title="2.7×9 mm Kolibri"
+  language="en"
+  data={[
+    ["Specification", "Value"],
+    ["Designation", "2.7×9 mm Kolibri"],
+    ["Other designations", "2 mm Kolibri, 2.7 mm Kolibri Car Pistol"],
+    ["Type", "Handgun cartridge"],
+    ["Country of origin", "Austria-Hungary"],
+    ["Developer", "Franz Pfannl"],
+    ["Patent year", "1910"],
+    ["Introduced to the market", "1914"],
+    ["Case type", "Rimless, cylindrical"],
+    ["Case length", "Approximately 9.4 mm"],
+    ["Overall cartridge length", "Approximately 11 mm"],
+    ["Bullet diameter", "Approximately 2.7 mm"],
+    ["Ignition", "Centerfire"],
+    ["Bullet weight", "Approximately 0.2 g"],
+    ["Muzzle velocity", "Approximately 200–213 m/s*"],
+    ["Muzzle energy", "Approximately 3–4 J*"],
+    ["Primary firearm", "Kolibri"],
+    ["System production period", "Approximately 1914–1938"],
+    ["Estimated number of pistols produced", "Approximately 1,000"],
+  ]}
+/>
+
+<p>
+  * Ballistic figures vary depending on the historical source and measurement conditions. The reported velocity of approximately <strong>200 m/s with a 0.2 g bullet</strong> corresponds to a muzzle energy of approximately <strong>4 J</strong>.
+</p>
+</Section>
   <Divider />
 
 
