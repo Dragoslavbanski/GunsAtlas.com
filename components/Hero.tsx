@@ -1,10 +1,13 @@
 import Image from "next/image";
 import styles from "./Hero.module.css";
 
-export default function Hero() {
+export default function Hero({
+  lang = "bg",
+}: {
+  lang?: "bg" | "en";
+}) {
   return (
     <section className={styles.hero}>
-
       {/* Background image */}
       <div className={styles.imageWrapper}>
         <Image
@@ -26,15 +29,14 @@ export default function Hero() {
       {/* Content */}
       <div className={styles.container}>
         <div className={styles.content}>
-
           <span className={styles.subtitle}>
             FIREARMS ENCYCLOPEDIA
           </span>
 
           <h1 className={styles.title}>
-  <span className={styles.guns}>Guns</span>
-  <span className={styles.atlas}>Atlas</span>
-</h1>
+            <span className={styles.guns}>Guns</span>
+            <span className={styles.atlas}>Atlas</span>
+          </h1>
 
           <p className={styles.description}>
             Explore the history, development and technical characteristics of
@@ -42,24 +44,24 @@ export default function Hero() {
           </p>
 
           <div className={styles.search}>
-
             <input
               type="text"
-              placeholder="Search pistols, calibers, manufacturers..."
+              placeholder={
+                lang === "en"
+                  ? "Search pistols, calibers, manufacturers..."
+                  : "Търси пистолети, калибри, производители..."
+              }
             />
 
             <button
               type="button"
-              aria-label="Search"
+              aria-label={lang === "en" ? "Search" : "Търси"}
             >
               🔍
             </button>
-
           </div>
-
         </div>
       </div>
-
     </section>
   );
 }

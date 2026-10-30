@@ -1,4 +1,4 @@
-const theoryItems = [
+export const theoryItems = [
   {
     id: "what-is-caliber",
     title: "Какво представлява калибърът?",
@@ -41,7 +41,7 @@ const theoryItems = [
 },
 ];
 
-const rimfireItems = [
+ export const rimfireItems = [
   
   {
     id: "flobert",
@@ -64,7 +64,7 @@ const rimfireItems = [
     title: ".22 Winchester Magnum Rimfire (.22 WMR)",
   },
 ];
-const centerfireItems = [
+export const centerfireItems = [
   {
     id: "5-45x18-mpc",
     title: "5.45×18 mm МПЦ",
@@ -74,9 +74,13 @@ const centerfireItems = [
     title: "5.7×28 mm (SS190)",
   },
   {
-    id: "6-35x15-5-browning",
-    title: "6.35×15.5 mm HR (6.35 Browning / .25 ACP)",
-  },
+  id: "6-35-browning",
+  title: "6.35×15.5 mm HR (6.35 Browning / .25 ACP)",
+},
+{
+  id: "7-5x27-fk",
+  title: "7,5 × 27 FK",
+},
   {
     id: "7-62x25-tokarev",
     title: "7.62×25 mm Tokarev",

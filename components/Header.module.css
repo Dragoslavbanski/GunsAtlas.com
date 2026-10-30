@@ -38,7 +38,11 @@
 
  margin-left: 0px;
 
-  gap: 33px;
+  gap: 23px;
+}
+.navigationEn {
+  flex: 1;
+  justify-content: space-evenly;
 }
 
 .navigation a {

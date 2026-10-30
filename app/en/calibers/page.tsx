@@ -2538,7 +2538,313 @@ export default function EnglishCalibersPage() {
     and 86 J</strong> are reported.
   </p>
 </Section>
- 
+ <Section
+  id="7-5x27-fk"
+  title="7.5 × 27 FK"
+>
+  <img
+    src="/images/calibers/cartridges/7.5×27 mm FK.png"
+    alt="7.5 × 27 FK"
+    style={{
+      width: "41%",
+      height: "auto",
+      display: "block",
+      margin: "0 auto 30px auto",
+    }}
+  />
+  
+<p>
+  <em>
+    The 7.5 FK is a modern handgun cartridge developed by the Czech company
+    FK BRNO to deliver ballistic performance exceeding that of traditional
+    handgun ammunition. It features a bottlenecked case, high muzzle velocity,
+    and significant bullet velocity retention over distance. The cartridge
+    was specifically designed for pistols engineered to withstand the loads
+    associated with its performance and is best known for its use in the
+    FK BRNO Field Pistol.
+  </em>
+</p>
+<h3>History and Development</h3>
+
+<p>
+  Development of the <strong>7.5 FK</strong> began around 2010 at the request
+  of a private client seeking a new cartridge for specialized applications.
+  The aim was to overcome some of the limitations of traditional handgun
+  cartridges by combining the compactness of a handgun with ballistic
+  performance approaching that of certain carbine cartridges.
+</p>
+<p>
+  After the original order was discontinued, development continued because
+  testing showed potential for precision shooting at longer distances. The
+  project was taken over by the Czech company <strong>FK BRNO</strong>,
+  which developed both the cartridge and a pistol specifically designed for it.
+</p>
+
+<p>
+  The cartridge was publicly introduced in <strong>2015</strong> alongside
+  the <strong>FK BRNO Field Pistol</strong>. The two developments are closely
+  related: the firearm was designed around the dimensions and ballistic
+  characteristics of the <strong>7.5 FK</strong>, while the cartridge was
+  intended to operate as part of a specialized firearms system.
+</p>
+
+<p>
+  Unlike widely available handgun cartridges that can be used in numerous
+  firearm models, the <strong>7.5 FK</strong> is a proprietary development
+  by FK BRNO and requires a compatible firearm specifically designed for it.
+  The cartridge has been registered and standardized by the Permanent
+  International Commission for the Proof of Small Arms (<strong>C.I.P.</strong>).
+</p>
+
+<h3>Design and Features</h3>
+
+<p>
+  The <strong>7.5 FK</strong> uses a rimless, bottlenecked case. It has a
+  relatively long cylindrical body, a narrowed forward section, and a
+  shoulder that transitions into the case neck. This design allows a bullet
+  with a diameter of approximately <strong>7.8 mm</strong> to be used in a
+  cartridge with a maximum overall length of approximately
+  <strong>35 mm</strong>.
+</p>
+
+<p>
+  The cartridge was developed as a purpose-built design rather than as a
+  conventional variant of another widely used cartridge with a reduced bullet
+  diameter. The case is designed to withstand high operating pressures, which
+  is essential to achieving its stated ballistic performance.
+</p>
+
+<p>
+  One of the main features of the <strong>7.5 FK</strong> is the combination
+  of a relatively lightweight bullet with high muzzle velocity. This allows
+  the cartridge to retain a significant proportion of its velocity and energy
+  at distances that are unusual for typical handgun use.
+</p>
+
+<p>
+  Due to its specific dimensions and operating characteristics, the cartridge
+  is not intended for use in standard pistols, even when their nominal caliber
+  appears similar. A firearm system designed and tested specifically for this
+  cartridge is required.
+</p>
+
+<h3>Ballistic Characteristics</h3>
+
+<p>
+  The manufacturer lists a muzzle velocity of approximately
+  <strong>610 m/s</strong> for certain versions of the <strong>7.5 FK</strong>.
+  Some published data indicate a bullet velocity of approximately
+  <strong>465 m/s</strong> at <strong>100 m</strong>. This represents
+  substantial velocity retention compared with many traditional handgun
+  cartridges.
+</p>
+
+<p>
+  The manufacturer's published muzzle energy reaches approximately
+  <strong>1200 J</strong>, while a value of around <strong>700 J</strong>
+  is cited at <strong>100 m</strong>. These figures depend on the specific
+  cartridge variant and bullet used, so they should be regarded as published
+  ballistic data rather than universal values for all loads.
+</p>
+
+<p>
+  The relatively high velocity contributes to a flatter trajectory compared
+  with many traditional handgun cartridges. Combined with a suitably designed
+  firearm, this allows the system to be used for precision shooting at longer
+  distances.
+</p>
+
+<p>
+  It is important to distinguish the ballistic characteristics of the
+  cartridge itself from the accuracy of a particular firearm. Actual results
+  also depend on the pistol's design, barrel, sights, ammunition used, and
+  shooting conditions.
+</p>
+
+<h3>Bullet Types</h3>
+
+<p>
+  Different versions of the <strong>7.5 FK</strong> have been developed for
+  various applications. The variants published by the manufacturer include:
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "30px",
+    fontSize: "1.1em",
+    marginBottom: "35px",
+  }}
+>
+  <li>
+    <strong>Monolithic hollow-point bullet</strong> — made from a single piece
+    of metal, with a cavity in the front.
+  </li>
+  <li>
+    <strong>Jacketed hollow-point (JHP) bullet</strong> — featuring a hollow
+    point and a design intended to influence its behavior upon impact.
+  </li>
+  <li>
+    <strong>Monolithic flat-nose bullet</strong> — a variant with a different
+    front-end shape, designed to provide specific terminal ballistic
+    characteristics.
+  </li>
+</ul>
+
+<p>
+  The individual variants differ in mass, shape, and behavior upon impact.
+  Therefore, velocity and energy figures should not automatically be
+  transferred from one bullet type to another.
+</p>
+
+<h3>Purpose and Use</h3>
+
+<p>
+  The <strong>7.5 FK</strong> was developed for specialized pistols where high
+  velocity, good accuracy, and the retention of ballistic performance at
+  longer distances are desired. The manufacturer positions it for both
+  sporting use and other applications requiring a similar ballistic profile.
+</p>
+
+<p>
+  Its primary role is associated with firearms made by <strong>FK BRNO</strong>,
+  particularly the <strong>Field Pistol</strong> and later models designed
+  to use this cartridge. Unlike widely available ammunition such as
+  <strong>9×19 mm Parabellum</strong>, the <strong>7.5 FK</strong> remains a
+  specialized cartridge with limited compatibility and a narrower range of use.
+</p>
+
+<h3>Brno Field</h3>
+
+<img
+  src="/images/calibers/cartridges/Brno Field 7.5×27 FK Catalog Plate.png"
+  alt="Brno Field — pistol chambered for the 7.5 FK cartridge"
+  style={{
+    width: "45%",
+    height: "auto",
+    display: "block",
+    margin: "0 auto 30px auto",
+  }}
+/>
+<p>
+  It represents an example of a modern concept in which the ammunition and
+  firearm are developed as an integrated system, rather than adapting the
+  cartridge to an existing design.
+</p>
+
+<h3>Advantages and Limitations</h3>
+
+<p>
+  <strong>Main Features and Advantages:</strong>
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "30px",
+    fontSize: "1.1em",
+    marginBottom: "35px",
+  }}
+>
+  <li>High muzzle velocity for a handgun cartridge.</li>
+  <li>Substantial bullet velocity retention over distance.</li>
+  <li>Available with different bullet designs.</li>
+  <li>
+    Developed as part of a specialized system for precision shooting
+    at longer distances.
+  </li>
+</ul>
+
+<p>
+  <strong>Limitations:</strong>
+</p>
+
+<ul
+  style={{
+    listStyleType: "disc",
+    paddingLeft: "30px",
+    fontSize: "1.1em",
+    marginBottom: "35px",
+  }}
+>
+  <li>A compatible pistol specifically designed for the cartridge is required.</li>
+  <li>Limited availability compared with mainstream handgun calibers.</li>
+  <li>
+    The cartridge's specialized nature limits the choice of firearms
+    and its availability in different markets.
+  </li>
+  <li>
+    Ballistic performance varies according to the specific bullet and
+    ammunition variant.
+  </li>
+</ul>
+
+<h3>Firearms Chambered for 7.5 FK</h3>
+
+<p>
+  The <strong>FK BRNO Field Pistol</strong> is the pistol with which the
+  cartridge was publicly introduced. The firearm was designed specifically
+  around the <strong>7.5 FK</strong> and features a dedicated design with a
+  locking mechanism and a system intended to reduce perceived recoil.
+</p>
+
+<p>
+  The <strong>FK BRNO PSD</strong> is a later model developed as a
+  multi-caliber pistol system. In its primary configuration, it uses the
+  <strong>7.5 FK</strong> and is also available with the option of using
+  other cartridges through the appropriate compatible components.
+</p>
+
+<h3>Significance and Current Status</h3>
+
+<p>
+  The <strong>7.5 FK</strong> is a relatively niche cartridge, but it occupies
+  an interesting place in the development of modern handgun ammunition. It
+  demonstrates the efforts of some manufacturers to expand the capabilities
+  of short-barreled firearms beyond traditional limitations in terms of
+  velocity, trajectory, and effective range.
+</p>
+
+<p>
+  Unlike cartridges that become international standards and are used in
+  hundreds of firearm models, the <strong>7.5 FK</strong> remains closely
+  associated with a specific manufacturer and specially designed pistols.
+  This specialization is both its distinguishing feature and the main
+  limitation on its wider adoption.
+</p>
+
+<TechnicalData
+  title="7.5 FK"
+  data={[
+    ["Country of origin", "Czech Republic"],
+    ["Developer", "FK BRNO"],
+    ["Public introduction", "2015"],
+    ["Type", "Handgun cartridge"],
+    ["Official designation", "7.5 FK"],
+    ["Alternative designation", "7.5×27 mm FK"],
+    ["Bullet diameter", "Approximately 7.8 mm"],
+    ["Case length", "Approximately 27 mm"],
+    ["Cartridge overall length", "Approximately 35 mm"],
+    ["Case base diameter", "Approximately 10.8 mm"],
+    ["Case type", "Rimless, bottlenecked"],
+    ["Bullet weight", "Approximately 6.16 g (95 gr) or 6.54 g (101 gr)"],
+    ["Muzzle velocity", "Up to approximately 610 m/s according to published data for certain variants"],
+    ["Muzzle energy", "Up to approximately 1200 J according to the manufacturer's data"],
+    ["Velocity at 100 m", "Approximately 465 m/s according to the manufacturer's data"],
+    ["Energy at 100 m", "Approximately 700 J according to the manufacturer's data"],
+    ["Known firearms", "FK BRNO Field Pistol, FK BRNO PSD"],
+  ]}
+/>
+
+<p>
+  <em>
+    Note: Ballistic performance depends on the specific ammunition and
+    measurement conditions. Velocity and energy figures are presented
+    according to the manufacturer's published data.
+  </em>
+</p>
+
+</Section>
 <Section
   id="7-62x25-tokarev"
   title="7.62×25 mm Tokarev"

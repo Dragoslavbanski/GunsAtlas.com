@@ -6,7 +6,7 @@ export default function EnglishHome() {
   return (
     <>
       <Header lang="en" />
-      <Hero />
+      <Hero lang="en" />
     </>
   );
 }
