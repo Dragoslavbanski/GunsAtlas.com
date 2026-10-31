@@ -107,24 +107,25 @@
 /* ---------------------------- */
 
 .search {
+  position: relative;
   display: flex;
-  width: 330px;
+  width: 420px;
+  max-width: 100%;
 }
 
 .search input {
   flex: 1;
+  min-width: 0;
   height: 46px;
-  padding: 0 22px;
+  padding: 0 18px;
 
-  background: rgba(20, 20, 20, 0.92);
+  background: rgba(20, 20, 20, 0.96);
 
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
   border-right: none;
 
   color: white;
-
   font-size: 16px;
-
   outline: none;
 
   border-radius: 8px 0 0 8px;
@@ -134,26 +135,92 @@
   color: #8d8d8d;
 }
 
+.search input:focus {
+  border-color: #c89b45;
+}
+
 .search button {
-  width: 54px;
+  flex: 0 0 54px;
+  height: 46px;
 
   border: none;
-
   cursor: pointer;
 
   background: #c89b45;
-
   color: #111;
 
   font-size: 20px;
 
   border-radius: 0 8px 8px 0;
 
-  transition: 0.25s;
+  transition: background 0.25s;
 }
 
 .search button:hover {
   background: #ddb15a;
+}
+
+/* ---------------------------- */
+/* Search Results               */
+/* ---------------------------- */
+
+.searchResults {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+
+  width: 100%;
+  max-height: 360px;
+  overflow-y: auto;
+
+  background: rgba(15, 15, 15, 0.98);
+  border: 1px solid rgba(200, 155, 69, 0.45);
+  border-radius: 8px;
+
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.55);
+
+  z-index: 100;
+}
+
+.searchResult {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  padding: 12px 16px;
+
+  color: #f2f2f2;
+  text-decoration: none;
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+  transition: background 0.2s;
+}
+
+.searchResult:last-child {
+  border-bottom: none;
+}
+
+.searchResult:hover {
+  background: rgba(200, 155, 69, 0.16);
+}
+
+.resultTitle {
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  overflow-wrap: anywhere;
+}
+
+.resultCategory {
+  color: #c89b45;
+  font-size: 12px;
+}
+
+.noResults {
+  padding: 16px;
+  color: #bdbdbd;
+  font-size: 14px;
 }
 
 /* ---------------------------- */

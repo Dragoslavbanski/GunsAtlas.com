@@ -79,7 +79,7 @@ export const centerfireItems = [
 },
 {
   id: "7-5x27-fk",
-  title: "7,5 × 27 FK",
+  title: "7.5 × 27 FK",
 },
   {
     id: "7-62x25-tokarev",
