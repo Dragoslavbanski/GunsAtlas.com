@@ -111,6 +111,7 @@
   display: flex;
   width: 420px;
   max-width: 100%;
+  transform: translate(-20px, -20px);
 }
 
 .search input {
@@ -166,8 +167,9 @@
 
 .searchResults {
   position: absolute;
-  top: calc(100% + 8px);
-  left: 0;
+  top: auto;
+bottom: calc(100% + 8px);
+left: 0;
 
   width: 100%;
   max-height: 360px;

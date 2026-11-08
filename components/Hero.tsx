@@ -95,9 +95,10 @@ export default function Hero({
           </h1>
 
           <p className={styles.description}>
-            Explore the history, development and technical characteristics of
-            pistols, cartridges and ammunition from around the world.
-          </p>
+  {lang === "en"
+    ? "Explore the history, development and technical characteristics of pistols, cartridges and ammunition from around the world."
+    : "Разгледайте историята, развитието и техническите характеристики на пистолети, патрони и боеприпаси от цял свят."}
+</p>
 
           <form
             className={styles.search}

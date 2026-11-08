@@ -11,7 +11,7 @@ export default function Header({
     <header className={styles.header}>
       <Link href={lang === "en" ? "/en" : "/"} className={styles.logo}>
         <Image
-          src="/images/Logo.png.png"
+          src="/images/GunsAtlas_logo_transparent.png"
           alt="GunsAtlas"
           width={240}
           height={74}
@@ -34,7 +34,9 @@ export default function Header({
         </a>
         <a href="#">{lang === "en" ? "History" : "История"}</a>
         <a href="#">{lang === "en" ? "Legislation" : "Законодателство"}</a>
-        <a href="#">{lang === "en" ? "About" : "За проекта"}</a>
+        <Link href={lang === "en" ? "/en/about" : "/about"}>
+  {lang === "en" ? "About" : "За проекта"}
+</Link>
       </nav>
 
       <div className={styles.language}>
