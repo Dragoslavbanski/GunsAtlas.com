@@ -1,3 +1,4 @@
+
 .hero {
   position: relative;
   width: 100%;
@@ -17,23 +18,6 @@
   object-fit: cover;
   object-position: center 42%;
   transform: scale(0.90);
-}
-
-/* ===========================
-   Small GunsAtlas Logo
-=========================== */
-
-.heroLogo {
-  position: absolute;
-  top: -23px;
-  left: -3px;
-  z-index: 10;
-}
-
-.heroLogo img {
-  display: block;
-  width: 230px;
-  height: auto;
 }
 
 /* ===========================
